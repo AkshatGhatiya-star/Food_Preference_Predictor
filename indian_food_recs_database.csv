@@ -1,0 +1,2001 @@
+Weight,City,State,Temperature,Season,Income_Level,Stress_Level,Sleep_Hours,Work_Life_Balance,Context,Recommended_Food
+71,Nagpur,Maharashtra,35,Autumn,Medium,High,7,Good,Rural,Roti with Dal Tadka
+65,Ludhiana,Punjab,15,Winter,Medium,Low,5,Poor,Rural,Sprout Salad
+58,Agra,Uttar Pradesh,20,Autumn,High,Medium,5,Poor,Rural,Roti with Dal Tadka
+93,Bangalore,Karnataka,10,Autumn,High,Low,8,Poor,Urban,Oats Idli
+99,Indore,Madhya Pradesh,41,Winter,Medium,Medium,4,Average,Urban,Paneer Butter Masala
+75,Chandigarh,Chandigarh,41,Winter,Medium,Medium,4,Average,Rural,Sarson ka Saag with Makki di Roti
+100,Chennai,Tamil Nadu,40,Summer,Medium,Low,5,Poor,Rural,Quinoa Upma
+54,Ludhiana,Punjab,27,Autumn,Low,Low,4,Average,Rural,Vegetable Pulao
+96,Patna,Bihar,41,Monsoon,High,Medium,5,Good,Rural,Corn on the Cob (Bhutta)
+84,Guwahati,Assam,37,Autumn,High,High,6,Average,Rural,Moong Dal Khichdi
+72,Kolkata,West Bengal,22,Winter,High,Low,9,Good,Rural,Tandoori Chicken Salad
+82,Mumbai,Maharashtra,30,Monsoon,High,Medium,4,Good,Rural,Corn on the Cob (Bhutta)
+89,Lucknow,Uttar Pradesh,16,Summer,High,High,5,Average,Urban,Kadai Paneer
+73,Bhopal,Madhya Pradesh,11,Summer,Low,Medium,9,Excellent,Urban,Kulfi
+59,Srinagar,Jammu and Kashmir,31,Winter,Medium,High,8,Good,Urban,Moong Dal Khichdi
+85,Kolkata,West Bengal,17,Autumn,Medium,High,8,Good,Rural,Kadai Paneer
+85,Surat,Gujarat,19,Winter,Low,High,9,Average,Urban,Mutton Rogan Josh
+83,Pune,Maharashtra,18,Autumn,Medium,Medium,9,Excellent,Rural,Paneer Butter Masala
+64,Chennai,Tamil Nadu,20,Monsoon,High,Low,4,Poor,Rural,Sprout Salad
+53,Indore,Madhya Pradesh,35,Winter,Low,Medium,6,Good,Urban,Dal Makhani
+83,Kochi,Kerala,20,Summer,High,Medium,5,Poor,Rural,Aloo Gobi
+76,Srinagar,Jammu and Kashmir,14,Summer,High,High,4,Excellent,Rural,Roti with Dal Tadka
+62,Srinagar,Jammu and Kashmir,20,Summer,Low,Medium,7,Average,Rural,Curd Rice
+77,Chandigarh,Chandigarh,40,Winter,High,Low,6,Excellent,Urban,Dal Makhani
+97,Guwahati,Assam,32,Autumn,High,Low,7,Poor,Urban,Sprout Salad
+73,Varanasi,Uttar Pradesh,25,Autumn,Medium,High,5,Poor,Urban,Vegetable Pulao
+50,Ludhiana,Punjab,21,Winter,Low,Low,8,Average,Urban,Quinoa Upma
+70,Pune,Maharashtra,37,Monsoon,Medium,High,8,Excellent,Rural,Rajma Chawal
+62,Surat,Gujarat,20,Autumn,High,Medium,4,Good,Rural,Roti with Dal Tadka
+68,Lucknow,Uttar Pradesh,28,Summer,Medium,High,5,Poor,Rural,Rajma Chawal
+73,Jaipur,Rajasthan,32,Monsoon,Low,Medium,4,Good,Rural,Chole Bhature
+98,Delhi,Delhi,29,Summer,Low,High,4,Average,Rural,Paneer Butter Masala
+50,Agra,Uttar Pradesh,31,Summer,Low,Medium,5,Excellent,Rural,Kulfi
+62,Bangalore,Karnataka,28,Autumn,Medium,Medium,9,Poor,Urban,Paneer Butter Masala
+66,Bhopal,Madhya Pradesh,20,Autumn,Low,Low,7,Good,Urban,Tandoori Chicken Salad
+84,Bhopal,Madhya Pradesh,29,Autumn,High,High,6,Excellent,Rural,Paneer Butter Masala
+73,Agra,Uttar Pradesh,35,Winter,Low,Low,7,Poor,Rural,Quinoa Upma
+68,Agra,Uttar Pradesh,37,Monsoon,Medium,High,4,Good,Urban,Pakoras with Chai
+65,Kolkata,West Bengal,19,Monsoon,Low,Low,4,Good,Urban,Aloo Gobi
+79,Srinagar,Jammu and Kashmir,18,Autumn,Low,Low,8,Average,Urban,Tandoori Chicken Salad
+63,Indore,Madhya Pradesh,24,Autumn,High,Medium,4,Excellent,Urban,Chole Bhature
+69,Ahmedabad,Gujarat,29,Summer,Low,Medium,6,Excellent,Urban,Chole Bhature
+55,Pune,Maharashtra,35,Autumn,High,Low,6,Average,Rural,Oats Idli
+76,Chennai,Tamil Nadu,40,Winter,Medium,Low,7,Good,Rural,Roti with Dal Tadka
+52,Ahmedabad,Gujarat,10,Winter,Low,High,9,Good,Rural,Mutton Rogan Josh
+77,Srinagar,Jammu and Kashmir,18,Monsoon,Medium,High,8,Good,Rural,Samosa
+73,Srinagar,Jammu and Kashmir,18,Autumn,Medium,High,7,Good,Urban,Paneer Butter Masala
+76,Visakhapatnam,Andhra Pradesh,31,Summer,High,Low,8,Poor,Rural,Vegetable Pulao
+53,Indore,Madhya Pradesh,41,Autumn,High,Medium,9,Poor,Rural,Roti with Dal Tadka
+76,Guwahati,Assam,33,Winter,Low,Medium,6,Excellent,Urban,Chole Bhature
+79,Hyderabad,Telangana,16,Autumn,Medium,High,7,Excellent,Rural,Aloo Gobi
+96,Kolkata,West Bengal,27,Summer,Medium,Low,8,Excellent,Rural,Sprout Salad
+64,Chennai,Tamil Nadu,35,Monsoon,High,Medium,6,Excellent,Urban,Paneer Butter Masala
+62,Indore,Madhya Pradesh,18,Winter,Medium,High,8,Good,Urban,Roti with Dal Tadka
+62,Chennai,Tamil Nadu,34,Autumn,Medium,High,4,Good,Urban,Vegetable Pulao
+59,Bhopal,Madhya Pradesh,19,Winter,Low,Medium,5,Poor,Urban,Dal Makhani
+93,Bhopal,Madhya Pradesh,31,Winter,High,Medium,6,Average,Urban,Aloo Gobi
+68,Indore,Madhya Pradesh,26,Autumn,High,Low,6,Excellent,Rural,Tandoori Chicken Salad
+55,Ludhiana,Punjab,31,Monsoon,Medium,High,7,Excellent,Rural,Moong Dal Khichdi
+87,Agra,Uttar Pradesh,10,Summer,Low,Medium,6,Excellent,Urban,Kulfi
+81,Jaipur,Rajasthan,11,Autumn,Low,High,6,Good,Rural,Paneer Butter Masala
+79,Pune,Maharashtra,13,Autumn,Low,Medium,7,Poor,Urban,Roti with Dal Tadka
+53,Guwahati,Assam,34,Summer,High,High,9,Excellent,Rural,Kadai Paneer
+72,Chandigarh,Chandigarh,42,Autumn,Medium,High,9,Poor,Rural,Kadai Paneer
+88,Jaipur,Rajasthan,42,Autumn,Low,High,7,Good,Urban,Dal Makhani
+77,Kolkata,West Bengal,32,Winter,Medium,Medium,5,Good,Urban,Aloo Gobi
+85,Kochi,Kerala,35,Monsoon,Low,Medium,4,Average,Urban,Pakoras with Chai
+69,Lucknow,Uttar Pradesh,23,Monsoon,Medium,Low,5,Good,Rural,Chole Bhature
+83,Visakhapatnam,Andhra Pradesh,37,Winter,High,Medium,5,Good,Urban,Dal Makhani
+51,Varanasi,Uttar Pradesh,15,Monsoon,Medium,Low,7,Poor,Rural,Moong Dal Khichdi
+59,Visakhapatnam,Andhra Pradesh,14,Monsoon,High,High,7,Good,Urban,Pakoras with Chai
+64,Bangalore,Karnataka,40,Monsoon,High,High,8,Poor,Rural,Samosa
+58,Jaipur,Rajasthan,25,Winter,High,High,5,Good,Rural,Dal Makhani
+81,Kolkata,West Bengal,40,Autumn,High,High,8,Good,Urban,Paneer Butter Masala
+52,Guwahati,Assam,17,Autumn,High,Medium,6,Poor,Rural,Aloo Gobi
+94,Delhi,Delhi,39,Winter,Medium,High,8,Average,Urban,Moong Dal Khichdi
+94,Ludhiana,Punjab,11,Winter,Low,Low,4,Average,Urban,Aloo Gobi
+84,Ahmedabad,Gujarat,28,Autumn,Low,Medium,6,Poor,Rural,Roti with Dal Tadka
+94,Bhopal,Madhya Pradesh,14,Autumn,Low,Low,7,Good,Urban,Vegetable Pulao
+79,Bangalore,Karnataka,27,Winter,Low,Medium,8,Good,Urban,Aloo Gobi
+56,Chennai,Tamil Nadu,14,Monsoon,Medium,Medium,6,Poor,Urban,Roti with Dal Tadka
+51,Pune,Maharashtra,10,Winter,Medium,Low,5,Excellent,Urban,Oats Idli
+87,Kolkata,West Bengal,20,Autumn,Medium,Medium,5,Good,Urban,Roti with Dal Tadka
+77,Nagpur,Maharashtra,42,Monsoon,Low,Medium,9,Good,Urban,Aloo Gobi
+81,Hyderabad,Telangana,39,Monsoon,High,Medium,9,Poor,Rural,Aloo Gobi
+72,Ahmedabad,Gujarat,14,Monsoon,Medium,Medium,9,Average,Rural,Moong Dal Khichdi
+62,Surat,Gujarat,31,Autumn,Low,Low,9,Average,Rural,Aloo Gobi
+84,Nagpur,Maharashtra,24,Winter,Medium,Low,9,Good,Rural,Sprout Salad
+98,Ahmedabad,Gujarat,24,Monsoon,High,Medium,9,Average,Rural,Chole Bhature
+93,Mumbai,Maharashtra,27,Autumn,Low,High,4,Excellent,Rural,Dal Makhani
+92,Patna,Bihar,12,Summer,Low,Medium,6,Average,Rural,Chole Bhature
+80,Surat,Gujarat,30,Winter,High,Low,9,Poor,Rural,Quinoa Upma
+96,Nagpur,Maharashtra,10,Autumn,Low,High,6,Good,Rural,Paneer Butter Masala
+57,Hyderabad,Telangana,11,Monsoon,Low,High,7,Excellent,Urban,Chole Bhature
+98,Agra,Uttar Pradesh,30,Autumn,High,Low,9,Good,Rural,Roti with Dal Tadka
+71,Surat,Gujarat,34,Autumn,High,Low,4,Good,Rural,Tandoori Chicken Salad
+58,Ahmedabad,Gujarat,15,Monsoon,Low,Low,4,Good,Urban,Chole Bhature
+93,Bhopal,Madhya Pradesh,42,Autumn,Low,Low,8,Average,Rural,Chole Bhature
+57,Visakhapatnam,Andhra Pradesh,24,Autumn,Low,Low,4,Excellent,Urban,Quinoa Upma
+69,Pune,Maharashtra,41,Summer,Medium,High,9,Average,Urban,Rajma Chawal
+67,Nagpur,Maharashtra,40,Monsoon,Medium,Medium,6,Good,Rural,Vegetable Pulao
+77,Patna,Bihar,12,Autumn,High,Medium,4,Good,Urban,Paneer Butter Masala
+74,Varanasi,Uttar Pradesh,29,Summer,Medium,High,4,Excellent,Urban,Chole Bhature
+69,Bangalore,Karnataka,36,Autumn,High,Low,6,Excellent,Urban,Roti with Dal Tadka
+57,Patna,Bihar,34,Summer,High,High,4,Excellent,Rural,Roti with Dal Tadka
+79,Indore,Madhya Pradesh,17,Autumn,Low,Low,9,Poor,Urban,Paneer Butter Masala
+87,Jaipur,Rajasthan,24,Monsoon,High,Medium,7,Average,Urban,Paneer Butter Masala
+54,Guwahati,Assam,13,Monsoon,High,Medium,5,Excellent,Urban,Samosa
+82,Kochi,Kerala,31,Summer,Medium,Medium,9,Excellent,Rural,Vegetable Pulao
+77,Agra,Uttar Pradesh,40,Autumn,Low,High,7,Poor,Rural,Kadai Paneer
+89,Visakhapatnam,Andhra Pradesh,25,Winter,Medium,Low,6,Good,Rural,Vegetable Pulao
+72,Delhi,Delhi,10,Summer,Medium,High,6,Excellent,Rural,Vegetable Pulao
+68,Bangalore,Karnataka,21,Winter,High,Medium,9,Good,Rural,Gajar ka Halwa
+79,Bhopal,Madhya Pradesh,17,Monsoon,Low,Medium,8,Average,Urban,Corn on the Cob (Bhutta)
+62,Hyderabad,Telangana,32,Autumn,Medium,Medium,5,Good,Rural,Roti with Dal Tadka
+70,Kolkata,West Bengal,19,Summer,High,Low,4,Average,Rural,Chole Bhature
+68,Surat,Gujarat,13,Autumn,Low,Low,7,Excellent,Rural,Oats Idli
+99,Kochi,Kerala,40,Monsoon,High,High,5,Excellent,Rural,Dal Makhani
+50,Ludhiana,Punjab,31,Autumn,High,High,5,Excellent,Rural,Chole Bhature
+52,Chandigarh,Chandigarh,12,Monsoon,High,High,6,Good,Urban,Roti with Dal Tadka
+88,Agra,Uttar Pradesh,24,Summer,Low,High,7,Average,Rural,Vegetable Pulao
+79,Jaipur,Rajasthan,21,Winter,Low,High,4,Excellent,Urban,Rajma Chawal
+100,Agra,Uttar Pradesh,30,Winter,Medium,High,8,Poor,Rural,Rajma Chawal
+96,Ludhiana,Punjab,36,Winter,Medium,High,4,Poor,Rural,Dal Makhani
+66,Indore,Madhya Pradesh,30,Summer,Medium,Medium,5,Excellent,Urban,Aam Panna
+79,Bhopal,Madhya Pradesh,25,Summer,Medium,High,5,Good,Urban,Curd Rice
+83,Pune,Maharashtra,11,Monsoon,Medium,Low,9,Excellent,Rural,Corn on the Cob (Bhutta)
+90,Delhi,Delhi,42,Monsoon,Low,Medium,9,Average,Rural,Paneer Butter Masala
+81,Chennai,Tamil Nadu,18,Summer,Medium,High,5,Good,Urban,Aam Panna
+63,Bangalore,Karnataka,30,Summer,Low,Medium,4,Excellent,Rural,Kulfi
+62,Bangalore,Karnataka,29,Winter,Medium,Medium,4,Good,Urban,Chole Bhature
+96,Surat,Gujarat,12,Winter,High,Medium,5,Good,Urban,Vegetable Pulao
+71,Nagpur,Maharashtra,19,Autumn,Medium,High,5,Good,Rural,Vegetable Pulao
+61,Bangalore,Karnataka,22,Autumn,Low,High,7,Good,Urban,Kadai Paneer
+85,Nagpur,Maharashtra,18,Summer,High,Low,9,Good,Rural,Kulfi
+84,Agra,Uttar Pradesh,20,Monsoon,High,Low,7,Excellent,Rural,Tandoori Chicken Salad
+53,Pune,Maharashtra,18,Autumn,Medium,High,5,Good,Rural,Dal Makhani
+62,Patna,Bihar,18,Winter,High,Medium,8,Excellent,Urban,Vegetable Pulao
+56,Ahmedabad,Gujarat,28,Winter,Low,Low,5,Excellent,Rural,Roti with Dal Tadka
+72,Nagpur,Maharashtra,17,Summer,Medium,Medium,9,Average,Urban,Aam Panna
+61,Chandigarh,Chandigarh,38,Winter,High,High,8,Poor,Rural,Dal Makhani
+69,Visakhapatnam,Andhra Pradesh,22,Summer,High,Low,5,Poor,Urban,Lemon Rice
+61,Jaipur,Rajasthan,29,Winter,High,Low,6,Poor,Urban,Chole Bhature
+50,Agra,Uttar Pradesh,40,Monsoon,Medium,Medium,4,Average,Urban,Aloo Gobi
+98,Srinagar,Jammu and Kashmir,10,Winter,Medium,Medium,4,Poor,Urban,Roti with Dal Tadka
+77,Bangalore,Karnataka,12,Summer,High,High,9,Average,Rural,Aloo Gobi
+95,Varanasi,Uttar Pradesh,16,Monsoon,Low,Medium,7,Average,Urban,Chole Bhature
+79,Mumbai,Maharashtra,17,Summer,Low,Low,5,Poor,Rural,Oats Idli
+50,Agra,Uttar Pradesh,25,Autumn,Low,Medium,6,Poor,Urban,Aloo Gobi
+100,Hyderabad,Telangana,30,Winter,Medium,High,4,Excellent,Rural,Dal Makhani
+67,Lucknow,Uttar Pradesh,16,Winter,Low,Medium,5,Average,Urban,Sarson ka Saag with Makki di Roti
+50,Jaipur,Rajasthan,42,Winter,Low,Medium,6,Good,Urban,Mutton Rogan Josh
+99,Kochi,Kerala,39,Winter,High,Low,7,Excellent,Rural,Vegetable Pulao
+83,Surat,Gujarat,25,Winter,Medium,Medium,9,Excellent,Rural,Roti with Dal Tadka
+82,Bangalore,Karnataka,22,Autumn,Medium,Medium,5,Average,Urban,Vegetable Pulao
+62,Jaipur,Rajasthan,18,Monsoon,Low,Medium,6,Good,Rural,Chole Bhature
+60,Nagpur,Maharashtra,42,Monsoon,High,Medium,5,Poor,Rural,Vegetable Pulao
+100,Agra,Uttar Pradesh,33,Autumn,Low,Low,6,Average,Urban,Aloo Gobi
+56,Hyderabad,Telangana,41,Monsoon,Low,Medium,4,Average,Rural,Moong Dal Khichdi
+100,Chennai,Tamil Nadu,14,Autumn,High,Medium,5,Excellent,Rural,Paneer Butter Masala
+65,Guwahati,Assam,26,Autumn,Low,High,6,Excellent,Urban,Aloo Gobi
+66,Ahmedabad,Gujarat,17,Autumn,Medium,High,4,Poor,Urban,Chole Bhature
+69,Bhopal,Madhya Pradesh,14,Winter,Low,High,4,Average,Urban,Moong Dal Khichdi
+84,Delhi,Delhi,11,Summer,Medium,High,9,Excellent,Rural,Sprout Salad
+82,Nagpur,Maharashtra,19,Autumn,Low,High,6,Average,Rural,Moong Dal Khichdi
+66,Varanasi,Uttar Pradesh,20,Winter,High,Low,8,Excellent,Urban,Vegetable Pulao
+73,Agra,Uttar Pradesh,26,Monsoon,Medium,Medium,5,Good,Rural,Aloo Gobi
+71,Kolkata,West Bengal,26,Monsoon,Low,Medium,8,Excellent,Urban,Vegetable Pulao
+76,Varanasi,Uttar Pradesh,17,Autumn,High,Medium,7,Average,Rural,Roti with Dal Tadka
+52,Lucknow,Uttar Pradesh,14,Monsoon,Medium,Medium,4,Average,Urban,Roti with Dal Tadka
+83,Nagpur,Maharashtra,29,Monsoon,Low,High,6,Average,Rural,Dal Makhani
+59,Mumbai,Maharashtra,26,Summer,High,High,8,Average,Urban,Sprout Salad
+71,Bhopal,Madhya Pradesh,20,Autumn,Low,Low,4,Good,Urban,Roti with Dal Tadka
+68,Guwahati,Assam,33,Autumn,Low,Medium,9,Poor,Rural,Paneer Butter Masala
+67,Mumbai,Maharashtra,32,Winter,Medium,Low,9,Average,Rural,Sprout Salad
+77,Nagpur,Maharashtra,40,Autumn,Low,Low,5,Good,Rural,Roti with Dal Tadka
+96,Ludhiana,Punjab,40,Autumn,High,High,6,Average,Urban,Roti with Dal Tadka
+63,Delhi,Delhi,35,Monsoon,Low,Low,4,Poor,Urban,Aloo Gobi
+62,Delhi,Delhi,23,Monsoon,Low,High,9,Good,Urban,Samosa
+75,Ahmedabad,Gujarat,13,Autumn,Low,Medium,9,Good,Urban,Chole Bhature
+51,Pune,Maharashtra,15,Monsoon,Medium,High,9,Average,Urban,Corn on the Cob (Bhutta)
+53,Chandigarh,Chandigarh,33,Monsoon,High,Low,8,Good,Urban,Moong Dal Khichdi
+56,Varanasi,Uttar Pradesh,29,Winter,Medium,Medium,7,Poor,Urban,Gajar ka Halwa
+96,Chennai,Tamil Nadu,24,Summer,Low,Low,4,Excellent,Urban,Sprout Salad
+67,Nagpur,Maharashtra,16,Monsoon,High,High,9,Poor,Rural,Rajma Chawal
+77,Guwahati,Assam,35,Winter,Medium,Low,4,Poor,Rural,Quinoa Upma
+60,Mumbai,Maharashtra,33,Winter,High,High,6,Excellent,Urban,Dal Makhani
+60,Hyderabad,Telangana,33,Autumn,Low,Low,6,Excellent,Rural,Aloo Gobi
+63,Ludhiana,Punjab,31,Monsoon,Low,High,5,Good,Urban,Paneer Butter Masala
+66,Kolkata,West Bengal,20,Winter,Medium,High,9,Average,Rural,Moong Dal Khichdi
+97,Pune,Maharashtra,35,Autumn,Low,Medium,9,Average,Urban,Chole Bhature
+80,Agra,Uttar Pradesh,24,Autumn,Medium,High,9,Good,Rural,Dal Makhani
+82,Bangalore,Karnataka,34,Autumn,Low,Medium,7,Average,Urban,Vegetable Pulao
+70,Nagpur,Maharashtra,22,Winter,Medium,Low,6,Average,Rural,Aloo Gobi
+56,Bangalore,Karnataka,27,Summer,Low,High,7,Poor,Rural,Dal Makhani
+61,Chandigarh,Chandigarh,30,Autumn,High,Medium,7,Excellent,Rural,Chole Bhature
+56,Pune,Maharashtra,20,Summer,Low,Medium,6,Good,Urban,Kulfi
+64,Kolkata,West Bengal,22,Monsoon,Medium,High,6,Poor,Urban,Moong Dal Khichdi
+93,Indore,Madhya Pradesh,17,Monsoon,Medium,Low,9,Good,Urban,Samosa
+91,Mumbai,Maharashtra,20,Autumn,High,High,6,Poor,Rural,Dal Makhani
+78,Kolkata,West Bengal,37,Monsoon,Low,High,8,Poor,Urban,Moong Dal Khichdi
+50,Lucknow,Uttar Pradesh,28,Autumn,Medium,High,4,Excellent,Rural,Vegetable Pulao
+76,Ludhiana,Punjab,19,Autumn,High,High,4,Poor,Rural,Paneer Butter Masala
+52,Indore,Madhya Pradesh,14,Monsoon,Medium,High,5,Poor,Rural,Corn on the Cob (Bhutta)
+100,Delhi,Delhi,38,Summer,High,Medium,7,Poor,Rural,Kulfi
+82,Bangalore,Karnataka,12,Winter,High,Medium,9,Excellent,Rural,Aloo Gobi
+85,Visakhapatnam,Andhra Pradesh,36,Winter,Low,Low,7,Average,Rural,Roti with Dal Tadka
+55,Guwahati,Assam,24,Summer,Medium,Low,4,Average,Urban,Kulfi
+85,Chandigarh,Chandigarh,27,Monsoon,High,Low,7,Excellent,Urban,Moong Dal Khichdi
+64,Guwahati,Assam,13,Summer,Medium,Medium,7,Good,Urban,Vegetable Pulao
+83,Lucknow,Uttar Pradesh,28,Autumn,Medium,Low,8,Excellent,Rural,Sprout Salad
+85,Bangalore,Karnataka,36,Winter,High,Low,9,Poor,Rural,Sarson ka Saag with Makki di Roti
+99,Mumbai,Maharashtra,37,Autumn,High,High,8,Good,Urban,Chole Bhature
+60,Bangalore,Karnataka,24,Autumn,Low,High,7,Good,Rural,Kadai Paneer
+91,Delhi,Delhi,35,Autumn,High,High,9,Poor,Urban,Roti with Dal Tadka
+63,Nagpur,Maharashtra,30,Winter,High,High,6,Average,Rural,Dal Makhani
+84,Delhi,Delhi,12,Summer,Medium,Medium,5,Excellent,Rural,Sprout Salad
+54,Varanasi,Uttar Pradesh,31,Autumn,Medium,Low,5,Poor,Rural,Quinoa Upma
+54,Visakhapatnam,Andhra Pradesh,31,Autumn,High,Low,9,Good,Urban,Tandoori Chicken Salad
+76,Agra,Uttar Pradesh,32,Autumn,Medium,Low,9,Good,Rural,Aloo Gobi
+70,Pune,Maharashtra,24,Summer,Low,Medium,9,Poor,Urban,Aloo Gobi
+89,Kolkata,West Bengal,21,Winter,High,Low,8,Average,Urban,Tandoori Chicken Salad
+59,Agra,Uttar Pradesh,32,Autumn,Medium,Low,6,Poor,Urban,Chole Bhature
+95,Lucknow,Uttar Pradesh,38,Autumn,Low,Medium,7,Good,Urban,Paneer Butter Masala
+78,Ahmedabad,Gujarat,20,Summer,High,Medium,8,Good,Urban,Kulfi
+96,Pune,Maharashtra,30,Monsoon,Low,High,8,Good,Rural,Roti with Dal Tadka
+97,Ahmedabad,Gujarat,35,Autumn,Medium,High,7,Excellent,Rural,Paneer Butter Masala
+80,Agra,Uttar Pradesh,12,Summer,High,Medium,4,Excellent,Urban,Kulfi
+97,Delhi,Delhi,16,Winter,High,Medium,6,Poor,Rural,Sarson ka Saag with Makki di Roti
+82,Delhi,Delhi,38,Summer,High,Low,7,Excellent,Urban,Paneer Butter Masala
+73,Bangalore,Karnataka,34,Autumn,Medium,High,8,Average,Urban,Chole Bhature
+77,Mumbai,Maharashtra,24,Summer,High,Medium,5,Average,Rural,Kulfi
+98,Agra,Uttar Pradesh,25,Winter,Medium,High,8,Excellent,Urban,Chole Bhature
+67,Ahmedabad,Gujarat,31,Winter,Low,Medium,9,Good,Rural,Dal Makhani
+84,Hyderabad,Telangana,20,Autumn,High,Medium,4,Average,Urban,Chole Bhature
+65,Patna,Bihar,11,Summer,Low,High,8,Excellent,Rural,Curd Rice
+68,Surat,Gujarat,22,Winter,High,Medium,5,Excellent,Urban,Paneer Butter Masala
+79,Surat,Gujarat,23,Monsoon,High,Medium,6,Poor,Urban,Paneer Butter Masala
+52,Jaipur,Rajasthan,32,Autumn,Medium,Medium,4,Average,Rural,Roti with Dal Tadka
+84,Kochi,Kerala,13,Winter,Medium,High,5,Good,Rural,Vegetable Pulao
+53,Ahmedabad,Gujarat,26,Monsoon,High,Low,5,Poor,Urban,Quinoa Upma
+70,Srinagar,Jammu and Kashmir,27,Monsoon,Medium,Low,4,Average,Rural,Moong Dal Khichdi
+94,Hyderabad,Telangana,16,Winter,Low,High,7,Excellent,Rural,Aloo Gobi
+75,Chandigarh,Chandigarh,35,Winter,High,Low,5,Poor,Urban,Sarson ka Saag with Makki di Roti
+96,Chandigarh,Chandigarh,42,Winter,High,Low,6,Poor,Rural,Tandoori Chicken Salad
+53,Lucknow,Uttar Pradesh,23,Summer,Medium,High,8,Good,Rural,Roti with Dal Tadka
+70,Hyderabad,Telangana,29,Winter,Low,Medium,5,Excellent,Urban,Paneer Butter Masala
+61,Mumbai,Maharashtra,10,Autumn,High,Medium,8,Excellent,Urban,Aloo Gobi
+61,Mumbai,Maharashtra,28,Monsoon,High,Low,7,Average,Rural,Vegetable Pulao
+50,Indore,Madhya Pradesh,35,Monsoon,High,High,9,Average,Urban,Chole Bhature
+50,Bhopal,Madhya Pradesh,26,Winter,Low,High,9,Excellent,Urban,Mutton Rogan Josh
+54,Pune,Maharashtra,10,Summer,Low,Low,7,Poor,Rural,Curd Rice
+83,Surat,Gujarat,21,Monsoon,Medium,High,7,Excellent,Rural,Samosa
+62,Bangalore,Karnataka,19,Winter,Low,Low,7,Average,Urban,Chole Bhature
+85,Mumbai,Maharashtra,30,Monsoon,Low,Medium,4,Good,Urban,Chole Bhature
+95,Chandigarh,Chandigarh,26,Monsoon,High,High,5,Good,Urban,Chole Bhature
+65,Guwahati,Assam,12,Summer,Low,Low,4,Excellent,Urban,Paneer Butter Masala
+81,Agra,Uttar Pradesh,15,Winter,High,Low,4,Average,Urban,Vegetable Pulao
+73,Chennai,Tamil Nadu,17,Summer,Low,Low,8,Poor,Urban,Aam Panna
+93,Indore,Madhya Pradesh,31,Monsoon,Medium,Low,9,Excellent,Urban,Quinoa Upma
+75,Pune,Maharashtra,19,Summer,Medium,Low,9,Excellent,Urban,Quinoa Upma
+96,Jaipur,Rajasthan,21,Summer,Low,High,7,Average,Rural,Curd Rice
+90,Chennai,Tamil Nadu,13,Autumn,Low,Medium,4,Good,Urban,Paneer Butter Masala
+83,Ludhiana,Punjab,36,Autumn,Low,High,4,Excellent,Rural,Paneer Butter Masala
+58,Pune,Maharashtra,26,Winter,Low,High,9,Average,Urban,Aloo Gobi
+98,Varanasi,Uttar Pradesh,13,Summer,Medium,Medium,9,Good,Rural,Chole Bhature
+60,Ludhiana,Punjab,19,Summer,High,Medium,4,Excellent,Urban,Roti with Dal Tadka
+82,Bangalore,Karnataka,29,Winter,High,High,7,Excellent,Urban,Kadai Paneer
+82,Chandigarh,Chandigarh,35,Winter,Low,Low,8,Good,Urban,Roti with Dal Tadka
+61,Hyderabad,Telangana,14,Winter,High,Low,7,Good,Urban,Mutton Rogan Josh
+55,Delhi,Delhi,16,Monsoon,Medium,High,8,Excellent,Urban,Moong Dal Khichdi
+53,Patna,Bihar,11,Winter,Low,Medium,8,Average,Urban,Aloo Gobi
+56,Bangalore,Karnataka,42,Autumn,Medium,Medium,6,Excellent,Urban,Aloo Gobi
+90,Delhi,Delhi,31,Summer,High,Medium,4,Good,Rural,Chole Bhature
+54,Bangalore,Karnataka,23,Autumn,High,Medium,7,Average,Urban,Roti with Dal Tadka
+92,Ahmedabad,Gujarat,19,Autumn,High,High,7,Good,Rural,Rajma Chawal
+99,Ahmedabad,Gujarat,26,Autumn,Low,High,5,Poor,Rural,Vegetable Pulao
+79,Lucknow,Uttar Pradesh,14,Summer,High,High,6,Good,Urban,Kulfi
+73,Chandigarh,Chandigarh,40,Monsoon,Medium,Medium,4,Average,Rural,Chole Bhature
+92,Jaipur,Rajasthan,18,Autumn,Low,Low,4,Excellent,Urban,Aloo Gobi
+54,Chandigarh,Chandigarh,31,Monsoon,Medium,Low,5,Average,Rural,Vegetable Pulao
+85,Bangalore,Karnataka,33,Autumn,Low,Low,8,Poor,Urban,Sprout Salad
+51,Ahmedabad,Gujarat,35,Monsoon,Low,High,4,Excellent,Urban,Roti with Dal Tadka
+73,Chandigarh,Chandigarh,11,Summer,Medium,Low,7,Average,Urban,Sprout Salad
+61,Surat,Gujarat,26,Winter,Low,Medium,8,Average,Urban,Gajar ka Halwa
+95,Indore,Madhya Pradesh,13,Autumn,Medium,Medium,4,Excellent,Rural,Chole Bhature
+72,Chandigarh,Chandigarh,31,Monsoon,Low,High,4,Good,Urban,Rajma Chawal
+89,Chennai,Tamil Nadu,20,Winter,High,Medium,5,Excellent,Rural,Roti with Dal Tadka
+71,Delhi,Delhi,23,Monsoon,High,High,9,Average,Urban,Vegetable Pulao
+76,Indore,Madhya Pradesh,11,Winter,High,Medium,9,Poor,Rural,Gajar ka Halwa
+51,Guwahati,Assam,16,Autumn,High,Medium,9,Good,Urban,Aloo Gobi
+72,Bangalore,Karnataka,33,Winter,High,Low,4,Excellent,Urban,Oats Idli
+56,Ahmedabad,Gujarat,39,Autumn,Medium,Medium,9,Good,Urban,Roti with Dal Tadka
+59,Bangalore,Karnataka,16,Summer,Medium,Low,8,Poor,Urban,Oats Idli
+85,Chandigarh,Chandigarh,20,Summer,Low,High,5,Poor,Rural,Rajma Chawal
+79,Kolkata,West Bengal,20,Winter,High,Low,5,Excellent,Rural,Paneer Butter Masala
+88,Delhi,Delhi,16,Monsoon,Low,Medium,6,Average,Urban,Vegetable Pulao
+69,Bangalore,Karnataka,23,Autumn,Low,Low,9,Poor,Urban,Roti with Dal Tadka
+62,Srinagar,Jammu and Kashmir,18,Summer,Low,High,7,Good,Rural,Kadai Paneer
+77,Ahmedabad,Gujarat,14,Autumn,High,Low,6,Average,Rural,Quinoa Upma
+60,Chennai,Tamil Nadu,36,Autumn,Medium,Low,5,Good,Rural,Tandoori Chicken Salad
+52,Varanasi,Uttar Pradesh,36,Monsoon,Low,Medium,7,Excellent,Urban,Paneer Butter Masala
+74,Delhi,Delhi,29,Winter,High,Low,8,Good,Urban,Aloo Gobi
+83,Indore,Madhya Pradesh,17,Monsoon,High,High,9,Excellent,Rural,Aloo Gobi
+87,Nagpur,Maharashtra,35,Monsoon,High,High,5,Average,Rural,Chole Bhature
+86,Srinagar,Jammu and Kashmir,22,Monsoon,Low,Medium,8,Average,Rural,Vegetable Pulao
+68,Patna,Bihar,22,Summer,Medium,High,8,Poor,Rural,Aam Panna
+86,Surat,Gujarat,19,Winter,Medium,High,4,Good,Rural,Aloo Gobi
+73,Nagpur,Maharashtra,38,Winter,High,Low,7,Poor,Rural,Sprout Salad
+83,Ahmedabad,Gujarat,39,Winter,Low,Medium,9,Excellent,Rural,Gajar ka Halwa
+66,Mumbai,Maharashtra,15,Winter,Low,Medium,4,Good,Rural,Vegetable Pulao
+87,Bhopal,Madhya Pradesh,27,Summer,Low,Medium,9,Good,Rural,Roti with Dal Tadka
+71,Varanasi,Uttar Pradesh,29,Monsoon,Low,Low,9,Good,Rural,Oats Idli
+83,Agra,Uttar Pradesh,42,Summer,Low,High,4,Poor,Rural,Kadai Paneer
+76,Visakhapatnam,Andhra Pradesh,12,Winter,Medium,High,7,Good,Urban,Chole Bhature
+67,Bangalore,Karnataka,22,Monsoon,Medium,High,8,Average,Rural,Corn on the Cob (Bhutta)
+100,Ludhiana,Punjab,33,Autumn,Medium,High,4,Poor,Rural,Chole Bhature
+67,Surat,Gujarat,24,Autumn,Medium,Low,8,Excellent,Rural,Tandoori Chicken Salad
+76,Kolkata,West Bengal,42,Summer,Low,High,9,Excellent,Urban,Curd Rice
+91,Varanasi,Uttar Pradesh,17,Summer,Low,High,4,Excellent,Rural,Lemon Rice
+73,Surat,Gujarat,35,Summer,Medium,Low,8,Average,Urban,Sprout Salad
+82,Chennai,Tamil Nadu,30,Autumn,Low,Medium,8,Poor,Rural,Chole Bhature
+92,Bhopal,Madhya Pradesh,15,Winter,Low,Medium,9,Average,Rural,Aloo Gobi
+91,Bangalore,Karnataka,33,Summer,Medium,Low,9,Poor,Rural,Vegetable Pulao
+74,Delhi,Delhi,15,Autumn,Low,High,6,Poor,Rural,Chole Bhature
+52,Bangalore,Karnataka,33,Winter,Low,Low,4,Average,Urban,Dal Makhani
+54,Chandigarh,Chandigarh,16,Autumn,High,Medium,7,Excellent,Urban,Vegetable Pulao
+56,Kolkata,West Bengal,26,Winter,High,High,8,Good,Urban,Dal Makhani
+83,Pune,Maharashtra,29,Winter,High,Medium,5,Good,Urban,Mutton Rogan Josh
+92,Ahmedabad,Gujarat,14,Autumn,Medium,Low,4,Average,Rural,Chole Bhature
+70,Mumbai,Maharashtra,37,Summer,Medium,High,5,Excellent,Rural,Lemon Rice
+66,Delhi,Delhi,41,Autumn,Low,Medium,5,Poor,Urban,Vegetable Pulao
+78,Bangalore,Karnataka,26,Winter,High,High,5,Average,Urban,Dal Makhani
+87,Lucknow,Uttar Pradesh,33,Summer,Low,Medium,9,Average,Rural,Chole Bhature
+98,Guwahati,Assam,29,Winter,Medium,Medium,5,Excellent,Rural,Gajar ka Halwa
+89,Surat,Gujarat,38,Winter,High,High,4,Excellent,Urban,Dal Makhani
+53,Agra,Uttar Pradesh,28,Summer,Medium,Low,5,Poor,Urban,Curd Rice
+84,Patna,Bihar,39,Autumn,Medium,Low,4,Excellent,Rural,Chole Bhature
+84,Surat,Gujarat,29,Monsoon,Medium,High,6,Average,Urban,Samosa
+50,Visakhapatnam,Andhra Pradesh,36,Summer,Low,High,8,Poor,Urban,Kulfi
+69,Chennai,Tamil Nadu,26,Winter,Low,High,9,Good,Rural,Dal Makhani
+64,Jaipur,Rajasthan,21,Summer,Medium,Medium,4,Excellent,Urban,Curd Rice
+91,Lucknow,Uttar Pradesh,42,Winter,Medium,Low,9,Good,Rural,Oats Idli
+82,Surat,Gujarat,35,Autumn,Medium,High,6,Average,Rural,Paneer Butter Masala
+73,Mumbai,Maharashtra,36,Winter,High,Low,9,Excellent,Urban,Paneer Butter Masala
+56,Srinagar,Jammu and Kashmir,38,Monsoon,Low,Low,5,Average,Rural,Paneer Butter Masala
+54,Chennai,Tamil Nadu,34,Winter,Medium,Low,7,Poor,Urban,Gajar ka Halwa
+71,Lucknow,Uttar Pradesh,29,Winter,Medium,High,7,Poor,Rural,Kadai Paneer
+75,Hyderabad,Telangana,11,Summer,High,High,8,Average,Urban,Lemon Rice
+79,Pune,Maharashtra,39,Monsoon,Medium,Low,8,Excellent,Rural,Aloo Gobi
+60,Mumbai,Maharashtra,27,Monsoon,High,Medium,7,Excellent,Urban,Aloo Gobi
+87,Pune,Maharashtra,37,Summer,High,High,7,Excellent,Urban,Sprout Salad
+50,Nagpur,Maharashtra,21,Summer,Medium,Medium,9,Poor,Urban,Paneer Butter Masala
+64,Nagpur,Maharashtra,16,Summer,Low,Medium,8,Average,Urban,Roti with Dal Tadka
+58,Visakhapatnam,Andhra Pradesh,30,Autumn,Medium,High,4,Poor,Rural,Chole Bhature
+74,Nagpur,Maharashtra,32,Summer,Medium,Low,9,Excellent,Urban,Aam Panna
+75,Guwahati,Assam,20,Autumn,Medium,High,6,Excellent,Urban,Roti with Dal Tadka
+60,Varanasi,Uttar Pradesh,37,Monsoon,Low,Medium,7,Average,Rural,Chole Bhature
+65,Srinagar,Jammu and Kashmir,33,Summer,High,Low,8,Excellent,Urban,Quinoa Upma
+86,Agra,Uttar Pradesh,38,Monsoon,Medium,High,8,Average,Urban,Moong Dal Khichdi
+72,Bhopal,Madhya Pradesh,16,Winter,Low,High,6,Good,Urban,Dal Makhani
+57,Bangalore,Karnataka,11,Autumn,Low,Medium,7,Excellent,Rural,Chole Bhature
+69,Guwahati,Assam,29,Winter,Medium,Low,8,Poor,Urban,Chole Bhature
+51,Indore,Madhya Pradesh,37,Autumn,Low,Low,7,Good,Rural,Chole Bhature
+61,Surat,Gujarat,15,Autumn,Medium,Low,5,Good,Urban,Tandoori Chicken Salad
+55,Nagpur,Maharashtra,40,Monsoon,High,High,8,Poor,Urban,Samosa
+82,Jaipur,Rajasthan,18,Winter,High,Low,8,Excellent,Rural,Roti with Dal Tadka
+61,Delhi,Delhi,21,Autumn,Medium,High,6,Poor,Rural,Roti with Dal Tadka
+76,Agra,Uttar Pradesh,20,Autumn,Low,Medium,4,Poor,Urban,Paneer Butter Masala
+52,Delhi,Delhi,41,Autumn,High,Medium,9,Average,Rural,Roti with Dal Tadka
+81,Chandigarh,Chandigarh,14,Winter,High,Medium,6,Average,Rural,Paneer Butter Masala
+64,Chennai,Tamil Nadu,24,Monsoon,High,High,9,Good,Rural,Dal Makhani
+73,Chennai,Tamil Nadu,17,Winter,High,Medium,6,Average,Rural,Chole Bhature
+70,Kolkata,West Bengal,36,Summer,Medium,Medium,9,Average,Rural,Lemon Rice
+75,Varanasi,Uttar Pradesh,23,Monsoon,High,Low,9,Excellent,Urban,Sprout Salad
+91,Patna,Bihar,14,Summer,Low,High,8,Excellent,Rural,Aam Panna
+68,Bangalore,Karnataka,32,Autumn,Medium,High,7,Average,Urban,Aloo Gobi
+74,Bhopal,Madhya Pradesh,19,Autumn,High,High,5,Average,Urban,Aloo Gobi
+67,Ahmedabad,Gujarat,10,Winter,Medium,High,4,Good,Urban,Paneer Butter Masala
+93,Hyderabad,Telangana,12,Winter,Low,Medium,9,Poor,Rural,Roti with Dal Tadka
+92,Srinagar,Jammu and Kashmir,10,Monsoon,High,Medium,8,Average,Rural,Paneer Butter Masala
+72,Kochi,Kerala,38,Monsoon,Low,High,6,Good,Rural,Paneer Butter Masala
+78,Visakhapatnam,Andhra Pradesh,22,Summer,Low,Medium,7,Excellent,Rural,Chole Bhature
+76,Jaipur,Rajasthan,23,Monsoon,High,Medium,9,Excellent,Rural,Vegetable Pulao
+52,Hyderabad,Telangana,10,Winter,Medium,High,8,Excellent,Urban,Dal Makhani
+72,Lucknow,Uttar Pradesh,14,Autumn,Medium,Medium,4,Average,Urban,Chole Bhature
+60,Guwahati,Assam,30,Monsoon,Low,Low,9,Excellent,Urban,Chole Bhature
+66,Patna,Bihar,33,Summer,Medium,Low,8,Poor,Urban,Tandoori Chicken Salad
+67,Jaipur,Rajasthan,40,Winter,Medium,Medium,4,Excellent,Urban,Sarson ka Saag with Makki di Roti
+66,Indore,Madhya Pradesh,24,Winter,High,Medium,8,Poor,Urban,Vegetable Pulao
+52,Ludhiana,Punjab,39,Autumn,Low,High,9,Poor,Rural,Chole Bhature
+93,Bangalore,Karnataka,33,Monsoon,Low,High,6,Poor,Rural,Paneer Butter Masala
+67,Mumbai,Maharashtra,21,Winter,High,High,5,Average,Urban,Mutton Rogan Josh
+72,Hyderabad,Telangana,29,Monsoon,High,High,6,Poor,Rural,Moong Dal Khichdi
+91,Kolkata,West Bengal,34,Monsoon,High,Low,8,Average,Urban,Samosa
+84,Hyderabad,Telangana,32,Autumn,Low,High,9,Poor,Rural,Dal Makhani
+63,Patna,Bihar,41,Winter,Medium,High,5,Poor,Rural,Kadai Paneer
+84,Lucknow,Uttar Pradesh,37,Autumn,Medium,High,9,Poor,Rural,Roti with Dal Tadka
+83,Varanasi,Uttar Pradesh,41,Autumn,High,High,8,Average,Urban,Kadai Paneer
+83,Nagpur,Maharashtra,24,Winter,Low,High,5,Average,Urban,Rajma Chawal
+50,Bangalore,Karnataka,38,Monsoon,Low,High,8,Good,Rural,Kadai Paneer
+56,Ahmedabad,Gujarat,21,Summer,Low,Medium,8,Good,Urban,Aloo Gobi
+75,Lucknow,Uttar Pradesh,40,Monsoon,High,Low,9,Poor,Urban,Roti with Dal Tadka
+56,Chennai,Tamil Nadu,15,Summer,Medium,Low,6,Poor,Urban,Aloo Gobi
+83,Kolkata,West Bengal,25,Monsoon,Medium,Low,4,Excellent,Rural,Vegetable Pulao
+58,Delhi,Delhi,40,Summer,High,Low,4,Poor,Urban,Roti with Dal Tadka
+59,Jaipur,Rajasthan,18,Monsoon,High,High,4,Good,Urban,Corn on the Cob (Bhutta)
+79,Surat,Gujarat,25,Summer,Low,Low,4,Poor,Urban,Sprout Salad
+86,Bhopal,Madhya Pradesh,37,Monsoon,High,Low,7,Excellent,Rural,Corn on the Cob (Bhutta)
+94,Nagpur,Maharashtra,35,Autumn,Low,Low,8,Average,Rural,Sprout Salad
+78,Chennai,Tamil Nadu,32,Winter,Medium,Medium,9,Good,Urban,Chole Bhature
+60,Srinagar,Jammu and Kashmir,16,Winter,Low,Low,7,Average,Urban,Aloo Gobi
+61,Pune,Maharashtra,38,Winter,Low,High,7,Average,Rural,Vegetable Pulao
+78,Chennai,Tamil Nadu,37,Summer,Low,Low,6,Excellent,Rural,Aloo Gobi
+60,Chennai,Tamil Nadu,26,Winter,Low,Low,8,Average,Urban,Tandoori Chicken Salad
+56,Chennai,Tamil Nadu,13,Autumn,High,Low,6,Excellent,Rural,Masala Dosa
+62,Mumbai,Maharashtra,30,Monsoon,Medium,Low,6,Poor,Rural,Oats Idli
+62,Ludhiana,Punjab,15,Autumn,Medium,Low,9,Poor,Rural,Quinoa Upma
+82,Guwahati,Assam,25,Summer,High,High,8,Poor,Rural,Chole Bhature
+70,Srinagar,Jammu and Kashmir,16,Winter,Low,High,7,Poor,Rural,Sarson ka Saag with Makki di Roti
+65,Varanasi,Uttar Pradesh,26,Monsoon,Low,Low,6,Good,Urban,Samosa
+50,Ludhiana,Punjab,38,Summer,High,Low,9,Average,Rural,Curd Rice
+59,Guwahati,Assam,25,Winter,Low,High,4,Excellent,Urban,Gajar ka Halwa
+91,Mumbai,Maharashtra,31,Summer,High,Low,8,Poor,Urban,Roti with Dal Tadka
+54,Mumbai,Maharashtra,14,Autumn,Medium,Medium,9,Average,Rural,Paneer Butter Masala
+62,Delhi,Delhi,11,Monsoon,Low,Low,9,Average,Urban,Samosa
+97,Chennai,Tamil Nadu,14,Summer,High,Low,7,Excellent,Rural,Chole Bhature
+55,Kolkata,West Bengal,31,Summer,High,High,6,Poor,Rural,Kadai Paneer
+68,Kochi,Kerala,40,Autumn,High,High,4,Excellent,Urban,Paneer Butter Masala
+91,Agra,Uttar Pradesh,10,Winter,Low,Low,4,Excellent,Rural,Sprout Salad
+79,Jaipur,Rajasthan,28,Autumn,Medium,Medium,9,Poor,Rural,Aloo Gobi
+78,Lucknow,Uttar Pradesh,18,Summer,Low,Low,8,Excellent,Urban,Aloo Gobi
+75,Mumbai,Maharashtra,34,Autumn,Medium,Medium,8,Average,Urban,Paneer Butter Masala
+78,Guwahati,Assam,38,Autumn,Low,Low,9,Good,Rural,Aloo Gobi
+77,Hyderabad,Telangana,25,Summer,Medium,Low,4,Excellent,Urban,Aam Panna
+52,Ludhiana,Punjab,30,Autumn,Medium,High,9,Excellent,Rural,Aloo Gobi
+66,Bhopal,Madhya Pradesh,26,Autumn,Low,Low,7,Excellent,Rural,Chole Bhature
+85,Visakhapatnam,Andhra Pradesh,36,Autumn,Medium,Low,8,Good,Rural,Oats Idli
+93,Guwahati,Assam,21,Summer,Medium,High,7,Average,Rural,Moong Dal Khichdi
+91,Indore,Madhya Pradesh,17,Autumn,Low,Medium,9,Average,Urban,Roti with Dal Tadka
+64,Surat,Gujarat,21,Summer,High,Low,7,Excellent,Rural,Paneer Butter Masala
+97,Delhi,Delhi,35,Winter,Medium,High,6,Average,Urban,Mutton Rogan Josh
+75,Jaipur,Rajasthan,24,Monsoon,High,High,5,Excellent,Rural,Aloo Gobi
+83,Nagpur,Maharashtra,42,Summer,High,Low,8,Good,Rural,Paneer Butter Masala
+55,Lucknow,Uttar Pradesh,35,Monsoon,Medium,Medium,6,Average,Urban,Samosa
+98,Hyderabad,Telangana,14,Monsoon,Low,Low,9,Poor,Rural,Corn on the Cob (Bhutta)
+94,Lucknow,Uttar Pradesh,11,Autumn,Low,Medium,6,Good,Urban,Paneer Butter Masala
+58,Indore,Madhya Pradesh,38,Summer,Low,Medium,5,Average,Rural,Chole Bhature
+96,Varanasi,Uttar Pradesh,28,Monsoon,Low,Low,5,Good,Rural,Corn on the Cob (Bhutta)
+64,Bangalore,Karnataka,41,Summer,Medium,Medium,7,Poor,Rural,Paneer Butter Masala
+97,Kolkata,West Bengal,13,Winter,Medium,Low,5,Excellent,Rural,Mutton Rogan Josh
+72,Ludhiana,Punjab,32,Winter,Medium,Low,4,Poor,Rural,Sarson ka Saag with Makki di Roti
+79,Mumbai,Maharashtra,24,Autumn,Low,Low,7,Good,Urban,Sprout Salad
+91,Surat,Gujarat,13,Autumn,Medium,Low,4,Poor,Urban,Quinoa Upma
+93,Kochi,Kerala,42,Autumn,High,Low,7,Excellent,Urban,Aloo Gobi
+80,Bhopal,Madhya Pradesh,40,Autumn,Low,High,6,Average,Urban,Moong Dal Khichdi
+91,Hyderabad,Telangana,14,Summer,High,Low,9,Excellent,Rural,Paneer Butter Masala
+95,Guwahati,Assam,23,Autumn,Medium,High,7,Average,Rural,Moong Dal Khichdi
+92,Varanasi,Uttar Pradesh,38,Summer,Medium,Low,5,Poor,Rural,Aam Panna
+68,Nagpur,Maharashtra,22,Autumn,High,High,4,Poor,Urban,Chole Bhature
+64,Srinagar,Jammu and Kashmir,14,Autumn,Low,Medium,4,Poor,Urban,Paneer Butter Masala
+50,Jaipur,Rajasthan,18,Monsoon,Low,Medium,7,Average,Urban,Aloo Gobi
+82,Ahmedabad,Gujarat,25,Autumn,Low,High,6,Good,Urban,Rajma Chawal
+64,Varanasi,Uttar Pradesh,24,Autumn,Medium,Low,8,Excellent,Urban,Quinoa Upma
+96,Ludhiana,Punjab,38,Winter,High,Low,4,Excellent,Rural,Mutton Rogan Josh
+74,Jaipur,Rajasthan,38,Autumn,Medium,High,5,Poor,Rural,Chole Bhature
+68,Indore,Madhya Pradesh,40,Winter,Low,Low,7,Excellent,Rural,Gajar ka Halwa
+54,Srinagar,Jammu and Kashmir,10,Autumn,High,Medium,5,Average,Urban,Chole Bhature
+75,Chandigarh,Chandigarh,23,Autumn,High,High,8,Excellent,Urban,Chole Bhature
+68,Lucknow,Uttar Pradesh,20,Winter,High,Medium,4,Excellent,Rural,Aloo Gobi
+95,Kochi,Kerala,31,Autumn,High,Medium,5,Excellent,Urban,Roti with Dal Tadka
+93,Nagpur,Maharashtra,42,Summer,Medium,Medium,7,Average,Rural,Curd Rice
+52,Varanasi,Uttar Pradesh,35,Monsoon,High,High,9,Good,Rural,Kadai Paneer
+100,Agra,Uttar Pradesh,31,Autumn,High,High,6,Good,Urban,Rajma Chawal
+63,Mumbai,Maharashtra,32,Autumn,High,Medium,4,Good,Rural,Chole Bhature
+64,Chennai,Tamil Nadu,28,Winter,High,High,4,Average,Rural,Moong Dal Khichdi
+94,Srinagar,Jammu and Kashmir,42,Winter,Medium,Low,7,Average,Urban,Gajar ka Halwa
+78,Agra,Uttar Pradesh,41,Monsoon,Low,High,4,Excellent,Urban,Paneer Butter Masala
+100,Chandigarh,Chandigarh,10,Monsoon,Medium,High,7,Poor,Rural,Moong Dal Khichdi
+98,Varanasi,Uttar Pradesh,15,Winter,High,Medium,6,Average,Rural,Gajar ka Halwa
+69,Visakhapatnam,Andhra Pradesh,19,Monsoon,Low,High,6,Excellent,Urban,Roti with Dal Tadka
+75,Lucknow,Uttar Pradesh,33,Summer,Low,High,6,Excellent,Urban,Aam Panna
+97,Delhi,Delhi,29,Summer,Low,High,8,Average,Rural,Vegetable Pulao
+97,Agra,Uttar Pradesh,13,Monsoon,Low,Medium,7,Average,Urban,Chole Bhature
+79,Kochi,Kerala,37,Monsoon,Medium,Medium,4,Good,Rural,Roti with Dal Tadka
+83,Visakhapatnam,Andhra Pradesh,33,Summer,Medium,Low,6,Poor,Urban,Aam Panna
+78,Kolkata,West Bengal,41,Autumn,High,Low,5,Average,Urban,Paneer Butter Masala
+77,Chandigarh,Chandigarh,13,Monsoon,High,Medium,8,Excellent,Rural,Paneer Butter Masala
+72,Visakhapatnam,Andhra Pradesh,33,Monsoon,Medium,Medium,8,Poor,Rural,Samosa
+100,Visakhapatnam,Andhra Pradesh,38,Monsoon,Medium,High,7,Average,Rural,Dal Makhani
+64,Guwahati,Assam,31,Autumn,High,Medium,6,Good,Urban,Chole Bhature
+98,Pune,Maharashtra,19,Monsoon,High,Medium,5,Average,Urban,Paneer Butter Masala
+82,Lucknow,Uttar Pradesh,36,Monsoon,High,Medium,4,Poor,Urban,Corn on the Cob (Bhutta)
+86,Mumbai,Maharashtra,37,Autumn,High,High,5,Good,Urban,Aloo Gobi
+63,Delhi,Delhi,17,Summer,High,Medium,4,Average,Rural,Kulfi
+95,Ludhiana,Punjab,35,Autumn,High,Medium,7,Excellent,Urban,Vegetable Pulao
+88,Ludhiana,Punjab,10,Winter,Low,Medium,8,Excellent,Urban,Dal Makhani
+60,Ludhiana,Punjab,12,Autumn,High,Low,6,Excellent,Rural,Aloo Gobi
+66,Bhopal,Madhya Pradesh,37,Summer,High,Low,6,Good,Rural,Roti with Dal Tadka
+94,Patna,Bihar,15,Winter,Low,Low,8,Excellent,Rural,Gajar ka Halwa
+65,Agra,Uttar Pradesh,18,Autumn,Medium,Medium,9,Good,Urban,Vegetable Pulao
+84,Visakhapatnam,Andhra Pradesh,10,Summer,High,High,4,Excellent,Urban,Sprout Salad
+64,Indore,Madhya Pradesh,32,Autumn,Low,High,4,Good,Rural,Kadai Paneer
+72,Chandigarh,Chandigarh,14,Autumn,Medium,Medium,9,Average,Rural,Aloo Gobi
+72,Varanasi,Uttar Pradesh,37,Monsoon,High,Medium,6,Good,Rural,Pakoras with Chai
+78,Pune,Maharashtra,29,Winter,Low,Medium,7,Average,Rural,Sarson ka Saag with Makki di Roti
+94,Indore,Madhya Pradesh,29,Monsoon,Medium,Medium,9,Poor,Rural,Paneer Butter Masala
+71,Varanasi,Uttar Pradesh,35,Autumn,Low,Medium,6,Average,Rural,Vegetable Pulao
+77,Hyderabad,Telangana,26,Monsoon,Low,Medium,4,Excellent,Urban,Paneer Butter Masala
+68,Indore,Madhya Pradesh,29,Monsoon,Medium,Low,8,Good,Urban,Samosa
+83,Kochi,Kerala,24,Autumn,High,High,8,Excellent,Rural,Roti with Dal Tadka
+81,Delhi,Delhi,18,Winter,High,High,5,Average,Rural,Dal Makhani
+84,Ludhiana,Punjab,33,Summer,Low,High,9,Average,Rural,Roti with Dal Tadka
+75,Bangalore,Karnataka,20,Monsoon,Medium,Medium,4,Good,Rural,Samosa
+95,Nagpur,Maharashtra,35,Winter,Low,High,4,Poor,Urban,Kadai Paneer
+80,Mumbai,Maharashtra,28,Summer,High,Low,9,Excellent,Rural,Tandoori Chicken Salad
+85,Agra,Uttar Pradesh,37,Winter,High,Medium,4,Poor,Urban,Aloo Gobi
+69,Pune,Maharashtra,37,Summer,Low,Medium,9,Average,Urban,Aam Panna
+67,Mumbai,Maharashtra,19,Monsoon,High,Low,7,Average,Rural,Corn on the Cob (Bhutta)
+89,Delhi,Delhi,34,Monsoon,High,Low,7,Poor,Urban,Corn on the Cob (Bhutta)
+96,Nagpur,Maharashtra,39,Autumn,Medium,Medium,5,Average,Rural,Chole Bhature
+72,Lucknow,Uttar Pradesh,32,Autumn,Medium,High,4,Average,Urban,Aloo Gobi
+50,Guwahati,Assam,18,Autumn,High,Medium,5,Poor,Urban,Roti with Dal Tadka
+92,Delhi,Delhi,22,Monsoon,Medium,High,5,Excellent,Urban,Samosa
+92,Nagpur,Maharashtra,40,Winter,Low,Low,6,Poor,Rural,Paneer Butter Masala
+88,Indore,Madhya Pradesh,40,Winter,High,Medium,6,Good,Rural,Aloo Gobi
+61,Pune,Maharashtra,42,Autumn,High,Low,5,Poor,Rural,Vegetable Pulao
+91,Surat,Gujarat,29,Summer,Medium,Medium,7,Average,Urban,Aam Panna
+66,Bangalore,Karnataka,24,Autumn,Medium,Medium,5,Excellent,Rural,Aloo Gobi
+58,Surat,Gujarat,14,Autumn,Medium,Low,4,Average,Urban,Quinoa Upma
+72,Hyderabad,Telangana,41,Summer,High,Low,9,Good,Rural,Aam Panna
+77,Visakhapatnam,Andhra Pradesh,38,Summer,High,Medium,4,Average,Urban,Aloo Gobi
+60,Indore,Madhya Pradesh,13,Monsoon,High,High,8,Poor,Urban,Corn on the Cob (Bhutta)
+51,Ludhiana,Punjab,41,Summer,Low,High,9,Good,Rural,Dal Makhani
+83,Kochi,Kerala,35,Autumn,Medium,Low,7,Good,Urban,Chole Bhature
+86,Bhopal,Madhya Pradesh,12,Monsoon,Low,Medium,4,Excellent,Rural,Vegetable Pulao
+73,Pune,Maharashtra,19,Monsoon,Medium,High,5,Poor,Urban,Roti with Dal Tadka
+61,Mumbai,Maharashtra,11,Autumn,Medium,Low,7,Average,Urban,Quinoa Upma
+80,Chennai,Tamil Nadu,11,Summer,Low,Medium,5,Good,Urban,Aam Panna
+67,Bangalore,Karnataka,21,Summer,High,High,9,Poor,Urban,Aloo Gobi
+89,Pune,Maharashtra,35,Summer,Medium,Medium,5,Excellent,Urban,Lemon Rice
+88,Delhi,Delhi,29,Autumn,High,High,5,Good,Rural,Rajma Chawal
+92,Bangalore,Karnataka,31,Winter,Medium,Medium,4,Poor,Rural,Aloo Gobi
+93,Varanasi,Uttar Pradesh,31,Autumn,Low,High,6,Good,Rural,Paneer Butter Masala
+98,Ludhiana,Punjab,18,Autumn,Medium,Low,5,Excellent,Urban,Aloo Gobi
+70,Guwahati,Assam,42,Winter,Low,High,4,Average,Rural,Gajar ka Halwa
+94,Nagpur,Maharashtra,15,Autumn,High,High,6,Excellent,Urban,Kadai Paneer
+50,Mumbai,Maharashtra,25,Winter,High,Medium,6,Excellent,Rural,Gajar ka Halwa
+65,Varanasi,Uttar Pradesh,34,Summer,Medium,Low,6,Excellent,Rural,Curd Rice
+74,Lucknow,Uttar Pradesh,23,Monsoon,High,Medium,7,Average,Rural,Chole Bhature
+59,Hyderabad,Telangana,18,Autumn,High,Medium,8,Excellent,Rural,Aloo Gobi
+90,Delhi,Delhi,24,Winter,High,Low,7,Average,Rural,Chole Bhature
+56,Indore,Madhya Pradesh,41,Autumn,Low,Medium,4,Average,Rural,Vegetable Pulao
+89,Delhi,Delhi,20,Autumn,High,Medium,8,Poor,Urban,Vegetable Pulao
+68,Kolkata,West Bengal,31,Monsoon,Low,High,5,Average,Urban,Roti with Dal Tadka
+74,Ahmedabad,Gujarat,32,Autumn,High,High,6,Poor,Urban,Kadai Paneer
+56,Jaipur,Rajasthan,29,Monsoon,High,Medium,4,Good,Urban,Aloo Gobi
+87,Guwahati,Assam,16,Monsoon,High,High,8,Poor,Urban,Moong Dal Khichdi
+74,Srinagar,Jammu and Kashmir,15,Winter,High,High,4,Average,Rural,Chole Bhature
+90,Jaipur,Rajasthan,32,Monsoon,Low,Low,4,Poor,Urban,Oats Idli
+58,Mumbai,Maharashtra,17,Monsoon,Low,Medium,7,Good,Rural,Pakoras with Chai
+96,Delhi,Delhi,20,Monsoon,Medium,High,5,Excellent,Rural,Moong Dal Khichdi
+70,Nagpur,Maharashtra,34,Summer,Low,Medium,4,Poor,Rural,Lemon Rice
+86,Mumbai,Maharashtra,29,Autumn,Medium,Medium,9,Poor,Rural,Vegetable Pulao
+63,Jaipur,Rajasthan,17,Monsoon,High,Medium,6,Average,Rural,Roti with Dal Tadka
+93,Kolkata,West Bengal,20,Monsoon,Medium,Medium,5,Average,Rural,Roti with Dal Tadka
+81,Kochi,Kerala,15,Monsoon,Low,High,4,Average,Rural,Moong Dal Khichdi
+89,Indore,Madhya Pradesh,23,Monsoon,Low,High,5,Good,Rural,Vegetable Pulao
+66,Surat,Gujarat,29,Monsoon,Low,High,8,Good,Urban,Chole Bhature
+53,Bangalore,Karnataka,39,Summer,Low,High,6,Poor,Rural,Dal Makhani
+61,Pune,Maharashtra,27,Summer,High,Medium,5,Excellent,Rural,Roti with Dal Tadka
+95,Chandigarh,Chandigarh,40,Monsoon,Medium,High,7,Average,Urban,Chole Bhature
+69,Surat,Gujarat,33,Winter,Medium,Medium,5,Excellent,Rural,Sarson ka Saag with Makki di Roti
+53,Kolkata,West Bengal,27,Summer,Low,Low,8,Excellent,Rural,Tandoori Chicken Salad
+82,Hyderabad,Telangana,13,Winter,High,High,4,Poor,Urban,Sarson ka Saag with Makki di Roti
+83,Lucknow,Uttar Pradesh,23,Autumn,High,Medium,4,Good,Urban,Aloo Gobi
+64,Ludhiana,Punjab,14,Autumn,Medium,Medium,6,Average,Rural,Aloo Gobi
+85,Surat,Gujarat,34,Winter,Low,Medium,9,Good,Urban,Vegetable Pulao
+76,Delhi,Delhi,41,Winter,High,Low,9,Average,Rural,Roti with Dal Tadka
+89,Jaipur,Rajasthan,17,Winter,Medium,High,9,Poor,Rural,Chole Bhature
+74,Kochi,Kerala,25,Summer,Medium,Low,8,Poor,Urban,Kulfi
+71,Srinagar,Jammu and Kashmir,29,Autumn,Low,Medium,6,Excellent,Urban,Paneer Butter Masala
+65,Ludhiana,Punjab,16,Monsoon,High,Low,4,Excellent,Rural,Moong Dal Khichdi
+68,Jaipur,Rajasthan,13,Autumn,Medium,Low,8,Average,Urban,Sprout Salad
+68,Chandigarh,Chandigarh,23,Summer,Medium,High,9,Poor,Rural,Aloo Gobi
+82,Pune,Maharashtra,30,Monsoon,High,High,8,Excellent,Urban,Samosa
+91,Lucknow,Uttar Pradesh,25,Winter,High,Low,5,Poor,Rural,Oats Idli
+57,Ahmedabad,Gujarat,14,Winter,Medium,Low,5,Excellent,Rural,Gajar ka Halwa
+59,Bhopal,Madhya Pradesh,16,Summer,Low,Low,6,Excellent,Urban,Oats Idli
+69,Pune,Maharashtra,40,Summer,High,Low,5,Average,Urban,Vegetable Pulao
+82,Nagpur,Maharashtra,36,Monsoon,Low,Low,4,Good,Rural,Corn on the Cob (Bhutta)
+65,Pune,Maharashtra,17,Summer,High,Medium,6,Good,Rural,Paneer Butter Masala
+98,Indore,Madhya Pradesh,37,Winter,Medium,Low,9,Good,Urban,Quinoa Upma
+83,Kochi,Kerala,41,Monsoon,Low,Medium,5,Poor,Urban,Moong Dal Khichdi
+91,Indore,Madhya Pradesh,22,Autumn,Low,High,5,Average,Rural,Vegetable Pulao
+72,Lucknow,Uttar Pradesh,13,Summer,Low,Medium,5,Poor,Urban,Paneer Butter Masala
+54,Surat,Gujarat,10,Autumn,Medium,High,7,Poor,Urban,Moong Dal Khichdi
+94,Kochi,Kerala,39,Monsoon,High,Medium,7,Poor,Urban,Roti with Dal Tadka
+69,Hyderabad,Telangana,10,Summer,High,Low,7,Average,Rural,Roti with Dal Tadka
+96,Indore,Madhya Pradesh,40,Monsoon,Low,Low,9,Excellent,Rural,Corn on the Cob (Bhutta)
+72,Srinagar,Jammu and Kashmir,21,Monsoon,Low,High,6,Excellent,Rural,Moong Dal Khichdi
+74,Patna,Bihar,26,Summer,Medium,High,4,Excellent,Rural,Lemon Rice
+55,Ludhiana,Punjab,22,Autumn,Medium,High,8,Excellent,Urban,Moong Dal Khichdi
+50,Delhi,Delhi,13,Summer,High,Medium,4,Good,Urban,Lemon Rice
+63,Chennai,Tamil Nadu,12,Summer,High,Medium,4,Average,Urban,Paneer Butter Masala
+57,Ludhiana,Punjab,15,Winter,Low,Medium,5,Poor,Rural,Mutton Rogan Josh
+72,Kolkata,West Bengal,18,Monsoon,Low,High,7,Excellent,Rural,Moong Dal Khichdi
+65,Bangalore,Karnataka,28,Summer,Medium,Medium,9,Good,Urban,Aloo Gobi
+70,Nagpur,Maharashtra,35,Winter,Medium,High,6,Poor,Rural,Chole Bhature
+80,Nagpur,Maharashtra,11,Autumn,High,High,7,Good,Urban,Rajma Chawal
+53,Ludhiana,Punjab,38,Autumn,Low,Low,4,Excellent,Urban,Oats Idli
+80,Pune,Maharashtra,29,Autumn,High,High,6,Excellent,Urban,Chole Bhature
+83,Hyderabad,Telangana,28,Autumn,Medium,Low,6,Excellent,Urban,Chole Bhature
+100,Agra,Uttar Pradesh,23,Winter,Medium,Low,8,Average,Urban,Oats Idli
+87,Srinagar,Jammu and Kashmir,41,Monsoon,Low,Low,9,Average,Urban,Corn on the Cob (Bhutta)
+64,Chandigarh,Chandigarh,28,Winter,Medium,High,4,Average,Urban,Moong Dal Khichdi
+95,Chandigarh,Chandigarh,17,Monsoon,High,High,9,Excellent,Urban,Kadai Paneer
+100,Varanasi,Uttar Pradesh,24,Autumn,Medium,Low,8,Average,Rural,Chole Bhature
+63,Bhopal,Madhya Pradesh,34,Winter,Low,High,7,Average,Urban,Rajma Chawal
+96,Kolkata,West Bengal,15,Autumn,Medium,High,6,Good,Rural,Rajma Chawal
+56,Ludhiana,Punjab,33,Autumn,Low,High,5,Excellent,Rural,Roti with Dal Tadka
+69,Chennai,Tamil Nadu,32,Monsoon,Low,High,8,Good,Urban,Aloo Gobi
+75,Patna,Bihar,19,Winter,Medium,Low,4,Excellent,Urban,Mutton Rogan Josh
+92,Bangalore,Karnataka,22,Winter,High,Medium,8,Average,Urban,Mutton Rogan Josh
+71,Chandigarh,Chandigarh,30,Summer,Low,High,5,Average,Urban,Lemon Rice
+85,Lucknow,Uttar Pradesh,26,Summer,High,High,8,Excellent,Urban,Aloo Gobi
+84,Surat,Gujarat,26,Summer,Medium,Low,7,Poor,Urban,Aam Panna
+50,Jaipur,Rajasthan,29,Winter,High,Medium,5,Excellent,Rural,Dal Makhani
+89,Chennai,Tamil Nadu,23,Winter,High,High,6,Excellent,Rural,Mutton Rogan Josh
+72,Surat,Gujarat,10,Monsoon,Medium,Low,6,Good,Rural,Quinoa Upma
+65,Jaipur,Rajasthan,37,Summer,High,High,5,Good,Urban,Rajma Chawal
+97,Indore,Madhya Pradesh,32,Summer,Medium,Medium,7,Average,Rural,Sprout Salad
+74,Ahmedabad,Gujarat,35,Winter,High,Low,5,Good,Rural,Chole Bhature
+83,Guwahati,Assam,17,Autumn,Medium,Medium,5,Excellent,Urban,Roti with Dal Tadka
+91,Mumbai,Maharashtra,38,Monsoon,Medium,Medium,5,Good,Urban,Paneer Butter Masala
+86,Varanasi,Uttar Pradesh,17,Autumn,Low,Low,6,Excellent,Urban,Vegetable Pulao
+94,Bangalore,Karnataka,17,Winter,Medium,Low,5,Average,Urban,Mutton Rogan Josh
+59,Kolkata,West Bengal,19,Autumn,Medium,Low,6,Excellent,Urban,Sprout Salad
+50,Guwahati,Assam,37,Monsoon,High,High,8,Excellent,Rural,Paneer Butter Masala
+67,Surat,Gujarat,34,Monsoon,High,Medium,9,Average,Urban,Moong Dal Khichdi
+89,Ludhiana,Punjab,29,Summer,Low,Medium,8,Excellent,Rural,Kulfi
+96,Agra,Uttar Pradesh,33,Winter,High,Medium,8,Excellent,Urban,Sarson ka Saag with Makki di Roti
+83,Patna,Bihar,25,Monsoon,High,Medium,5,Average,Rural,Chole Bhature
+61,Ahmedabad,Gujarat,19,Autumn,Medium,Medium,9,Average,Urban,Vegetable Pulao
+54,Ludhiana,Punjab,11,Monsoon,High,Low,8,Excellent,Rural,Sprout Salad
+80,Indore,Madhya Pradesh,21,Winter,Low,Low,8,Excellent,Rural,Oats Idli
+93,Srinagar,Jammu and Kashmir,23,Monsoon,High,High,6,Excellent,Urban,Samosa
+100,Hyderabad,Telangana,21,Autumn,Low,Low,4,Good,Rural,Sprout Salad
+57,Jaipur,Rajasthan,42,Autumn,High,High,7,Average,Rural,Moong Dal Khichdi
+61,Agra,Uttar Pradesh,25,Winter,High,Medium,9,Good,Urban,Roti with Dal Tadka
+86,Agra,Uttar Pradesh,21,Winter,High,Medium,4,Average,Rural,Gajar ka Halwa
+83,Bhopal,Madhya Pradesh,30,Winter,Medium,Low,6,Good,Rural,Tandoori Chicken Salad
+82,Chennai,Tamil Nadu,20,Autumn,Medium,High,9,Poor,Rural,Dal Makhani
+89,Guwahati,Assam,21,Autumn,Medium,Low,9,Good,Urban,Sprout Salad
+98,Surat,Gujarat,15,Monsoon,Low,Medium,8,Excellent,Rural,Corn on the Cob (Bhutta)
+80,Guwahati,Assam,40,Monsoon,High,High,6,Poor,Urban,Moong Dal Khichdi
+95,Bangalore,Karnataka,28,Winter,Medium,High,6,Average,Rural,Roti with Dal Tadka
+56,Jaipur,Rajasthan,28,Monsoon,Low,Medium,6,Average,Rural,Roti with Dal Tadka
+73,Chandigarh,Chandigarh,12,Winter,Low,Medium,6,Excellent,Urban,Dal Makhani
+52,Srinagar,Jammu and Kashmir,33,Autumn,High,High,9,Average,Urban,Rajma Chawal
+56,Lucknow,Uttar Pradesh,22,Winter,Low,Low,9,Excellent,Urban,Sprout Salad
+74,Chandigarh,Chandigarh,11,Summer,High,High,9,Poor,Urban,Lemon Rice
+56,Chennai,Tamil Nadu,33,Winter,Medium,Low,8,Good,Rural,Oats Idli
+53,Ahmedabad,Gujarat,10,Autumn,Low,Low,5,Poor,Rural,Quinoa Upma
+71,Patna,Bihar,37,Winter,High,Medium,5,Excellent,Urban,Gajar ka Halwa
+88,Mumbai,Maharashtra,22,Autumn,High,Medium,7,Good,Urban,Paneer Butter Masala
+73,Patna,Bihar,20,Monsoon,High,Low,7,Average,Urban,Tandoori Chicken Salad
+63,Pune,Maharashtra,24,Monsoon,High,Medium,7,Excellent,Rural,Pakoras with Chai
+92,Surat,Gujarat,31,Autumn,Low,Medium,8,Average,Rural,Roti with Dal Tadka
+60,Kolkata,West Bengal,14,Summer,High,Low,7,Poor,Urban,Paneer Butter Masala
+53,Visakhapatnam,Andhra Pradesh,22,Summer,Low,High,6,Average,Rural,Dal Makhani
+86,Mumbai,Maharashtra,32,Autumn,Low,High,4,Excellent,Urban,Moong Dal Khichdi
+53,Guwahati,Assam,12,Summer,Medium,Medium,4,Poor,Urban,Chole Bhature
+80,Ludhiana,Punjab,16,Winter,High,Medium,5,Poor,Rural,Vegetable Pulao
+94,Pune,Maharashtra,20,Monsoon,Low,High,5,Good,Urban,Moong Dal Khichdi
+72,Surat,Gujarat,36,Monsoon,High,Low,9,Average,Urban,Moong Dal Khichdi
+57,Hyderabad,Telangana,24,Summer,High,Low,6,Poor,Urban,Oats Idli
+51,Hyderabad,Telangana,33,Summer,Medium,Medium,4,Excellent,Urban,Roti with Dal Tadka
+68,Bangalore,Karnataka,39,Summer,Low,Low,5,Average,Rural,Tandoori Chicken Salad
+68,Lucknow,Uttar Pradesh,13,Monsoon,Medium,Low,6,Excellent,Urban,Tandoori Chicken Salad
+53,Bhopal,Madhya Pradesh,22,Monsoon,Medium,Low,6,Good,Urban,Sprout Salad
+57,Guwahati,Assam,15,Autumn,Low,High,5,Average,Rural,Paneer Butter Masala
+57,Ludhiana,Punjab,34,Autumn,High,High,7,Excellent,Rural,Kadai Paneer
+52,Hyderabad,Telangana,23,Monsoon,High,Low,8,Excellent,Urban,Vegetable Pulao
+100,Bhopal,Madhya Pradesh,34,Autumn,Low,Low,6,Average,Rural,Roti with Dal Tadka
+87,Delhi,Delhi,23,Winter,High,Low,9,Excellent,Urban,Gajar ka Halwa
+69,Chennai,Tamil Nadu,23,Summer,Medium,Low,6,Good,Rural,Oats Idli
+86,Patna,Bihar,22,Monsoon,Low,Medium,7,Average,Rural,Corn on the Cob (Bhutta)
+77,Pune,Maharashtra,12,Winter,Medium,High,5,Average,Rural,Moong Dal Khichdi
+91,Nagpur,Maharashtra,35,Summer,High,Medium,4,Good,Rural,Curd Rice
+72,Patna,Bihar,18,Autumn,Low,Medium,9,Poor,Urban,Chole Bhature
+96,Srinagar,Jammu and Kashmir,17,Autumn,High,High,9,Poor,Urban,Rajma Chawal
+98,Guwahati,Assam,35,Winter,Low,High,9,Average,Rural,Dal Makhani
+53,Ludhiana,Punjab,42,Monsoon,Medium,Low,8,Excellent,Urban,Oats Idli
+56,Mumbai,Maharashtra,15,Summer,Medium,Low,5,Poor,Urban,Sprout Salad
+91,Patna,Bihar,16,Monsoon,Low,Medium,7,Poor,Rural,Pakoras with Chai
+66,Bangalore,Karnataka,12,Autumn,Low,Low,5,Good,Rural,Sprout Salad
+75,Indore,Madhya Pradesh,13,Autumn,Low,Low,7,Average,Urban,Quinoa Upma
+64,Chennai,Tamil Nadu,33,Autumn,High,High,5,Poor,Rural,Kadai Paneer
+75,Bhopal,Madhya Pradesh,13,Summer,Medium,Low,7,Poor,Rural,Aloo Gobi
+65,Kochi,Kerala,37,Winter,High,Low,7,Average,Urban,Chole Bhature
+97,Bangalore,Karnataka,34,Winter,High,High,5,Good,Rural,Paneer Butter Masala
+63,Hyderabad,Telangana,15,Autumn,Low,High,8,Good,Rural,Roti with Dal Tadka
+88,Chandigarh,Chandigarh,36,Winter,High,Medium,5,Good,Rural,Dal Makhani
+60,Chandigarh,Chandigarh,21,Summer,Medium,High,6,Poor,Urban,Lemon Rice
+61,Kolkata,West Bengal,31,Monsoon,High,Low,5,Good,Urban,Oats Idli
+90,Indore,Madhya Pradesh,21,Summer,Low,Medium,4,Average,Urban,Paneer Butter Masala
+50,Hyderabad,Telangana,35,Autumn,Low,Medium,8,Average,Rural,Aloo Gobi
+88,Nagpur,Maharashtra,40,Winter,Low,Medium,9,Average,Urban,Gajar ka Halwa
+77,Hyderabad,Telangana,11,Winter,High,Medium,8,Excellent,Rural,Hyderabadi Dum Biryani
+73,Agra,Uttar Pradesh,18,Monsoon,Low,Medium,7,Average,Rural,Samosa
+87,Guwahati,Assam,31,Winter,Low,Low,6,Poor,Urban,Dal Makhani
+63,Agra,Uttar Pradesh,28,Summer,Medium,Medium,9,Excellent,Rural,Paneer Butter Masala
+94,Srinagar,Jammu and Kashmir,41,Monsoon,Medium,Low,5,Average,Urban,Paneer Butter Masala
+68,Agra,Uttar Pradesh,27,Summer,High,Medium,5,Excellent,Rural,Paneer Butter Masala
+74,Surat,Gujarat,26,Summer,High,Low,9,Excellent,Rural,Quinoa Upma
+62,Ludhiana,Punjab,42,Autumn,Low,Low,7,Poor,Rural,Paneer Butter Masala
+89,Agra,Uttar Pradesh,25,Winter,High,Low,4,Poor,Urban,Dal Makhani
+67,Hyderabad,Telangana,19,Autumn,High,Medium,5,Average,Rural,Roti with Dal Tadka
+81,Chennai,Tamil Nadu,36,Autumn,Low,Low,9,Poor,Rural,Paneer Butter Masala
+73,Varanasi,Uttar Pradesh,29,Autumn,Low,Low,7,Poor,Rural,Vegetable Pulao
+69,Hyderabad,Telangana,16,Autumn,High,High,5,Good,Urban,Roti with Dal Tadka
+56,Indore,Madhya Pradesh,36,Monsoon,High,Low,7,Excellent,Urban,Tandoori Chicken Salad
+54,Srinagar,Jammu and Kashmir,21,Monsoon,High,High,7,Average,Urban,Samosa
+81,Kochi,Kerala,10,Winter,Medium,High,8,Good,Urban,Kadai Paneer
+87,Varanasi,Uttar Pradesh,22,Winter,Low,Medium,5,Excellent,Urban,Mutton Rogan Josh
+62,Chandigarh,Chandigarh,19,Autumn,Low,High,6,Excellent,Urban,Moong Dal Khichdi
+70,Kochi,Kerala,18,Autumn,Low,Medium,5,Poor,Urban,Aloo Gobi
+70,Mumbai,Maharashtra,34,Autumn,Medium,High,8,Excellent,Rural,Dal Makhani
+56,Nagpur,Maharashtra,11,Autumn,High,Low,8,Average,Rural,Aloo Gobi
+67,Chennai,Tamil Nadu,32,Monsoon,High,High,6,Excellent,Rural,Paneer Butter Masala
+92,Varanasi,Uttar Pradesh,28,Autumn,Medium,High,9,Good,Rural,Chole Bhature
+100,Lucknow,Uttar Pradesh,18,Winter,Low,Low,7,Poor,Rural,Oats Idli
+82,Pune,Maharashtra,25,Monsoon,Medium,High,8,Good,Urban,Roti with Dal Tadka
+86,Patna,Bihar,12,Summer,High,High,8,Average,Urban,Paneer Butter Masala
+52,Indore,Madhya Pradesh,18,Monsoon,Low,Medium,7,Average,Urban,Corn on the Cob (Bhutta)
+89,Lucknow,Uttar Pradesh,15,Winter,High,Low,7,Poor,Rural,Sarson ka Saag with Makki di Roti
+92,Nagpur,Maharashtra,40,Monsoon,High,Low,6,Excellent,Rural,Corn on the Cob (Bhutta)
+53,Delhi,Delhi,29,Summer,Low,High,5,Average,Urban,Rajma Chawal
+75,Hyderabad,Telangana,30,Summer,High,High,4,Excellent,Urban,Vegetable Pulao
+90,Patna,Bihar,17,Monsoon,High,High,7,Average,Rural,Aloo Gobi
+79,Delhi,Delhi,27,Summer,Low,Medium,4,Excellent,Rural,Roti with Dal Tadka
+73,Visakhapatnam,Andhra Pradesh,25,Monsoon,Low,High,4,Excellent,Urban,Kadai Paneer
+86,Kochi,Kerala,32,Summer,Low,Medium,7,Poor,Urban,Sprout Salad
+68,Visakhapatnam,Andhra Pradesh,14,Winter,Medium,Low,5,Poor,Rural,Aloo Gobi
+100,Indore,Madhya Pradesh,26,Autumn,High,Medium,7,Good,Rural,Chole Bhature
+99,Srinagar,Jammu and Kashmir,28,Summer,Low,High,7,Average,Rural,Curd Rice
+85,Visakhapatnam,Andhra Pradesh,15,Summer,High,Medium,8,Poor,Rural,Sprout Salad
+92,Visakhapatnam,Andhra Pradesh,28,Autumn,High,Low,7,Poor,Urban,Chole Bhature
+91,Lucknow,Uttar Pradesh,10,Winter,High,Low,7,Average,Rural,Aloo Gobi
+66,Agra,Uttar Pradesh,34,Monsoon,Low,Medium,4,Poor,Urban,Roti with Dal Tadka
+55,Pune,Maharashtra,22,Winter,Low,High,7,Excellent,Rural,Kadai Paneer
+84,Kochi,Kerala,36,Monsoon,Medium,Low,7,Good,Rural,Tandoori Chicken Salad
+85,Jaipur,Rajasthan,37,Monsoon,Medium,Medium,9,Poor,Urban,Aloo Gobi
+58,Pune,Maharashtra,14,Monsoon,Low,High,8,Poor,Rural,Vegetable Pulao
+84,Bangalore,Karnataka,28,Monsoon,Medium,Medium,5,Poor,Rural,Paneer Butter Masala
+75,Visakhapatnam,Andhra Pradesh,28,Monsoon,Medium,High,7,Average,Rural,Chole Bhature
+61,Surat,Gujarat,17,Autumn,High,Low,9,Average,Urban,Aloo Gobi
+91,Patna,Bihar,17,Monsoon,Medium,Low,6,Excellent,Rural,Tandoori Chicken Salad
+100,Kolkata,West Bengal,13,Monsoon,Medium,Low,6,Poor,Urban,Corn on the Cob (Bhutta)
+85,Ludhiana,Punjab,42,Winter,High,Medium,7,Excellent,Rural,Sarson ka Saag with Makki di Roti
+86,Ahmedabad,Gujarat,13,Winter,Medium,High,7,Good,Rural,Dal Makhani
+85,Surat,Gujarat,21,Autumn,High,Medium,9,Average,Rural,Roti with Dal Tadka
+81,Surat,Gujarat,13,Winter,High,Low,6,Excellent,Urban,Oats Idli
+89,Lucknow,Uttar Pradesh,40,Monsoon,Low,Low,4,Good,Rural,Quinoa Upma
+90,Visakhapatnam,Andhra Pradesh,20,Winter,Medium,Medium,5,Average,Urban,Chole Bhature
+51,Chandigarh,Chandigarh,26,Monsoon,Medium,Low,8,Excellent,Rural,Quinoa Upma
+78,Hyderabad,Telangana,34,Autumn,Medium,Low,8,Poor,Urban,Roti with Dal Tadka
+72,Surat,Gujarat,15,Autumn,Medium,Low,7,Good,Rural,Sprout Salad
+73,Jaipur,Rajasthan,28,Monsoon,High,High,9,Average,Urban,Dal Makhani
+73,Ahmedabad,Gujarat,33,Monsoon,High,Low,9,Average,Rural,Oats Idli
+76,Patna,Bihar,31,Monsoon,Low,Medium,7,Good,Rural,Moong Dal Khichdi
+76,Patna,Bihar,31,Autumn,High,High,8,Average,Rural,Vegetable Pulao
+51,Chandigarh,Chandigarh,15,Summer,Medium,Low,6,Excellent,Urban,Tandoori Chicken Salad
+86,Ludhiana,Punjab,33,Autumn,High,High,5,Good,Rural,Paneer Butter Masala
+80,Patna,Bihar,42,Summer,Medium,Medium,9,Average,Rural,Chole Bhature
+54,Surat,Gujarat,38,Summer,Low,High,4,Good,Urban,Kulfi
+81,Visakhapatnam,Andhra Pradesh,14,Monsoon,Low,Medium,6,Average,Rural,Aloo Gobi
+51,Srinagar,Jammu and Kashmir,14,Winter,Low,Medium,5,Poor,Rural,Dal Makhani
+96,Ahmedabad,Gujarat,28,Summer,Low,Low,6,Poor,Rural,Paneer Butter Masala
+77,Hyderabad,Telangana,20,Monsoon,Medium,Medium,7,Average,Rural,Samosa
+51,Bhopal,Madhya Pradesh,16,Summer,Medium,Low,4,Poor,Rural,Curd Rice
+57,Nagpur,Maharashtra,37,Summer,Medium,Low,9,Average,Rural,Paneer Butter Masala
+81,Lucknow,Uttar Pradesh,24,Autumn,High,Medium,6,Average,Rural,Vegetable Pulao
+54,Pune,Maharashtra,27,Monsoon,Medium,Medium,8,Poor,Urban,Aloo Gobi
+98,Ahmedabad,Gujarat,10,Summer,Medium,High,5,Good,Urban,Rajma Chawal
+94,Delhi,Delhi,13,Summer,Medium,High,7,Good,Rural,Aam Panna
+65,Guwahati,Assam,21,Summer,Medium,Medium,6,Poor,Rural,Kulfi
+84,Pune,Maharashtra,14,Monsoon,High,High,5,Excellent,Rural,Aloo Gobi
+94,Hyderabad,Telangana,38,Winter,Medium,High,6,Excellent,Rural,Roti with Dal Tadka
+71,Varanasi,Uttar Pradesh,36,Autumn,High,Medium,9,Average,Urban,Aloo Gobi
+87,Indore,Madhya Pradesh,15,Autumn,High,Medium,4,Average,Urban,Roti with Dal Tadka
+81,Lucknow,Uttar Pradesh,10,Autumn,High,High,8,Excellent,Urban,Aloo Gobi
+74,Ludhiana,Punjab,34,Winter,Medium,High,4,Excellent,Urban,Moong Dal Khichdi
+70,Pune,Maharashtra,20,Summer,High,Low,7,Excellent,Rural,Tandoori Chicken Salad
+53,Hyderabad,Telangana,16,Monsoon,Low,Low,9,Good,Rural,Vegetable Pulao
+67,Chandigarh,Chandigarh,15,Summer,High,Medium,5,Excellent,Rural,Vegetable Pulao
+76,Mumbai,Maharashtra,20,Winter,Medium,High,4,Excellent,Rural,Sarson ka Saag with Makki di Roti
+61,Visakhapatnam,Andhra Pradesh,10,Winter,Medium,High,7,Poor,Rural,Paneer Butter Masala
+76,Bhopal,Madhya Pradesh,19,Winter,Low,High,4,Poor,Urban,Aloo Gobi
+52,Hyderabad,Telangana,16,Monsoon,Low,High,6,Average,Rural,Roti with Dal Tadka
+70,Delhi,Delhi,25,Autumn,Low,Medium,7,Excellent,Urban,Roti with Dal Tadka
+93,Nagpur,Maharashtra,26,Winter,Medium,High,6,Excellent,Urban,Dal Makhani
+71,Kochi,Kerala,35,Winter,Low,Medium,4,Poor,Rural,Aloo Gobi
+57,Jaipur,Rajasthan,18,Winter,High,High,5,Excellent,Rural,Vegetable Pulao
+50,Bangalore,Karnataka,40,Summer,Low,High,8,Good,Urban,Lemon Rice
+67,Agra,Uttar Pradesh,21,Monsoon,High,High,9,Poor,Urban,Pakoras with Chai
+55,Kochi,Kerala,18,Autumn,High,Low,5,Average,Rural,Vegetable Pulao
+96,Srinagar,Jammu and Kashmir,20,Winter,High,Low,9,Good,Urban,Aloo Gobi
+93,Visakhapatnam,Andhra Pradesh,19,Summer,Low,High,7,Excellent,Urban,Kulfi
+77,Jaipur,Rajasthan,26,Winter,Low,High,7,Excellent,Rural,Dal Makhani
+84,Srinagar,Jammu and Kashmir,29,Monsoon,High,Medium,8,Poor,Urban,Chole Bhature
+93,Ludhiana,Punjab,29,Summer,High,Medium,4,Excellent,Rural,Aam Panna
+94,Ludhiana,Punjab,35,Winter,Medium,High,7,Poor,Rural,Aloo Gobi
+89,Chennai,Tamil Nadu,41,Summer,High,Low,5,Poor,Rural,Sprout Salad
+70,Mumbai,Maharashtra,22,Summer,Medium,High,7,Good,Rural,Dal Makhani
+81,Ahmedabad,Gujarat,17,Monsoon,Medium,High,5,Average,Urban,Kadai Paneer
+99,Mumbai,Maharashtra,17,Autumn,High,Low,5,Good,Rural,Tandoori Chicken Salad
+62,Visakhapatnam,Andhra Pradesh,28,Summer,Low,Medium,9,Average,Rural,Aloo Gobi
+66,Chandigarh,Chandigarh,13,Autumn,Medium,Medium,6,Excellent,Urban,Chole Bhature
+87,Indore,Madhya Pradesh,21,Autumn,Low,High,6,Poor,Urban,Paneer Butter Masala
+92,Chennai,Tamil Nadu,32,Autumn,Low,Medium,8,Average,Urban,Vegetable Pulao
+76,Srinagar,Jammu and Kashmir,11,Autumn,Low,Low,5,Excellent,Urban,Chole Bhature
+92,Indore,Madhya Pradesh,15,Monsoon,Medium,High,5,Poor,Rural,Kadai Paneer
+77,Ahmedabad,Gujarat,14,Autumn,Medium,High,7,Average,Rural,Roti with Dal Tadka
+73,Ludhiana,Punjab,14,Autumn,Medium,Low,4,Excellent,Rural,Roti with Dal Tadka
+75,Chennai,Tamil Nadu,41,Summer,Low,Medium,8,Average,Urban,Sprout Salad
+90,Nagpur,Maharashtra,13,Autumn,Medium,High,4,Good,Rural,Moong Dal Khichdi
+86,Kochi,Kerala,42,Monsoon,Low,Low,9,Average,Rural,Vegetable Pulao
+86,Surat,Gujarat,29,Autumn,Low,Medium,6,Good,Rural,Chole Bhature
+65,Chennai,Tamil Nadu,32,Monsoon,Medium,Medium,9,Average,Urban,Chole Bhature
+94,Ahmedabad,Gujarat,13,Monsoon,Medium,Low,7,Poor,Urban,Oats Idli
+63,Mumbai,Maharashtra,21,Winter,Medium,Medium,8,Excellent,Urban,Chole Bhature
+80,Lucknow,Uttar Pradesh,41,Summer,Low,Low,6,Excellent,Urban,Roti with Dal Tadka
+65,Bhopal,Madhya Pradesh,30,Winter,Medium,Low,6,Excellent,Rural,Oats Idli
+79,Bhopal,Madhya Pradesh,30,Monsoon,High,High,4,Average,Rural,Paneer Butter Masala
+68,Hyderabad,Telangana,18,Monsoon,Medium,Medium,9,Excellent,Rural,Chole Bhature
+75,Kochi,Kerala,16,Summer,Low,Medium,5,Excellent,Urban,Aloo Gobi
+89,Visakhapatnam,Andhra Pradesh,40,Winter,High,High,9,Poor,Urban,Rajma Chawal
+93,Ludhiana,Punjab,14,Winter,Medium,High,7,Average,Rural,Sarson ka Saag with Makki di Roti
+93,Pune,Maharashtra,25,Autumn,Low,Low,7,Good,Urban,Chole Bhature
+62,Bhopal,Madhya Pradesh,19,Winter,Medium,High,4,Excellent,Rural,Moong Dal Khichdi
+87,Kochi,Kerala,16,Summer,Low,Medium,7,Good,Rural,Paneer Butter Masala
+71,Lucknow,Uttar Pradesh,27,Winter,Medium,Medium,4,Excellent,Rural,Chole Bhature
+59,Kolkata,West Bengal,14,Winter,High,Medium,6,Poor,Urban,Sarson ka Saag with Makki di Roti
+56,Delhi,Delhi,19,Winter,Medium,Low,6,Average,Rural,Sarson ka Saag with Makki di Roti
+67,Lucknow,Uttar Pradesh,24,Winter,Medium,Medium,9,Poor,Urban,Dal Makhani
+84,Ludhiana,Punjab,26,Winter,Low,Low,8,Good,Rural,Oats Idli
+96,Ahmedabad,Gujarat,15,Monsoon,Low,Low,6,Poor,Urban,Chole Bhature
+100,Guwahati,Assam,17,Winter,Medium,Low,5,Good,Rural,Vegetable Pulao
+94,Ludhiana,Punjab,32,Summer,Low,Low,6,Average,Urban,Curd Rice
+71,Kochi,Kerala,30,Winter,High,High,8,Poor,Rural,Roti with Dal Tadka
+79,Mumbai,Maharashtra,23,Summer,Medium,High,4,Average,Rural,Roti with Dal Tadka
+89,Ludhiana,Punjab,11,Winter,Medium,Medium,8,Poor,Urban,Vegetable Pulao
+73,Ahmedabad,Gujarat,39,Summer,High,High,7,Poor,Urban,Aam Panna
+60,Mumbai,Maharashtra,40,Autumn,High,Medium,9,Average,Rural,Aloo Gobi
+84,Pune,Maharashtra,42,Winter,Medium,High,8,Good,Rural,Mutton Rogan Josh
+84,Hyderabad,Telangana,41,Autumn,High,Low,9,Poor,Urban,Tandoori Chicken Salad
+81,Patna,Bihar,40,Summer,Medium,High,5,Average,Urban,Moong Dal Khichdi
+66,Hyderabad,Telangana,21,Winter,High,Medium,9,Poor,Rural,Paneer Butter Masala
+61,Ahmedabad,Gujarat,28,Monsoon,High,Medium,7,Good,Urban,Roti with Dal Tadka
+60,Jaipur,Rajasthan,14,Winter,High,Low,5,Average,Urban,Quinoa Upma
+88,Kochi,Kerala,18,Winter,Medium,Medium,9,Poor,Rural,Vegetable Pulao
+60,Hyderabad,Telangana,31,Monsoon,High,Medium,4,Poor,Rural,Samosa
+54,Guwahati,Assam,28,Monsoon,Medium,High,8,Average,Urban,Rajma Chawal
+85,Indore,Madhya Pradesh,42,Winter,High,Low,9,Poor,Urban,Paneer Butter Masala
+53,Kolkata,West Bengal,24,Summer,Low,Low,5,Good,Urban,Oats Idli
+64,Hyderabad,Telangana,24,Autumn,Medium,Low,9,Excellent,Rural,Paneer Butter Masala
+58,Nagpur,Maharashtra,22,Autumn,High,Low,9,Good,Urban,Tandoori Chicken Salad
+60,Nagpur,Maharashtra,12,Monsoon,Medium,Low,6,Poor,Urban,Moong Dal Khichdi
+88,Hyderabad,Telangana,38,Summer,Medium,High,6,Poor,Rural,Vegetable Pulao
+60,Ahmedabad,Gujarat,29,Winter,Medium,Low,8,Average,Urban,Chole Bhature
+67,Kochi,Kerala,23,Winter,High,Low,4,Good,Rural,Aloo Gobi
+69,Bhopal,Madhya Pradesh,22,Monsoon,Medium,High,5,Poor,Urban,Moong Dal Khichdi
+52,Kochi,Kerala,37,Winter,Low,High,9,Average,Rural,Dal Makhani
+92,Visakhapatnam,Andhra Pradesh,33,Autumn,High,Medium,8,Good,Rural,Roti with Dal Tadka
+97,Mumbai,Maharashtra,20,Autumn,Medium,High,6,Good,Urban,Aloo Gobi
+90,Guwahati,Assam,32,Winter,Medium,Medium,6,Average,Urban,Sarson ka Saag with Makki di Roti
+71,Kochi,Kerala,25,Summer,High,High,9,Good,Urban,Roti with Dal Tadka
+94,Chandigarh,Chandigarh,40,Summer,High,Medium,4,Good,Rural,Chole Bhature
+76,Mumbai,Maharashtra,15,Summer,Low,High,8,Poor,Urban,Chole Bhature
+87,Ludhiana,Punjab,25,Autumn,High,Low,4,Good,Urban,Paneer Butter Masala
+77,Kochi,Kerala,42,Winter,Medium,High,9,Good,Urban,Dal Makhani
+100,Chennai,Tamil Nadu,16,Autumn,High,Low,9,Poor,Urban,Sprout Salad
+63,Chandigarh,Chandigarh,11,Monsoon,Medium,Low,8,Average,Rural,Roti with Dal Tadka
+67,Varanasi,Uttar Pradesh,26,Summer,High,Low,5,Good,Rural,Roti with Dal Tadka
+69,Agra,Uttar Pradesh,14,Autumn,Medium,Low,9,Poor,Rural,Paneer Butter Masala
+68,Agra,Uttar Pradesh,42,Winter,Medium,High,5,Poor,Urban,Dal Makhani
+97,Nagpur,Maharashtra,27,Summer,Medium,Medium,4,Poor,Urban,Vegetable Pulao
+58,Agra,Uttar Pradesh,32,Summer,Low,Low,7,Poor,Rural,Curd Rice
+71,Delhi,Delhi,16,Monsoon,Low,Low,9,Poor,Urban,Corn on the Cob (Bhutta)
+72,Surat,Gujarat,11,Winter,Low,Low,4,Poor,Urban,Oats Idli
+58,Delhi,Delhi,26,Summer,Medium,High,4,Excellent,Rural,Vegetable Pulao
+83,Agra,Uttar Pradesh,26,Summer,High,Low,8,Excellent,Rural,Lemon Rice
+81,Hyderabad,Telangana,31,Summer,High,Low,4,Good,Urban,Aam Panna
+70,Delhi,Delhi,11,Monsoon,High,Low,6,Good,Rural,Samosa
+73,Ludhiana,Punjab,25,Autumn,Medium,High,6,Average,Rural,Kadai Paneer
+75,Ludhiana,Punjab,29,Summer,Low,High,8,Average,Urban,Moong Dal Khichdi
+59,Patna,Bihar,15,Autumn,Medium,High,4,Excellent,Urban,Litti Chokha
+66,Delhi,Delhi,35,Summer,High,High,5,Poor,Rural,Lemon Rice
+78,Surat,Gujarat,24,Winter,Low,Medium,7,Poor,Urban,Dal Makhani
+62,Nagpur,Maharashtra,11,Autumn,Low,Medium,4,Excellent,Urban,Vegetable Pulao
+52,Mumbai,Maharashtra,22,Autumn,Low,Medium,9,Excellent,Rural,Aloo Gobi
+91,Chennai,Tamil Nadu,16,Autumn,Low,Low,5,Excellent,Rural,Aloo Gobi
+78,Surat,Gujarat,40,Monsoon,Medium,Medium,4,Excellent,Rural,Moong Dal Khichdi
+99,Bhopal,Madhya Pradesh,16,Autumn,High,Medium,8,Excellent,Rural,Chole Bhature
+94,Ahmedabad,Gujarat,37,Autumn,Low,Low,9,Poor,Urban,Chole Bhature
+60,Ahmedabad,Gujarat,36,Monsoon,High,Low,7,Average,Urban,Aloo Gobi
+62,Kochi,Kerala,14,Winter,Medium,Medium,9,Average,Rural,Mutton Rogan Josh
+67,Patna,Bihar,31,Monsoon,Medium,Medium,6,Good,Urban,Roti with Dal Tadka
+60,Nagpur,Maharashtra,42,Winter,High,Low,9,Excellent,Urban,Vegetable Pulao
+78,Bhopal,Madhya Pradesh,32,Autumn,Medium,Medium,9,Poor,Urban,Roti with Dal Tadka
+90,Visakhapatnam,Andhra Pradesh,41,Autumn,Low,High,4,Good,Rural,Vegetable Pulao
+75,Agra,Uttar Pradesh,23,Monsoon,High,Medium,7,Good,Rural,Aloo Gobi
+81,Ahmedabad,Gujarat,28,Winter,Low,High,9,Average,Urban,Paneer Butter Masala
+79,Varanasi,Uttar Pradesh,27,Monsoon,High,High,5,Excellent,Rural,Paneer Butter Masala
+96,Hyderabad,Telangana,31,Monsoon,High,Medium,9,Good,Rural,Roti with Dal Tadka
+88,Nagpur,Maharashtra,18,Autumn,Low,High,4,Good,Urban,Moong Dal Khichdi
+99,Srinagar,Jammu and Kashmir,15,Autumn,Medium,Medium,4,Average,Urban,Vegetable Pulao
+88,Agra,Uttar Pradesh,13,Autumn,High,Medium,8,Average,Urban,Roti with Dal Tadka
+100,Visakhapatnam,Andhra Pradesh,16,Winter,Medium,Low,5,Good,Rural,Sprout Salad
+62,Ludhiana,Punjab,37,Monsoon,High,Medium,9,Good,Rural,Vegetable Pulao
+87,Ahmedabad,Gujarat,20,Winter,High,Low,4,Good,Rural,Vegetable Pulao
+65,Lucknow,Uttar Pradesh,42,Summer,High,High,5,Good,Urban,Kadai Paneer
+54,Ludhiana,Punjab,35,Winter,High,Medium,4,Good,Rural,Roti with Dal Tadka
+75,Indore,Madhya Pradesh,27,Summer,High,High,8,Poor,Urban,Aloo Gobi
+63,Pune,Maharashtra,35,Autumn,High,Low,4,Good,Urban,Quinoa Upma
+90,Ludhiana,Punjab,21,Autumn,High,High,9,Average,Rural,Paneer Butter Masala
+93,Kochi,Kerala,38,Summer,Low,Low,7,Poor,Urban,Roti with Dal Tadka
+76,Patna,Bihar,18,Monsoon,Low,Low,5,Poor,Urban,Samosa
+90,Varanasi,Uttar Pradesh,29,Monsoon,Medium,High,6,Average,Rural,Rajma Chawal
+92,Kolkata,West Bengal,27,Autumn,Low,High,9,Good,Rural,Roti with Dal Tadka
+90,Ahmedabad,Gujarat,24,Winter,Medium,Medium,6,Average,Urban,Roti with Dal Tadka
+60,Jaipur,Rajasthan,14,Summer,Medium,High,7,Good,Rural,Roti with Dal Tadka
+81,Visakhapatnam,Andhra Pradesh,37,Monsoon,Medium,Low,7,Good,Rural,Paneer Butter Masala
+86,Jaipur,Rajasthan,18,Summer,Medium,Low,9,Good,Urban,Oats Idli
+62,Hyderabad,Telangana,39,Summer,Low,High,8,Good,Rural,Lemon Rice
+55,Delhi,Delhi,17,Winter,High,Medium,9,Good,Rural,Roti with Dal Tadka
+77,Bangalore,Karnataka,33,Winter,Low,Low,4,Poor,Rural,Quinoa Upma
+56,Pune,Maharashtra,25,Monsoon,High,Low,7,Average,Rural,Tandoori Chicken Salad
+63,Srinagar,Jammu and Kashmir,18,Monsoon,High,Medium,8,Average,Rural,Pakoras with Chai
+100,Lucknow,Uttar Pradesh,23,Summer,Medium,High,4,Good,Urban,Dal Makhani
+94,Kolkata,West Bengal,22,Winter,High,Low,9,Good,Urban,Paneer Butter Masala
+62,Guwahati,Assam,29,Autumn,Medium,High,9,Poor,Urban,Moong Dal Khichdi
+81,Chandigarh,Chandigarh,28,Autumn,High,Medium,9,Excellent,Rural,Aloo Gobi
+52,Kolkata,West Bengal,25,Summer,Medium,Low,7,Excellent,Rural,Chole Bhature
+79,Chennai,Tamil Nadu,14,Summer,Low,High,7,Average,Urban,Curd Rice
+57,Guwahati,Assam,41,Summer,High,Medium,8,Average,Rural,Paneer Butter Masala
+93,Kolkata,West Bengal,12,Monsoon,High,High,9,Good,Rural,Dal Makhani
+90,Srinagar,Jammu and Kashmir,40,Summer,High,Medium,4,Poor,Rural,Sprout Salad
+67,Srinagar,Jammu and Kashmir,30,Monsoon,High,High,4,Average,Urban,Aloo Gobi
+63,Delhi,Delhi,24,Winter,Low,Medium,8,Good,Urban,Chole Bhature
+64,Pune,Maharashtra,26,Autumn,Low,Medium,4,Poor,Rural,Roti with Dal Tadka
+78,Indore,Madhya Pradesh,35,Monsoon,Low,Medium,5,Excellent,Rural,Corn on the Cob (Bhutta)
+80,Lucknow,Uttar Pradesh,28,Monsoon,High,Low,6,Poor,Rural,Quinoa Upma
+90,Ahmedabad,Gujarat,35,Summer,Low,Low,7,Excellent,Rural,Roti with Dal Tadka
+53,Chandigarh,Chandigarh,23,Summer,Medium,High,8,Excellent,Rural,Paneer Butter Masala
+54,Patna,Bihar,36,Summer,Low,High,5,Average,Rural,Sprout Salad
+59,Patna,Bihar,27,Monsoon,High,High,5,Excellent,Urban,Moong Dal Khichdi
+98,Lucknow,Uttar Pradesh,37,Monsoon,Low,Medium,6,Good,Urban,Pakoras with Chai
+53,Delhi,Delhi,40,Monsoon,Low,Medium,8,Good,Urban,Aloo Gobi
+74,Srinagar,Jammu and Kashmir,22,Summer,High,High,4,Good,Rural,Roti with Dal Tadka
+96,Patna,Bihar,21,Monsoon,Medium,Medium,5,Good,Urban,Corn on the Cob (Bhutta)
+80,Ludhiana,Punjab,11,Autumn,Medium,Medium,6,Good,Urban,Aloo Gobi
+83,Ludhiana,Punjab,31,Monsoon,Low,Low,6,Poor,Rural,Corn on the Cob (Bhutta)
+68,Agra,Uttar Pradesh,42,Winter,Low,Low,5,Good,Rural,Sarson ka Saag with Makki di Roti
+98,Surat,Gujarat,10,Autumn,High,Low,4,Poor,Urban,Sprout Salad
+69,Bhopal,Madhya Pradesh,42,Autumn,Medium,Medium,8,Excellent,Urban,Vegetable Pulao
+74,Bhopal,Madhya Pradesh,12,Monsoon,Medium,High,8,Poor,Rural,Chole Bhature
+78,Chennai,Tamil Nadu,13,Autumn,Low,Low,5,Average,Rural,Sprout Salad
+68,Indore,Madhya Pradesh,27,Monsoon,Medium,Medium,4,Good,Urban,Chole Bhature
+76,Patna,Bihar,10,Summer,Low,Medium,8,Average,Urban,Roti with Dal Tadka
+66,Hyderabad,Telangana,41,Monsoon,High,Low,4,Good,Urban,Oats Idli
+90,Srinagar,Jammu and Kashmir,37,Autumn,Medium,Medium,6,Excellent,Rural,Paneer Butter Masala
+55,Kolkata,West Bengal,19,Summer,High,Low,4,Excellent,Urban,Lemon Rice
+78,Delhi,Delhi,18,Summer,Low,Low,7,Excellent,Urban,Vegetable Pulao
+99,Surat,Gujarat,21,Summer,High,High,5,Average,Urban,Lemon Rice
+60,Delhi,Delhi,25,Autumn,Low,Low,9,Excellent,Rural,Oats Idli
+65,Guwahati,Assam,24,Summer,Low,Low,7,Excellent,Urban,Quinoa Upma
+90,Delhi,Delhi,34,Autumn,Medium,Low,5,Poor,Urban,Chole Bhature
+56,Delhi,Delhi,14,Monsoon,High,Medium,7,Excellent,Urban,Samosa
+89,Hyderabad,Telangana,10,Summer,High,Medium,5,Excellent,Rural,Chole Bhature
+89,Patna,Bihar,26,Monsoon,Low,High,6,Poor,Rural,Moong Dal Khichdi
+87,Chennai,Tamil Nadu,38,Autumn,High,Low,8,Average,Urban,Chole Bhature
+54,Indore,Madhya Pradesh,42,Winter,Low,High,7,Poor,Urban,Dal Makhani
+92,Hyderabad,Telangana,22,Summer,Medium,Medium,4,Average,Urban,Kulfi
+78,Chandigarh,Chandigarh,34,Autumn,Medium,Medium,9,Excellent,Rural,Roti with Dal Tadka
+57,Patna,Bihar,36,Autumn,Low,Low,4,Average,Urban,Litti Chokha
+93,Srinagar,Jammu and Kashmir,21,Summer,High,Medium,4,Excellent,Urban,Aam Panna
+70,Hyderabad,Telangana,37,Autumn,High,High,6,Good,Rural,Hyderabadi Dum Biryani
+73,Jaipur,Rajasthan,22,Autumn,High,Medium,5,Excellent,Rural,Chole Bhature
+93,Visakhapatnam,Andhra Pradesh,21,Winter,Low,Low,8,Average,Urban,Roti with Dal Tadka
+56,Patna,Bihar,42,Winter,Low,Medium,5,Average,Rural,Paneer Butter Masala
+77,Chennai,Tamil Nadu,14,Winter,High,Medium,5,Average,Urban,Masala Dosa
+80,Guwahati,Assam,40,Autumn,High,Medium,5,Average,Urban,Chole Bhature
+71,Guwahati,Assam,21,Monsoon,Medium,High,8,Excellent,Urban,Dal Makhani
+65,Pune,Maharashtra,22,Autumn,Medium,Medium,9,Good,Rural,Aloo Gobi
+96,Varanasi,Uttar Pradesh,40,Winter,Low,High,6,Good,Urban,Sarson ka Saag with Makki di Roti
+55,Indore,Madhya Pradesh,17,Summer,High,Low,9,Average,Rural,Kulfi
+77,Agra,Uttar Pradesh,37,Autumn,Medium,Medium,8,Good,Urban,Aloo Gobi
+58,Chandigarh,Chandigarh,15,Monsoon,High,Medium,8,Excellent,Rural,Vegetable Pulao
+66,Mumbai,Maharashtra,10,Autumn,High,High,4,Excellent,Rural,Aloo Gobi
+84,Varanasi,Uttar Pradesh,28,Monsoon,Medium,Low,7,Poor,Rural,Corn on the Cob (Bhutta)
+86,Patna,Bihar,37,Summer,Low,High,9,Good,Urban,Kulfi
+72,Visakhapatnam,Andhra Pradesh,13,Winter,High,Medium,8,Poor,Rural,Roti with Dal Tadka
+53,Kochi,Kerala,34,Summer,Medium,Medium,6,Good,Urban,Chole Bhature
+76,Lucknow,Uttar Pradesh,15,Winter,Medium,Low,5,Excellent,Urban,Tandoori Chicken Salad
+71,Nagpur,Maharashtra,42,Summer,Medium,Medium,5,Poor,Rural,Chole Bhature
+53,Bangalore,Karnataka,15,Winter,Low,High,9,Excellent,Rural,Chole Bhature
+94,Ahmedabad,Gujarat,35,Monsoon,Medium,Low,9,Good,Urban,Tandoori Chicken Salad
+75,Lucknow,Uttar Pradesh,22,Winter,Low,Low,4,Excellent,Rural,Aloo Gobi
+95,Patna,Bihar,10,Autumn,Medium,Medium,4,Average,Urban,Litti Chokha
+67,Visakhapatnam,Andhra Pradesh,31,Autumn,Low,Low,5,Excellent,Urban,Vegetable Pulao
+50,Indore,Madhya Pradesh,40,Summer,High,Low,9,Poor,Urban,Aam Panna
+85,Srinagar,Jammu and Kashmir,19,Winter,Medium,Low,6,Average,Rural,Oats Idli
+51,Hyderabad,Telangana,17,Winter,High,Low,4,Poor,Urban,Aloo Gobi
+58,Indore,Madhya Pradesh,34,Summer,High,Medium,6,Good,Rural,Curd Rice
+86,Kolkata,West Bengal,18,Monsoon,High,Medium,8,Average,Rural,Samosa
+71,Chandigarh,Chandigarh,37,Summer,High,Low,7,Good,Rural,Sprout Salad
+100,Indore,Madhya Pradesh,29,Winter,Medium,High,4,Poor,Urban,Moong Dal Khichdi
+57,Mumbai,Maharashtra,31,Autumn,Medium,Medium,5,Good,Rural,Paneer Butter Masala
+82,Jaipur,Rajasthan,10,Monsoon,High,High,5,Poor,Rural,Aloo Gobi
+71,Patna,Bihar,17,Autumn,Low,Low,6,Excellent,Rural,Oats Idli
+64,Ludhiana,Punjab,34,Winter,High,Medium,6,Good,Urban,Vegetable Pulao
+83,Bhopal,Madhya Pradesh,17,Monsoon,Medium,High,7,Excellent,Urban,Kadai Paneer
+89,Indore,Madhya Pradesh,38,Monsoon,High,Low,8,Average,Urban,Pakoras with Chai
+72,Patna,Bihar,42,Autumn,High,Low,9,Excellent,Rural,Aloo Gobi
+99,Jaipur,Rajasthan,36,Summer,Low,High,4,Excellent,Urban,Rajma Chawal
+75,Bhopal,Madhya Pradesh,35,Monsoon,Low,High,7,Good,Urban,Rajma Chawal
+79,Bhopal,Madhya Pradesh,31,Summer,High,Low,5,Excellent,Rural,Curd Rice
+85,Guwahati,Assam,38,Summer,Low,Low,4,Excellent,Urban,Roti with Dal Tadka
+67,Pune,Maharashtra,30,Winter,High,High,6,Excellent,Urban,Aloo Gobi
+98,Srinagar,Jammu and Kashmir,13,Monsoon,Low,High,4,Average,Urban,Chole Bhature
+92,Hyderabad,Telangana,40,Autumn,Medium,Medium,5,Good,Rural,Chole Bhature
+92,Agra,Uttar Pradesh,21,Autumn,High,Medium,5,Poor,Rural,Vegetable Pulao
+74,Chandigarh,Chandigarh,20,Winter,High,High,4,Good,Rural,Moong Dal Khichdi
+82,Agra,Uttar Pradesh,21,Winter,Low,Low,8,Average,Rural,Dal Makhani
+97,Mumbai,Maharashtra,18,Winter,High,Low,5,Good,Urban,Oats Idli
+83,Patna,Bihar,23,Monsoon,Low,Low,6,Good,Rural,Samosa
+79,Srinagar,Jammu and Kashmir,26,Monsoon,High,Medium,5,Good,Urban,Paneer Butter Masala
+73,Lucknow,Uttar Pradesh,18,Autumn,High,Medium,4,Good,Rural,Vegetable Pulao
+58,Ludhiana,Punjab,42,Monsoon,Medium,Low,7,Good,Urban,Oats Idli
+93,Surat,Gujarat,13,Autumn,Medium,Low,7,Good,Rural,Sprout Salad
+92,Jaipur,Rajasthan,18,Monsoon,Medium,High,4,Excellent,Rural,Samosa
+51,Pune,Maharashtra,30,Summer,Medium,High,5,Average,Urban,Kulfi
+64,Patna,Bihar,29,Summer,High,High,7,Good,Urban,Litti Chokha
+75,Ahmedabad,Gujarat,42,Winter,Low,Medium,9,Poor,Urban,Sarson ka Saag with Makki di Roti
+86,Guwahati,Assam,36,Summer,Low,Low,5,Good,Rural,Roti with Dal Tadka
+52,Srinagar,Jammu and Kashmir,19,Monsoon,Medium,Low,5,Average,Rural,Pakoras with Chai
+99,Ludhiana,Punjab,42,Winter,High,Medium,6,Poor,Rural,Mutton Rogan Josh
+64,Visakhapatnam,Andhra Pradesh,22,Winter,Medium,Medium,8,Good,Urban,Mutton Rogan Josh
+61,Hyderabad,Telangana,11,Summer,High,Low,9,Poor,Urban,Curd Rice
+97,Delhi,Delhi,32,Winter,Low,Medium,5,Good,Rural,Chole Bhature
+83,Indore,Madhya Pradesh,22,Summer,High,High,4,Average,Urban,Curd Rice
+81,Surat,Gujarat,11,Autumn,Medium,Medium,6,Excellent,Urban,Roti with Dal Tadka
+63,Chennai,Tamil Nadu,22,Summer,Medium,High,7,Excellent,Urban,Sprout Salad
+73,Bhopal,Madhya Pradesh,30,Winter,Low,Medium,4,Poor,Urban,Paneer Butter Masala
+50,Kochi,Kerala,38,Autumn,Medium,High,6,Good,Urban,Chole Bhature
+55,Hyderabad,Telangana,10,Monsoon,Medium,Low,5,Poor,Rural,Chole Bhature
+59,Nagpur,Maharashtra,29,Summer,Medium,Medium,9,Average,Rural,Chole Bhature
+68,Chennai,Tamil Nadu,16,Autumn,Medium,Low,8,Average,Urban,Paneer Butter Masala
+96,Bangalore,Karnataka,22,Monsoon,Medium,High,4,Good,Urban,Dal Makhani
+60,Bangalore,Karnataka,17,Autumn,High,Low,6,Poor,Urban,Oats Idli
+85,Bhopal,Madhya Pradesh,10,Monsoon,High,High,4,Excellent,Urban,Roti with Dal Tadka
+82,Pune,Maharashtra,13,Summer,Medium,Medium,5,Poor,Rural,Vegetable Pulao
+57,Kolkata,West Bengal,34,Summer,Low,High,4,Average,Urban,Lemon Rice
+77,Agra,Uttar Pradesh,20,Winter,High,Low,9,Poor,Rural,Dal Makhani
+57,Surat,Gujarat,37,Autumn,Low,High,4,Poor,Rural,Aloo Gobi
+53,Agra,Uttar Pradesh,23,Winter,High,Low,7,Good,Rural,Sprout Salad
+98,Srinagar,Jammu and Kashmir,17,Autumn,High,Low,8,Excellent,Urban,Chole Bhature
+73,Ludhiana,Punjab,31,Monsoon,Low,Medium,8,Poor,Rural,Moong Dal Khichdi
+71,Kochi,Kerala,16,Autumn,Medium,Low,9,Poor,Rural,Sprout Salad
+53,Chennai,Tamil Nadu,30,Monsoon,Medium,Medium,7,Good,Urban,Aloo Gobi
+59,Surat,Gujarat,41,Autumn,High,Low,6,Average,Rural,Sprout Salad
+80,Patna,Bihar,37,Winter,High,High,5,Average,Rural,Chole Bhature
+65,Agra,Uttar Pradesh,34,Monsoon,Low,Medium,7,Good,Rural,Moong Dal Khichdi
+99,Guwahati,Assam,20,Autumn,Medium,Low,7,Average,Urban,Paneer Butter Masala
+62,Guwahati,Assam,16,Summer,Low,High,5,Average,Urban,Kadai Paneer
+67,Kolkata,West Bengal,30,Summer,High,Medium,6,Average,Rural,Sprout Salad
+91,Hyderabad,Telangana,17,Autumn,Low,High,8,Poor,Urban,Rajma Chawal
+51,Indore,Madhya Pradesh,38,Winter,Low,High,4,Good,Rural,Sarson ka Saag with Makki di Roti
+92,Indore,Madhya Pradesh,12,Summer,Low,Medium,6,Average,Urban,Curd Rice
+50,Mumbai,Maharashtra,13,Summer,High,Low,8,Average,Rural,Roti with Dal Tadka
+91,Chennai,Tamil Nadu,31,Autumn,Low,Medium,4,Average,Urban,Roti with Dal Tadka
+61,Jaipur,Rajasthan,37,Autumn,Low,Low,6,Average,Urban,Quinoa Upma
+69,Bhopal,Madhya Pradesh,33,Summer,High,Low,5,Average,Rural,Aloo Gobi
+89,Bangalore,Karnataka,39,Summer,Low,Low,5,Average,Urban,Roti with Dal Tadka
+78,Agra,Uttar Pradesh,24,Winter,Low,High,4,Excellent,Rural,Paneer Butter Masala
+65,Srinagar,Jammu and Kashmir,25,Autumn,Medium,Medium,5,Average,Urban,Roti with Dal Tadka
+70,Chandigarh,Chandigarh,14,Summer,High,Medium,5,Excellent,Rural,Paneer Butter Masala
+61,Ludhiana,Punjab,10,Summer,Medium,Medium,6,Poor,Urban,Chole Bhature
+56,Indore,Madhya Pradesh,27,Summer,Low,High,8,Average,Rural,Chole Bhature
+92,Surat,Gujarat,24,Winter,High,High,4,Poor,Rural,Sarson ka Saag with Makki di Roti
+50,Jaipur,Rajasthan,29,Monsoon,Medium,Low,8,Excellent,Urban,Aloo Gobi
+81,Ludhiana,Punjab,29,Monsoon,High,Medium,4,Average,Rural,Chole Bhature
+57,Hyderabad,Telangana,25,Monsoon,Medium,Low,8,Poor,Urban,Hyderabadi Dum Biryani
+99,Guwahati,Assam,17,Autumn,Low,High,8,Average,Urban,Rajma Chawal
+93,Patna,Bihar,39,Monsoon,Low,Low,7,Good,Urban,Oats Idli
+81,Pune,Maharashtra,26,Winter,Low,Low,7,Excellent,Rural,Mutton Rogan Josh
+99,Jaipur,Rajasthan,15,Summer,Medium,Low,9,Excellent,Urban,Curd Rice
+61,Chandigarh,Chandigarh,33,Monsoon,Low,High,9,Average,Rural,Aloo Gobi
+68,Hyderabad,Telangana,40,Summer,High,Medium,5,Good,Rural,Sprout Salad
+98,Hyderabad,Telangana,13,Summer,Medium,High,6,Excellent,Urban,Moong Dal Khichdi
+62,Mumbai,Maharashtra,33,Autumn,Low,High,7,Poor,Urban,Aloo Gobi
+85,Varanasi,Uttar Pradesh,32,Winter,Medium,High,7,Good,Urban,Sarson ka Saag with Makki di Roti
+62,Visakhapatnam,Andhra Pradesh,38,Monsoon,Medium,Low,6,Poor,Urban,Sprout Salad
+59,Visakhapatnam,Andhra Pradesh,16,Monsoon,Low,High,8,Poor,Rural,Paneer Butter Masala
+59,Varanasi,Uttar Pradesh,17,Summer,Medium,High,4,Poor,Urban,Dal Makhani
+83,Kolkata,West Bengal,19,Autumn,Low,Low,4,Good,Urban,Chole Bhature
+94,Kolkata,West Bengal,14,Summer,High,Low,6,Average,Rural,Kulfi
+82,Hyderabad,Telangana,15,Autumn,Low,Low,4,Excellent,Urban,Sprout Salad
+90,Ludhiana,Punjab,15,Monsoon,Low,Medium,5,Good,Rural,Corn on the Cob (Bhutta)
+88,Lucknow,Uttar Pradesh,29,Winter,Medium,High,6,Poor,Rural,Kadai Paneer
+77,Jaipur,Rajasthan,34,Autumn,Medium,Low,4,Good,Urban,Sprout Salad
+60,Mumbai,Maharashtra,42,Winter,High,Low,7,Average,Urban,Paneer Butter Masala
+86,Bangalore,Karnataka,19,Summer,Low,Medium,5,Good,Urban,Kulfi
+85,Mumbai,Maharashtra,16,Autumn,High,Medium,6,Poor,Rural,Chole Bhature
+71,Kolkata,West Bengal,30,Summer,High,Low,6,Average,Rural,Roti with Dal Tadka
+81,Hyderabad,Telangana,21,Autumn,High,High,7,Good,Rural,Roti with Dal Tadka
+61,Guwahati,Assam,15,Monsoon,Low,High,4,Excellent,Urban,Corn on the Cob (Bhutta)
+75,Patna,Bihar,30,Monsoon,Medium,High,5,Average,Urban,Moong Dal Khichdi
+95,Pune,Maharashtra,37,Monsoon,High,High,5,Excellent,Urban,Samosa
+70,Kochi,Kerala,34,Autumn,Low,Medium,7,Average,Urban,Chole Bhature
+87,Surat,Gujarat,19,Winter,Medium,Medium,9,Excellent,Rural,Mutton Rogan Josh
+65,Jaipur,Rajasthan,24,Summer,Medium,Low,6,Excellent,Rural,Chole Bhature
+94,Delhi,Delhi,10,Autumn,Low,High,7,Excellent,Urban,Vegetable Pulao
+100,Ludhiana,Punjab,37,Autumn,Low,High,5,Average,Urban,Aloo Gobi
+56,Pune,Maharashtra,37,Winter,Medium,Medium,7,Average,Rural,Roti with Dal Tadka
+89,Delhi,Delhi,27,Winter,Medium,High,6,Average,Urban,Gajar ka Halwa
+68,Visakhapatnam,Andhra Pradesh,14,Winter,High,Medium,9,Average,Urban,Dal Makhani
+88,Varanasi,Uttar Pradesh,30,Monsoon,High,Medium,6,Good,Rural,Chole Bhature
+80,Agra,Uttar Pradesh,19,Autumn,Medium,Low,9,Average,Rural,Tandoori Chicken Salad
+100,Bangalore,Karnataka,30,Monsoon,High,Medium,7,Excellent,Urban,Corn on the Cob (Bhutta)
+69,Ahmedabad,Gujarat,32,Summer,Low,Low,6,Poor,Urban,Lemon Rice
+96,Pune,Maharashtra,15,Autumn,Medium,Low,7,Poor,Rural,Tandoori Chicken Salad
+100,Ludhiana,Punjab,23,Winter,High,High,8,Average,Urban,Dal Makhani
+81,Chennai,Tamil Nadu,22,Winter,Medium,High,4,Good,Rural,Dal Makhani
+69,Agra,Uttar Pradesh,35,Monsoon,High,High,7,Average,Urban,Moong Dal Khichdi
+63,Delhi,Delhi,20,Autumn,High,High,7,Average,Rural,Paneer Butter Masala
+100,Ludhiana,Punjab,23,Winter,High,Medium,4,Excellent,Rural,Sarson ka Saag with Makki di Roti
+80,Indore,Madhya Pradesh,22,Summer,Medium,Medium,8,Average,Rural,Curd Rice
+51,Hyderabad,Telangana,23,Autumn,Low,Medium,4,Excellent,Rural,Chole Bhature
+73,Ahmedabad,Gujarat,22,Summer,Medium,Low,6,Poor,Urban,Quinoa Upma
+64,Pune,Maharashtra,27,Monsoon,High,Low,4,Excellent,Rural,Paneer Butter Masala
+79,Bhopal,Madhya Pradesh,34,Winter,Medium,High,7,Poor,Rural,Rajma Chawal
+95,Guwahati,Assam,28,Autumn,High,Low,5,Good,Rural,Paneer Butter Masala
+79,Bhopal,Madhya Pradesh,23,Winter,Low,High,5,Good,Rural,Sarson ka Saag with Makki di Roti
+62,Delhi,Delhi,25,Winter,Medium,High,4,Average,Urban,Chole Bhature
+72,Jaipur,Rajasthan,37,Monsoon,Low,High,6,Average,Rural,Chole Bhature
+50,Bangalore,Karnataka,18,Summer,Low,High,5,Poor,Rural,Rajma Chawal
+63,Bangalore,Karnataka,34,Summer,Medium,Medium,7,Excellent,Rural,Sprout Salad
+92,Bangalore,Karnataka,19,Autumn,Medium,Low,5,Poor,Urban,Tandoori Chicken Salad
+73,Delhi,Delhi,24,Winter,Medium,High,9,Average,Rural,Kadai Paneer
+96,Varanasi,Uttar Pradesh,34,Winter,Medium,High,4,Average,Rural,Vegetable Pulao
+50,Ludhiana,Punjab,13,Monsoon,Low,Medium,4,Average,Urban,Vegetable Pulao
+83,Visakhapatnam,Andhra Pradesh,33,Monsoon,High,High,9,Average,Rural,Corn on the Cob (Bhutta)
+55,Chandigarh,Chandigarh,15,Summer,Low,Low,5,Good,Urban,Lemon Rice
+82,Nagpur,Maharashtra,29,Monsoon,High,Medium,9,Good,Urban,Chole Bhature
+100,Guwahati,Assam,22,Winter,Medium,Medium,7,Average,Rural,Vegetable Pulao
+76,Mumbai,Maharashtra,35,Autumn,Low,High,6,Good,Rural,Vegetable Pulao
+52,Srinagar,Jammu and Kashmir,17,Monsoon,Medium,Low,6,Good,Urban,Tandoori Chicken Salad
+75,Chandigarh,Chandigarh,29,Autumn,Low,High,5,Excellent,Urban,Aloo Gobi
+87,Delhi,Delhi,18,Winter,Low,Low,5,Poor,Urban,Paneer Butter Masala
+92,Agra,Uttar Pradesh,29,Autumn,High,Low,5,Excellent,Rural,Aloo Gobi
+72,Jaipur,Rajasthan,13,Summer,Low,Medium,6,Poor,Rural,Aloo Gobi
+78,Nagpur,Maharashtra,20,Winter,Low,High,8,Poor,Urban,Kadai Paneer
+72,Kolkata,West Bengal,14,Winter,Low,Medium,9,Excellent,Urban,Chole Bhature
+77,Agra,Uttar Pradesh,17,Monsoon,Low,Low,6,Poor,Urban,Chole Bhature
+51,Kolkata,West Bengal,30,Autumn,High,Medium,6,Average,Urban,Chole Bhature
+56,Bhopal,Madhya Pradesh,18,Winter,Low,High,4,Poor,Urban,Gajar ka Halwa
+62,Kochi,Kerala,25,Autumn,High,Low,5,Excellent,Urban,Quinoa Upma
+61,Visakhapatnam,Andhra Pradesh,32,Winter,Medium,High,4,Poor,Urban,Chole Bhature
+55,Patna,Bihar,26,Monsoon,High,Medium,9,Average,Urban,Corn on the Cob (Bhutta)
+92,Jaipur,Rajasthan,24,Monsoon,Low,High,9,Excellent,Urban,Dal Makhani
+74,Hyderabad,Telangana,25,Summer,High,High,9,Good,Rural,Roti with Dal Tadka
+69,Chandigarh,Chandigarh,21,Summer,Medium,Low,4,Average,Rural,Curd Rice
+97,Varanasi,Uttar Pradesh,40,Summer,Medium,Low,6,Good,Rural,Tandoori Chicken Salad
+97,Ahmedabad,Gujarat,39,Autumn,Medium,Medium,9,Poor,Rural,Aloo Gobi
+67,Ludhiana,Punjab,17,Monsoon,Medium,High,9,Good,Rural,Samosa
+84,Delhi,Delhi,31,Monsoon,Low,Medium,4,Excellent,Urban,Moong Dal Khichdi
+78,Guwahati,Assam,14,Summer,Low,Low,7,Average,Urban,Sprout Salad
+52,Ludhiana,Punjab,27,Winter,Low,Low,7,Good,Urban,Roti with Dal Tadka
+66,Nagpur,Maharashtra,36,Autumn,High,Low,6,Poor,Urban,Vegetable Pulao
+98,Patna,Bihar,37,Summer,Low,Medium,6,Poor,Urban,Aam Panna
+86,Agra,Uttar Pradesh,20,Winter,Medium,Low,4,Poor,Urban,Mutton Rogan Josh
+79,Chandigarh,Chandigarh,24,Autumn,High,Medium,9,Good,Urban,Vegetable Pulao
+66,Srinagar,Jammu and Kashmir,35,Monsoon,High,High,5,Excellent,Rural,Kadai Paneer
+58,Agra,Uttar Pradesh,15,Summer,Low,Medium,7,Good,Rural,Aloo Gobi
+84,Delhi,Delhi,18,Monsoon,Low,High,4,Good,Rural,Vegetable Pulao
+89,Varanasi,Uttar Pradesh,37,Monsoon,High,Medium,6,Good,Urban,Aloo Gobi
+87,Pune,Maharashtra,31,Autumn,Low,Medium,6,Good,Rural,Aloo Gobi
+99,Visakhapatnam,Andhra Pradesh,28,Summer,Low,Low,7,Good,Rural,Sprout Salad
+76,Mumbai,Maharashtra,27,Summer,High,Low,4,Average,Rural,Aloo Gobi
+51,Pune,Maharashtra,21,Summer,High,Low,9,Poor,Rural,Sprout Salad
+67,Nagpur,Maharashtra,27,Autumn,High,Low,7,Good,Rural,Vegetable Pulao
+57,Pune,Maharashtra,39,Autumn,High,Low,6,Poor,Urban,Vegetable Pulao
+63,Mumbai,Maharashtra,42,Autumn,Medium,Low,9,Poor,Urban,Roti with Dal Tadka
+85,Srinagar,Jammu and Kashmir,26,Monsoon,Low,Low,6,Good,Rural,Roti with Dal Tadka
+64,Ludhiana,Punjab,31,Winter,High,High,7,Poor,Rural,Rajma Chawal
+68,Guwahati,Assam,39,Winter,Medium,High,5,Average,Rural,Roti with Dal Tadka
+63,Indore,Madhya Pradesh,39,Winter,High,High,7,Good,Urban,Dal Makhani
+62,Bhopal,Madhya Pradesh,23,Winter,Medium,Low,7,Good,Rural,Chole Bhature
+51,Ludhiana,Punjab,24,Winter,High,Low,5,Average,Rural,Sprout Salad
+67,Pune,Maharashtra,24,Monsoon,Low,High,7,Good,Rural,Corn on the Cob (Bhutta)
+59,Varanasi,Uttar Pradesh,30,Summer,Medium,High,8,Poor,Urban,Sprout Salad
+51,Guwahati,Assam,29,Winter,High,Medium,9,Average,Rural,Chole Bhature
+86,Ludhiana,Punjab,13,Autumn,High,High,6,Average,Urban,Rajma Chawal
+94,Bhopal,Madhya Pradesh,25,Autumn,Medium,Medium,5,Average,Rural,Vegetable Pulao
+72,Pune,Maharashtra,37,Winter,High,Medium,6,Excellent,Rural,Paneer Butter Masala
+86,Indore,Madhya Pradesh,27,Winter,High,High,5,Good,Urban,Sarson ka Saag with Makki di Roti
+91,Kochi,Kerala,38,Monsoon,Low,High,9,Excellent,Rural,Roti with Dal Tadka
+93,Chennai,Tamil Nadu,33,Autumn,Low,High,5,Good,Urban,Aloo Gobi
+55,Agra,Uttar Pradesh,37,Summer,Medium,Low,7,Excellent,Rural,Kulfi
+83,Lucknow,Uttar Pradesh,15,Summer,High,Medium,6,Poor,Urban,Curd Rice
+63,Pune,Maharashtra,10,Monsoon,Medium,Low,5,Excellent,Urban,Tandoori Chicken Salad
+64,Ludhiana,Punjab,32,Autumn,High,Low,6,Average,Urban,Vegetable Pulao
+70,Lucknow,Uttar Pradesh,36,Monsoon,Low,High,4,Good,Urban,Roti with Dal Tadka
+88,Delhi,Delhi,30,Monsoon,Low,Low,9,Excellent,Rural,Roti with Dal Tadka
+68,Ahmedabad,Gujarat,16,Winter,Medium,High,4,Good,Rural,Gajar ka Halwa
+79,Chandigarh,Chandigarh,39,Winter,Medium,High,6,Excellent,Urban,Gajar ka Halwa
+58,Chandigarh,Chandigarh,14,Winter,Low,Medium,7,Excellent,Rural,Chole Bhature
+94,Agra,Uttar Pradesh,34,Autumn,Low,High,5,Good,Urban,Aloo Gobi
+81,Agra,Uttar Pradesh,24,Autumn,Low,Low,6,Good,Rural,Sprout Salad
+78,Srinagar,Jammu and Kashmir,13,Winter,High,High,6,Excellent,Rural,Rajma Chawal
+66,Delhi,Delhi,22,Monsoon,High,Low,4,Average,Urban,Moong Dal Khichdi
+51,Agra,Uttar Pradesh,14,Winter,Medium,High,8,Average,Rural,Paneer Butter Masala
+85,Hyderabad,Telangana,34,Winter,Low,High,5,Poor,Urban,Paneer Butter Masala
+57,Srinagar,Jammu and Kashmir,25,Monsoon,Low,Medium,4,Poor,Urban,Pakoras with Chai
+80,Chennai,Tamil Nadu,13,Monsoon,Medium,Low,9,Excellent,Rural,Aloo Gobi
+54,Kochi,Kerala,39,Summer,High,Medium,6,Average,Rural,Vegetable Pulao
+68,Ludhiana,Punjab,40,Autumn,Medium,High,6,Good,Rural,Aloo Gobi
+68,Agra,Uttar Pradesh,18,Monsoon,High,Medium,4,Poor,Rural,Corn on the Cob (Bhutta)
+54,Surat,Gujarat,12,Winter,Medium,Medium,6,Excellent,Urban,Roti with Dal Tadka
+94,Kochi,Kerala,35,Autumn,High,Low,7,Average,Urban,Vegetable Pulao
+95,Agra,Uttar Pradesh,29,Monsoon,High,Low,6,Good,Urban,Sprout Salad
+59,Ludhiana,Punjab,29,Winter,High,Low,6,Good,Urban,Quinoa Upma
+85,Patna,Bihar,14,Winter,Low,High,7,Poor,Urban,Paneer Butter Masala
+87,Visakhapatnam,Andhra Pradesh,36,Winter,High,High,7,Average,Urban,Vegetable Pulao
+59,Visakhapatnam,Andhra Pradesh,22,Winter,High,Low,7,Poor,Rural,Paneer Butter Masala
+53,Kolkata,West Bengal,35,Monsoon,High,High,5,Excellent,Rural,Chole Bhature
+62,Mumbai,Maharashtra,36,Monsoon,Low,Low,7,Average,Urban,Quinoa Upma
+85,Chandigarh,Chandigarh,13,Autumn,Low,Medium,9,Good,Rural,Aloo Gobi
+92,Pune,Maharashtra,29,Monsoon,Low,High,5,Good,Rural,Moong Dal Khichdi
+65,Guwahati,Assam,23,Autumn,High,Medium,9,Good,Urban,Roti with Dal Tadka
+83,Mumbai,Maharashtra,33,Monsoon,High,High,6,Average,Urban,Roti with Dal Tadka
+80,Nagpur,Maharashtra,41,Monsoon,Low,High,8,Excellent,Urban,Vegetable Pulao
+67,Ludhiana,Punjab,11,Autumn,Medium,Low,7,Average,Rural,Aloo Gobi
+60,Pune,Maharashtra,36,Winter,Medium,Medium,7,Average,Rural,Sarson ka Saag with Makki di Roti
+87,Guwahati,Assam,33,Summer,Medium,Medium,9,Excellent,Rural,Lemon Rice
+59,Visakhapatnam,Andhra Pradesh,22,Winter,Low,High,5,Average,Rural,Paneer Butter Masala
+61,Ludhiana,Punjab,39,Winter,Low,Medium,7,Average,Urban,Paneer Butter Masala
+92,Patna,Bihar,23,Monsoon,Low,High,9,Good,Rural,Rajma Chawal
+61,Hyderabad,Telangana,42,Monsoon,High,High,5,Excellent,Rural,Roti with Dal Tadka
+56,Ahmedabad,Gujarat,35,Summer,Medium,Medium,6,Poor,Rural,Aam Panna
+79,Nagpur,Maharashtra,25,Monsoon,Medium,Medium,7,Excellent,Urban,Corn on the Cob (Bhutta)
+98,Lucknow,Uttar Pradesh,31,Summer,High,Medium,5,Poor,Urban,Paneer Butter Masala
+56,Mumbai,Maharashtra,42,Winter,Medium,Low,8,Average,Urban,Vada Pav
+99,Indore,Madhya Pradesh,16,Summer,High,Low,8,Good,Rural,Tandoori Chicken Salad
+62,Kochi,Kerala,20,Winter,Medium,Low,8,Poor,Rural,Oats Idli
+100,Visakhapatnam,Andhra Pradesh,29,Autumn,Low,Medium,5,Poor,Rural,Chole Bhature
+89,Bangalore,Karnataka,18,Autumn,Low,Medium,9,Average,Urban,Roti with Dal Tadka
+61,Chennai,Tamil Nadu,29,Autumn,High,High,7,Good,Urban,Vegetable Pulao
+86,Srinagar,Jammu and Kashmir,22,Summer,Medium,Low,5,Good,Rural,Kulfi
+65,Kochi,Kerala,15,Monsoon,Medium,Medium,8,Poor,Rural,Vegetable Pulao
+100,Ludhiana,Punjab,42,Winter,High,High,8,Poor,Rural,Sarson ka Saag with Makki di Roti
+90,Bangalore,Karnataka,31,Summer,Medium,Low,4,Average,Urban,Sprout Salad
+87,Agra,Uttar Pradesh,26,Autumn,Low,Medium,9,Average,Urban,Paneer Butter Masala
+60,Guwahati,Assam,19,Summer,Medium,Low,6,Good,Urban,Quinoa Upma
+83,Hyderabad,Telangana,12,Winter,Low,High,6,Good,Rural,Vegetable Pulao
+66,Ahmedabad,Gujarat,16,Autumn,Low,Medium,4,Excellent,Urban,Vegetable Pulao
+58,Bhopal,Madhya Pradesh,36,Winter,Low,Low,8,Excellent,Urban,Tandoori Chicken Salad
+64,Kochi,Kerala,13,Summer,High,High,7,Excellent,Rural,Aloo Gobi
+70,Lucknow,Uttar Pradesh,31,Autumn,Medium,High,6,Average,Rural,Vegetable Pulao
+90,Bhopal,Madhya Pradesh,30,Autumn,Medium,Low,9,Average,Urban,Chole Bhature
+78,Kochi,Kerala,29,Monsoon,Medium,Medium,9,Excellent,Urban,Paneer Butter Masala
+71,Chandigarh,Chandigarh,38,Summer,Low,High,7,Good,Rural,Paneer Butter Masala
+53,Srinagar,Jammu and Kashmir,38,Summer,High,High,5,Good,Urban,Chole Bhature
+97,Pune,Maharashtra,41,Autumn,Medium,High,6,Average,Rural,Kadai Paneer
+53,Lucknow,Uttar Pradesh,29,Summer,Low,Medium,7,Good,Urban,Paneer Butter Masala
+72,Kolkata,West Bengal,12,Winter,Low,Low,9,Excellent,Rural,Dal Makhani
+59,Hyderabad,Telangana,25,Summer,High,Low,6,Average,Urban,Hyderabadi Dum Biryani
+95,Nagpur,Maharashtra,21,Winter,Medium,Low,7,Good,Urban,Quinoa Upma
+87,Ahmedabad,Gujarat,35,Monsoon,Medium,Low,9,Poor,Urban,Vegetable Pulao
+93,Chandigarh,Chandigarh,24,Summer,High,Medium,4,Excellent,Urban,Curd Rice
+93,Chandigarh,Chandigarh,18,Summer,Low,High,9,Excellent,Urban,Dal Makhani
+59,Patna,Bihar,12,Monsoon,Medium,High,4,Excellent,Urban,Samosa
+62,Bhopal,Madhya Pradesh,42,Monsoon,High,Medium,9,Average,Rural,Vegetable Pulao
+72,Kolkata,West Bengal,34,Monsoon,Low,High,9,Poor,Urban,Moong Dal Khichdi
+66,Kolkata,West Bengal,25,Monsoon,Medium,Medium,8,Poor,Rural,Chole Bhature
+89,Guwahati,Assam,42,Summer,Low,High,9,Poor,Urban,Lemon Rice
+74,Patna,Bihar,27,Monsoon,Low,High,5,Poor,Urban,Moong Dal Khichdi
+92,Jaipur,Rajasthan,21,Summer,High,High,5,Good,Rural,Rajma Chawal
+56,Nagpur,Maharashtra,19,Autumn,Low,Medium,6,Good,Rural,Vegetable Pulao
+56,Srinagar,Jammu and Kashmir,34,Autumn,High,Medium,6,Poor,Urban,Paneer Butter Masala
+79,Indore,Madhya Pradesh,12,Monsoon,High,High,4,Average,Rural,Vegetable Pulao
+85,Pune,Maharashtra,18,Summer,Low,Medium,7,Good,Rural,Kulfi
+57,Varanasi,Uttar Pradesh,17,Monsoon,Medium,Low,8,Good,Rural,Paneer Butter Masala
+100,Mumbai,Maharashtra,23,Winter,High,High,8,Average,Rural,Chole Bhature
+78,Kolkata,West Bengal,41,Monsoon,Low,High,9,Average,Rural,Moong Dal Khichdi
+51,Mumbai,Maharashtra,10,Summer,Medium,High,6,Excellent,Rural,Curd Rice
+81,Bhopal,Madhya Pradesh,10,Summer,Medium,High,9,Average,Urban,Vegetable Pulao
+66,Kochi,Kerala,28,Winter,High,Low,6,Good,Rural,Mutton Rogan Josh
+53,Kolkata,West Bengal,28,Summer,High,Low,4,Good,Urban,Roti with Dal Tadka
+86,Delhi,Delhi,29,Monsoon,Low,High,8,Excellent,Rural,Vegetable Pulao
+72,Bhopal,Madhya Pradesh,37,Summer,Low,Medium,4,Good,Rural,Paneer Butter Masala
+72,Visakhapatnam,Andhra Pradesh,20,Monsoon,Low,High,8,Excellent,Rural,Samosa
+93,Guwahati,Assam,30,Summer,High,High,5,Good,Urban,Aam Panna
+50,Indore,Madhya Pradesh,38,Winter,Low,Medium,4,Poor,Urban,Vegetable Pulao
+86,Ahmedabad,Gujarat,40,Summer,Low,Medium,9,Excellent,Rural,Roti with Dal Tadka
+72,Chandigarh,Chandigarh,38,Autumn,High,Medium,5,Average,Rural,Aloo Gobi
+85,Nagpur,Maharashtra,24,Summer,High,High,5,Good,Urban,Paneer Butter Masala
+60,Indore,Madhya Pradesh,33,Monsoon,Medium,High,9,Poor,Rural,Chole Bhature
+94,Visakhapatnam,Andhra Pradesh,19,Winter,Low,Low,6,Poor,Urban,Tandoori Chicken Salad
+79,Visakhapatnam,Andhra Pradesh,32,Autumn,High,Medium,7,Average,Urban,Roti with Dal Tadka
+87,Visakhapatnam,Andhra Pradesh,39,Winter,Medium,Low,6,Average,Rural,Paneer Butter Masala
+55,Kolkata,West Bengal,32,Autumn,Medium,High,6,Poor,Rural,Rajma Chawal
+90,Srinagar,Jammu and Kashmir,20,Autumn,Medium,Medium,9,Poor,Urban,Chole Bhature
+80,Mumbai,Maharashtra,28,Autumn,High,Medium,4,Average,Rural,Chole Bhature
+69,Lucknow,Uttar Pradesh,42,Monsoon,Low,High,7,Poor,Urban,Corn on the Cob (Bhutta)
+76,Srinagar,Jammu and Kashmir,25,Monsoon,High,Medium,4,Excellent,Urban,Samosa
+84,Agra,Uttar Pradesh,22,Monsoon,Low,Low,7,Average,Rural,Pakoras with Chai
+70,Surat,Gujarat,25,Monsoon,Low,Low,8,Good,Urban,Moong Dal Khichdi
+59,Varanasi,Uttar Pradesh,25,Winter,Medium,Medium,4,Good,Urban,Aloo Gobi
+100,Chandigarh,Chandigarh,38,Monsoon,Low,Medium,9,Good,Urban,Chole Bhature
+86,Nagpur,Maharashtra,28,Winter,Medium,Medium,8,Good,Urban,Sarson ka Saag with Makki di Roti
+72,Bhopal,Madhya Pradesh,30,Winter,High,Medium,4,Good,Rural,Dal Makhani
+67,Kolkata,West Bengal,17,Summer,High,High,7,Good,Rural,Kadai Paneer
+92,Srinagar,Jammu and Kashmir,14,Summer,Low,High,9,Average,Rural,Kadai Paneer
+95,Ludhiana,Punjab,25,Winter,Medium,Medium,9,Average,Urban,Mutton Rogan Josh
+73,Bangalore,Karnataka,39,Autumn,Medium,Low,5,Poor,Rural,Oats Idli
+58,Chandigarh,Chandigarh,39,Winter,High,Low,9,Good,Rural,Paneer Butter Masala
+52,Patna,Bihar,39,Summer,Medium,Medium,6,Good,Rural,Aam Panna
+72,Varanasi,Uttar Pradesh,11,Summer,Medium,High,9,Poor,Rural,Kadai Paneer
+94,Hyderabad,Telangana,25,Winter,Medium,High,7,Average,Urban,Dal Makhani
+53,Ahmedabad,Gujarat,14,Monsoon,Medium,Medium,7,Average,Rural,Chole Bhature
+70,Bangalore,Karnataka,26,Winter,Low,Low,6,Poor,Rural,Tandoori Chicken Salad
+64,Chennai,Tamil Nadu,35,Monsoon,High,High,8,Poor,Rural,Paneer Butter Masala
+71,Pune,Maharashtra,31,Summer,High,High,8,Average,Urban,Vegetable Pulao
+76,Pune,Maharashtra,29,Autumn,High,High,7,Good,Rural,Aloo Gobi
+98,Delhi,Delhi,40,Monsoon,Low,High,7,Excellent,Rural,Corn on the Cob (Bhutta)
+68,Kochi,Kerala,34,Autumn,High,High,5,Excellent,Rural,Chole Bhature
+81,Nagpur,Maharashtra,28,Summer,High,High,8,Poor,Rural,Vegetable Pulao
+73,Chandigarh,Chandigarh,35,Summer,Medium,High,7,Poor,Urban,Chole Bhature
+94,Hyderabad,Telangana,37,Summer,High,Low,7,Average,Urban,Chole Bhature
+97,Chennai,Tamil Nadu,27,Summer,Low,Low,4,Good,Rural,Roti with Dal Tadka
+71,Pune,Maharashtra,20,Winter,Low,Low,7,Poor,Rural,Aloo Gobi
+57,Bhopal,Madhya Pradesh,39,Winter,High,Low,8,Poor,Urban,Roti with Dal Tadka
+78,Surat,Gujarat,20,Winter,High,Low,9,Excellent,Rural,Tandoori Chicken Salad
+82,Delhi,Delhi,14,Winter,Medium,High,6,Average,Urban,Chole Bhature
+93,Kochi,Kerala,16,Monsoon,Low,Low,7,Excellent,Rural,Tandoori Chicken Salad
+87,Lucknow,Uttar Pradesh,12,Monsoon,High,Low,7,Poor,Rural,Oats Idli
+94,Srinagar,Jammu and Kashmir,42,Autumn,High,High,6,Poor,Rural,Kadai Paneer
+62,Hyderabad,Telangana,23,Autumn,Low,High,8,Poor,Rural,Rajma Chawal
+72,Delhi,Delhi,16,Summer,Low,Medium,4,Excellent,Rural,Kulfi
+75,Ahmedabad,Gujarat,41,Winter,Low,High,4,Excellent,Urban,Rajma Chawal
+73,Varanasi,Uttar Pradesh,24,Summer,High,Medium,9,Average,Rural,Paneer Butter Masala
+76,Indore,Madhya Pradesh,32,Autumn,Low,High,5,Excellent,Rural,Aloo Gobi
+78,Guwahati,Assam,31,Autumn,High,High,5,Good,Rural,Dal Makhani
+51,Srinagar,Jammu and Kashmir,10,Monsoon,High,High,8,Poor,Urban,Vegetable Pulao
+96,Ludhiana,Punjab,13,Winter,Medium,Low,5,Average,Urban,Paneer Butter Masala
+51,Srinagar,Jammu and Kashmir,25,Winter,High,Medium,5,Excellent,Urban,Paneer Butter Masala
+59,Nagpur,Maharashtra,35,Winter,High,High,9,Excellent,Rural,Gajar ka Halwa
+52,Surat,Gujarat,14,Monsoon,Medium,Medium,6,Good,Urban,Roti with Dal Tadka
+72,Kochi,Kerala,38,Summer,High,High,7,Good,Rural,Aloo Gobi
+84,Visakhapatnam,Andhra Pradesh,39,Autumn,High,High,4,Good,Rural,Dal Makhani
+94,Bhopal,Madhya Pradesh,16,Winter,High,Medium,6,Poor,Rural,Aloo Gobi
+89,Surat,Gujarat,34,Winter,High,Low,9,Good,Rural,Aloo Gobi
+58,Visakhapatnam,Andhra Pradesh,36,Summer,Medium,High,9,Good,Urban,Chole Bhature
+52,Lucknow,Uttar Pradesh,19,Autumn,High,Low,8,Average,Urban,Roti with Dal Tadka
+94,Kolkata,West Bengal,15,Summer,Low,Low,8,Average,Urban,Vegetable Pulao
+52,Chennai,Tamil Nadu,16,Summer,High,Low,6,Excellent,Urban,Kulfi
+91,Kochi,Kerala,35,Summer,Medium,Low,4,Poor,Urban,Quinoa Upma
+50,Bangalore,Karnataka,32,Monsoon,Medium,High,9,Good,Rural,Corn on the Cob (Bhutta)
+78,Chandigarh,Chandigarh,37,Summer,Low,High,9,Good,Urban,Kulfi
+68,Bhopal,Madhya Pradesh,41,Summer,High,Medium,7,Average,Rural,Curd Rice
+56,Ludhiana,Punjab,11,Summer,Medium,Medium,9,Average,Rural,Vegetable Pulao
+95,Pune,Maharashtra,22,Autumn,High,High,5,Good,Rural,Chole Bhature
+57,Visakhapatnam,Andhra Pradesh,22,Monsoon,High,Low,5,Excellent,Rural,Chole Bhature
+82,Srinagar,Jammu and Kashmir,14,Summer,Low,High,6,Average,Urban,Kadai Paneer
+69,Delhi,Delhi,18,Winter,Low,Low,7,Average,Urban,Paneer Butter Masala
+88,Kochi,Kerala,33,Winter,High,High,8,Average,Urban,Vegetable Pulao
+99,Nagpur,Maharashtra,34,Monsoon,Medium,High,6,Excellent,Urban,Moong Dal Khichdi
+56,Indore,Madhya Pradesh,42,Monsoon,High,High,4,Average,Rural,Kadai Paneer
+64,Jaipur,Rajasthan,27,Summer,Low,Medium,7,Good,Rural,Chole Bhature
+71,Pune,Maharashtra,33,Monsoon,High,Low,9,Average,Rural,Paneer Butter Masala
+76,Srinagar,Jammu and Kashmir,20,Monsoon,Low,High,6,Excellent,Urban,Paneer Butter Masala
+86,Bangalore,Karnataka,14,Autumn,High,Medium,7,Average,Rural,Paneer Butter Masala
+87,Delhi,Delhi,12,Autumn,Low,Medium,9,Good,Urban,Vegetable Pulao
+87,Hyderabad,Telangana,14,Autumn,High,Medium,9,Excellent,Rural,Chole Bhature
+82,Lucknow,Uttar Pradesh,28,Monsoon,High,High,8,Excellent,Rural,Pakoras with Chai
+67,Mumbai,Maharashtra,15,Summer,Medium,Medium,7,Poor,Rural,Aloo Gobi
+80,Guwahati,Assam,27,Winter,Low,Medium,6,Good,Urban,Gajar ka Halwa
+62,Kochi,Kerala,13,Monsoon,Low,Medium,7,Good,Rural,Paneer Butter Masala
+75,Mumbai,Maharashtra,41,Autumn,Medium,Medium,6,Good,Urban,Chole Bhature
+62,Agra,Uttar Pradesh,34,Winter,Low,Low,8,Average,Urban,Aloo Gobi
+52,Visakhapatnam,Andhra Pradesh,35,Autumn,Low,Low,5,Excellent,Rural,Tandoori Chicken Salad
+78,Chennai,Tamil Nadu,15,Autumn,Low,Medium,7,Average,Urban,Paneer Butter Masala
+74,Lucknow,Uttar Pradesh,36,Summer,Low,Medium,9,Poor,Rural,Curd Rice
+83,Guwahati,Assam,35,Autumn,Medium,Medium,8,Excellent,Rural,Vegetable Pulao
+52,Jaipur,Rajasthan,10,Monsoon,Medium,High,6,Good,Rural,Roti with Dal Tadka
+61,Hyderabad,Telangana,41,Winter,Medium,Medium,6,Excellent,Urban,Gajar ka Halwa
+60,Chandigarh,Chandigarh,13,Autumn,High,Medium,4,Good,Rural,Chole Bhature
+60,Kolkata,West Bengal,12,Monsoon,High,Low,5,Average,Rural,Chole Bhature
+82,Nagpur,Maharashtra,11,Winter,Low,High,8,Excellent,Urban,Mutton Rogan Josh
+96,Nagpur,Maharashtra,18,Summer,Low,Low,9,Good,Rural,Aloo Gobi
+77,Kochi,Kerala,11,Summer,Medium,Medium,4,Good,Rural,Aloo Gobi
+74,Nagpur,Maharashtra,14,Summer,Low,Medium,7,Good,Urban,Chole Bhature
+55,Surat,Gujarat,33,Winter,High,Low,4,Good,Rural,Gajar ka Halwa
+50,Mumbai,Maharashtra,41,Autumn,Medium,Low,8,Poor,Urban,Paneer Butter Masala
+94,Kolkata,West Bengal,42,Winter,High,Medium,8,Average,Rural,Dal Makhani
+81,Srinagar,Jammu and Kashmir,35,Monsoon,Low,Low,9,Good,Rural,Quinoa Upma
+63,Srinagar,Jammu and Kashmir,19,Summer,High,High,4,Average,Rural,Lemon Rice
+57,Ludhiana,Punjab,37,Summer,Medium,High,5,Good,Urban,Dal Makhani
+100,Surat,Gujarat,12,Autumn,High,Low,5,Good,Urban,Oats Idli
+56,Surat,Gujarat,21,Autumn,Low,Medium,6,Good,Rural,Roti with Dal Tadka
+81,Bhopal,Madhya Pradesh,10,Summer,Low,Medium,8,Average,Urban,Roti with Dal Tadka
+74,Varanasi,Uttar Pradesh,35,Monsoon,High,Low,8,Good,Urban,Vegetable Pulao
+69,Bangalore,Karnataka,13,Monsoon,High,Low,8,Excellent,Rural,Quinoa Upma
+53,Surat,Gujarat,11,Summer,Low,Low,7,Good,Rural,Sprout Salad
+79,Varanasi,Uttar Pradesh,10,Monsoon,Medium,Low,5,Poor,Rural,Oats Idli
+58,Chennai,Tamil Nadu,22,Monsoon,Low,High,7,Good,Urban,Corn on the Cob (Bhutta)
+87,Varanasi,Uttar Pradesh,28,Autumn,High,High,8,Excellent,Rural,Rajma Chawal
+81,Delhi,Delhi,39,Autumn,Medium,Low,4,Average,Urban,Aloo Gobi
+81,Nagpur,Maharashtra,34,Monsoon,Medium,Low,5,Average,Urban,Oats Idli
+67,Delhi,Delhi,15,Winter,Low,High,6,Excellent,Rural,Sarson ka Saag with Makki di Roti
+61,Ludhiana,Punjab,32,Winter,Low,Medium,4,Average,Urban,Dal Makhani
+59,Surat,Gujarat,17,Monsoon,High,Low,9,Good,Rural,Moong Dal Khichdi
+56,Ahmedabad,Gujarat,37,Monsoon,Medium,Medium,4,Poor,Rural,Vegetable Pulao
+69,Ahmedabad,Gujarat,34,Autumn,Low,Low,7,Excellent,Urban,Chole Bhature
+67,Surat,Gujarat,25,Summer,Low,Low,8,Excellent,Urban,Vegetable Pulao
+87,Varanasi,Uttar Pradesh,37,Autumn,High,High,6,Poor,Urban,Kadai Paneer
+57,Indore,Madhya Pradesh,40,Monsoon,Medium,Medium,9,Poor,Urban,Samosa
+95,Srinagar,Jammu and Kashmir,14,Summer,High,Medium,6,Excellent,Rural,Aloo Gobi
+65,Srinagar,Jammu and Kashmir,18,Summer,High,Medium,7,Good,Rural,Vegetable Pulao
+61,Pune,Maharashtra,16,Autumn,High,Low,9,Good,Rural,Aloo Gobi
+88,Mumbai,Maharashtra,13,Monsoon,High,High,9,Average,Urban,Aloo Gobi
+72,Lucknow,Uttar Pradesh,21,Autumn,High,Medium,9,Average,Rural,Chole Bhature
+66,Bhopal,Madhya Pradesh,14,Autumn,Low,Medium,6,Average,Urban,Roti with Dal Tadka
+85,Chennai,Tamil Nadu,21,Monsoon,High,Medium,9,Poor,Urban,Corn on the Cob (Bhutta)
+51,Guwahati,Assam,18,Monsoon,High,Low,4,Good,Urban,Sprout Salad
+99,Ludhiana,Punjab,12,Summer,Medium,Low,4,Average,Rural,Curd Rice
+61,Visakhapatnam,Andhra Pradesh,37,Summer,Low,High,5,Average,Rural,Paneer Butter Masala
+99,Visakhapatnam,Andhra Pradesh,32,Summer,Low,Low,8,Good,Urban,Sprout Salad
+98,Varanasi,Uttar Pradesh,13,Monsoon,High,Low,9,Excellent,Rural,Samosa
+55,Surat,Gujarat,25,Autumn,Low,Medium,4,Average,Rural,Aloo Gobi
+59,Kolkata,West Bengal,40,Autumn,Medium,Low,5,Excellent,Urban,Paneer Butter Masala
+85,Guwahati,Assam,36,Monsoon,High,High,5,Average,Urban,Chole Bhature
+96,Ahmedabad,Gujarat,11,Winter,Low,Medium,9,Good,Rural,Aloo Gobi
+99,Ahmedabad,Gujarat,17,Monsoon,Low,Low,6,Average,Rural,Samosa
+50,Lucknow,Uttar Pradesh,25,Autumn,Low,High,8,Poor,Rural,Aloo Gobi
+59,Jaipur,Rajasthan,32,Autumn,High,Medium,5,Excellent,Urban,Aloo Gobi
+53,Bhopal,Madhya Pradesh,25,Monsoon,Low,High,4,Poor,Rural,Vegetable Pulao
+99,Nagpur,Maharashtra,16,Monsoon,Low,Medium,5,Average,Rural,Roti with Dal Tadka
+50,Hyderabad,Telangana,14,Winter,Medium,High,5,Excellent,Rural,Chole Bhature
+60,Guwahati,Assam,24,Autumn,High,Medium,4,Good,Rural,Chole Bhature
+83,Lucknow,Uttar Pradesh,19,Summer,Low,Medium,8,Good,Rural,Paneer Butter Masala
+54,Delhi,Delhi,33,Autumn,Low,Low,5,Excellent,Urban,Sprout Salad
+78,Hyderabad,Telangana,26,Autumn,Medium,Low,7,Poor,Urban,Hyderabadi Dum Biryani
+61,Jaipur,Rajasthan,40,Monsoon,Low,Medium,4,Poor,Urban,Chole Bhature
+82,Varanasi,Uttar Pradesh,19,Autumn,Medium,High,6,Good,Urban,Dal Makhani
+95,Delhi,Delhi,18,Winter,Medium,Medium,8,Average,Urban,Mutton Rogan Josh
+72,Agra,Uttar Pradesh,26,Winter,Low,Medium,8,Good,Urban,Mutton Rogan Josh
+86,Delhi,Delhi,34,Monsoon,Medium,Medium,8,Poor,Urban,Paneer Butter Masala
+99,Srinagar,Jammu and Kashmir,20,Monsoon,Medium,Medium,7,Poor,Urban,Samosa
+83,Surat,Gujarat,26,Winter,Medium,Medium,8,Good,Rural,Roti with Dal Tadka
+88,Surat,Gujarat,39,Winter,High,Medium,9,Average,Urban,Dal Makhani
+62,Indore,Madhya Pradesh,11,Monsoon,Medium,Low,7,Excellent,Rural,Roti with Dal Tadka
+54,Patna,Bihar,11,Autumn,High,Medium,7,Excellent,Rural,Aloo Gobi
+69,Kolkata,West Bengal,10,Summer,High,Low,9,Excellent,Rural,Roti with Dal Tadka
+88,Nagpur,Maharashtra,39,Summer,High,High,8,Poor,Rural,Roti with Dal Tadka
+71,Nagpur,Maharashtra,22,Summer,Medium,Medium,9,Poor,Urban,Curd Rice
+64,Kolkata,West Bengal,24,Autumn,Low,High,9,Good,Urban,Paneer Butter Masala
+77,Hyderabad,Telangana,27,Winter,Low,High,4,Average,Urban,Mutton Rogan Josh
+83,Lucknow,Uttar Pradesh,14,Monsoon,High,Medium,5,Average,Rural,Vegetable Pulao
+56,Guwahati,Assam,32,Winter,High,High,5,Poor,Rural,Aloo Gobi
+72,Delhi,Delhi,29,Monsoon,Low,Low,8,Poor,Rural,Paneer Butter Masala
+88,Delhi,Delhi,28,Autumn,Low,Low,9,Average,Rural,Roti with Dal Tadka
+100,Kolkata,West Bengal,30,Monsoon,Medium,High,9,Good,Rural,Rajma Chawal
+100,Guwahati,Assam,10,Autumn,Medium,Medium,9,Average,Rural,Roti with Dal Tadka
+62,Hyderabad,Telangana,16,Monsoon,High,Medium,4,Average,Rural,Corn on the Cob (Bhutta)
+61,Bhopal,Madhya Pradesh,36,Monsoon,Medium,High,6,Poor,Rural,Dal Makhani
+51,Kolkata,West Bengal,40,Summer,Low,Low,5,Average,Rural,Lemon Rice
+94,Delhi,Delhi,14,Summer,Medium,High,8,Poor,Urban,Chole Bhature
+97,Mumbai,Maharashtra,13,Winter,Medium,High,8,Excellent,Urban,Mutton Rogan Josh
+96,Kochi,Kerala,19,Autumn,High,Medium,6,Average,Rural,Roti with Dal Tadka
+51,Ludhiana,Punjab,14,Autumn,Low,Low,6,Average,Rural,Paneer Butter Masala
+85,Varanasi,Uttar Pradesh,37,Monsoon,High,Low,9,Poor,Urban,Samosa
+87,Nagpur,Maharashtra,38,Autumn,High,Medium,8,Average,Urban,Paneer Butter Masala
+95,Chennai,Tamil Nadu,34,Autumn,Medium,High,4,Average,Rural,Rajma Chawal
+95,Chennai,Tamil Nadu,19,Summer,Medium,Medium,8,Good,Rural,Vegetable Pulao
+58,Chennai,Tamil Nadu,24,Winter,Low,Medium,4,Good,Urban,Chole Bhature
+78,Indore,Madhya Pradesh,23,Summer,Low,Low,8,Average,Rural,Sprout Salad
+86,Ludhiana,Punjab,26,Monsoon,Low,Medium,9,Good,Urban,Vegetable Pulao
+52,Surat,Gujarat,31,Autumn,High,High,9,Average,Rural,Kadai Paneer
+78,Nagpur,Maharashtra,19,Winter,High,High,7,Good,Rural,Rajma Chawal
+84,Mumbai,Maharashtra,14,Autumn,Medium,Low,9,Average,Rural,Sprout Salad
+96,Jaipur,Rajasthan,17,Summer,Medium,Medium,7,Excellent,Urban,Roti with Dal Tadka
+89,Nagpur,Maharashtra,29,Autumn,Medium,High,4,Good,Rural,Paneer Butter Masala
+69,Mumbai,Maharashtra,19,Summer,Medium,High,8,Excellent,Urban,Dal Makhani
+98,Delhi,Delhi,13,Winter,Medium,Medium,4,Average,Rural,Gajar ka Halwa
+73,Chandigarh,Chandigarh,30,Autumn,High,High,9,Excellent,Urban,Aloo Gobi
+73,Jaipur,Rajasthan,27,Autumn,High,High,9,Average,Rural,Kadai Paneer
+85,Visakhapatnam,Andhra Pradesh,15,Winter,Medium,Medium,7,Average,Rural,Sarson ka Saag with Makki di Roti
+83,Bangalore,Karnataka,33,Summer,Medium,Medium,9,Excellent,Rural,Kulfi
+97,Kolkata,West Bengal,19,Autumn,High,Low,7,Excellent,Rural,Chole Bhature
+86,Mumbai,Maharashtra,39,Monsoon,Medium,Medium,7,Good,Rural,Corn on the Cob (Bhutta)
+51,Nagpur,Maharashtra,20,Autumn,High,High,6,Excellent,Urban,Moong Dal Khichdi
+97,Pune,Maharashtra,32,Autumn,Medium,Medium,6,Poor,Rural,Paneer Butter Masala
+95,Chennai,Tamil Nadu,19,Monsoon,High,High,6,Excellent,Rural,Roti with Dal Tadka
+65,Chandigarh,Chandigarh,34,Winter,Medium,High,4,Good,Urban,Aloo Gobi
+51,Lucknow,Uttar Pradesh,25,Monsoon,Low,Low,5,Excellent,Urban,Roti with Dal Tadka
+69,Indore,Madhya Pradesh,17,Winter,Low,Low,9,Good,Rural,Vegetable Pulao
+87,Chandigarh,Chandigarh,10,Summer,High,High,4,Average,Urban,Roti with Dal Tadka
+78,Kochi,Kerala,38,Summer,High,High,4,Good,Rural,Rajma Chawal
+74,Surat,Gujarat,14,Winter,Medium,Low,9,Poor,Rural,Chole Bhature
+100,Lucknow,Uttar Pradesh,17,Winter,Low,High,5,Good,Urban,Rajma Chawal
+86,Pune,Maharashtra,35,Autumn,Low,High,6,Average,Rural,Roti with Dal Tadka
+96,Bhopal,Madhya Pradesh,38,Autumn,High,Low,4,Good,Urban,Aloo Gobi
+65,Patna,Bihar,26,Autumn,Low,High,7,Poor,Rural,Aloo Gobi
+59,Guwahati,Assam,39,Monsoon,High,Medium,5,Average,Urban,Paneer Butter Masala
+81,Nagpur,Maharashtra,16,Monsoon,Medium,Low,5,Poor,Rural,Aloo Gobi
+55,Mumbai,Maharashtra,31,Monsoon,Medium,High,6,Good,Urban,Roti with Dal Tadka
+86,Agra,Uttar Pradesh,15,Monsoon,High,Medium,5,Average,Rural,Corn on the Cob (Bhutta)
+81,Mumbai,Maharashtra,32,Autumn,Low,Medium,6,Average,Urban,Vada Pav
+93,Surat,Gujarat,17,Summer,Medium,High,6,Poor,Urban,Vegetable Pulao
+78,Agra,Uttar Pradesh,37,Monsoon,Medium,Medium,6,Excellent,Urban,Samosa
+94,Chennai,Tamil Nadu,35,Summer,High,Medium,7,Average,Urban,Vegetable Pulao
+65,Bangalore,Karnataka,29,Monsoon,High,Medium,5,Excellent,Urban,Aloo Gobi
+79,Srinagar,Jammu and Kashmir,26,Autumn,Low,High,9,Good,Urban,Chole Bhature
+75,Nagpur,Maharashtra,19,Winter,Medium,High,7,Poor,Urban,Dal Makhani
+57,Kochi,Kerala,30,Autumn,Medium,Medium,7,Excellent,Urban,Chole Bhature
+72,Surat,Gujarat,15,Summer,High,Medium,9,Good,Urban,Sprout Salad
+100,Patna,Bihar,18,Monsoon,Low,Low,6,Excellent,Urban,Moong Dal Khichdi
+66,Delhi,Delhi,30,Summer,Medium,Medium,8,Excellent,Urban,Paneer Butter Masala
+73,Nagpur,Maharashtra,17,Summer,Low,Low,5,Average,Rural,Kulfi
+82,Lucknow,Uttar Pradesh,40,Autumn,Low,Medium,7,Average,Urban,Vegetable Pulao
+77,Nagpur,Maharashtra,32,Autumn,Medium,Low,6,Excellent,Rural,Quinoa Upma
+91,Lucknow,Uttar Pradesh,33,Winter,High,Medium,6,Average,Urban,Mutton Rogan Josh
+100,Ludhiana,Punjab,30,Summer,Medium,High,9,Excellent,Urban,Curd Rice
+68,Kochi,Kerala,25,Autumn,Low,Low,9,Poor,Urban,Paneer Butter Masala
+63,Chennai,Tamil Nadu,33,Monsoon,High,Low,5,Average,Urban,Roti with Dal Tadka
+71,Ahmedabad,Gujarat,11,Autumn,Low,Low,7,Good,Rural,Tandoori Chicken Salad
+70,Chennai,Tamil Nadu,21,Summer,Low,Low,8,Excellent,Urban,Tandoori Chicken Salad
+61,Srinagar,Jammu and Kashmir,13,Winter,High,Low,8,Excellent,Urban,Chole Bhature
+68,Delhi,Delhi,11,Autumn,High,Low,8,Good,Urban,Tandoori Chicken Salad
+100,Ahmedabad,Gujarat,39,Summer,Medium,High,5,Poor,Urban,Sprout Salad
+59,Nagpur,Maharashtra,38,Autumn,High,High,6,Good,Rural,Dal Makhani
+70,Surat,Gujarat,33,Summer,Medium,High,9,Good,Rural,Vegetable Pulao
+57,Bangalore,Karnataka,19,Summer,Medium,Low,7,Good,Urban,Paneer Butter Masala
+77,Patna,Bihar,22,Summer,Medium,High,4,Poor,Rural,Vegetable Pulao
+93,Pune,Maharashtra,27,Winter,Low,Medium,4,Good,Urban,Dal Makhani
+87,Nagpur,Maharashtra,28,Winter,Low,Medium,8,Excellent,Urban,Paneer Butter Masala
+92,Delhi,Delhi,25,Summer,Medium,Medium,8,Average,Rural,Kulfi
+54,Chennai,Tamil Nadu,13,Autumn,Medium,Medium,9,Average,Rural,Roti with Dal Tadka
+59,Visakhapatnam,Andhra Pradesh,33,Summer,High,Low,5,Excellent,Rural,Aam Panna
+50,Ludhiana,Punjab,26,Summer,High,High,7,Poor,Rural,Chole Bhature
+82,Surat,Gujarat,33,Autumn,High,High,8,Poor,Rural,Vegetable Pulao
+68,Patna,Bihar,41,Autumn,High,Medium,9,Poor,Rural,Paneer Butter Masala
+53,Chandigarh,Chandigarh,14,Autumn,Low,Low,5,Excellent,Rural,Vegetable Pulao
+77,Guwahati,Assam,29,Summer,High,Medium,5,Good,Urban,Sprout Salad
+71,Surat,Gujarat,34,Winter,High,Low,4,Poor,Rural,Vegetable Pulao
+100,Kolkata,West Bengal,30,Winter,Medium,High,9,Poor,Urban,Dal Makhani
+81,Chennai,Tamil Nadu,42,Monsoon,Low,Medium,5,Excellent,Urban,Roti with Dal Tadka
+61,Bhopal,Madhya Pradesh,42,Monsoon,Low,Low,7,Average,Rural,Moong Dal Khichdi
+76,Kolkata,West Bengal,17,Winter,Medium,Low,9,Good,Urban,Vegetable Pulao
+79,Ahmedabad,Gujarat,12,Monsoon,High,High,4,Poor,Urban,Moong Dal Khichdi
+58,Jaipur,Rajasthan,39,Winter,Medium,Low,9,Poor,Rural,Dal Makhani
+100,Bangalore,Karnataka,14,Winter,Low,Medium,7,Excellent,Urban,Gajar ka Halwa
+52,Kochi,Kerala,23,Autumn,High,Medium,7,Good,Rural,Vegetable Pulao
+56,Surat,Gujarat,33,Autumn,Medium,High,4,Excellent,Rural,Roti with Dal Tadka
+54,Lucknow,Uttar Pradesh,33,Monsoon,High,Low,7,Excellent,Rural,Tandoori Chicken Salad
+69,Bhopal,Madhya Pradesh,11,Autumn,Low,High,5,Good,Urban,Rajma Chawal
+81,Indore,Madhya Pradesh,13,Summer,Medium,Low,9,Average,Urban,Vegetable Pulao
+92,Agra,Uttar Pradesh,22,Autumn,Medium,Low,9,Poor,Rural,Aloo Gobi
+55,Varanasi,Uttar Pradesh,39,Monsoon,High,Low,4,Average,Urban,Sprout Salad
+94,Kochi,Kerala,23,Winter,Medium,Low,8,Excellent,Rural,Roti with Dal Tadka
+85,Indore,Madhya Pradesh,10,Summer,High,Low,9,Average,Urban,Roti with Dal Tadka
+54,Kolkata,West Bengal,23,Winter,Low,Low,7,Excellent,Rural,Sarson ka Saag with Makki di Roti
+99,Patna,Bihar,39,Winter,Medium,Medium,6,Poor,Rural,Paneer Butter Masala
+51,Pune,Maharashtra,38,Summer,Low,High,9,Good,Urban,Roti with Dal Tadka
+98,Agra,Uttar Pradesh,29,Monsoon,Low,High,7,Poor,Rural,Rajma Chawal
+93,Indore,Madhya Pradesh,37,Winter,Low,Low,8,Poor,Rural,Paneer Butter Masala
+86,Visakhapatnam,Andhra Pradesh,15,Summer,High,Medium,5,Poor,Urban,Chole Bhature
+87,Jaipur,Rajasthan,29,Winter,Medium,Medium,9,Good,Rural,Gajar ka Halwa
+58,Ahmedabad,Gujarat,21,Summer,Low,Low,6,Excellent,Rural,Aloo Gobi
+100,Jaipur,Rajasthan,11,Winter,Low,Low,7,Excellent,Urban,Aloo Gobi
+86,Kochi,Kerala,36,Winter,High,High,7,Average,Urban,Dal Makhani
+58,Agra,Uttar Pradesh,27,Monsoon,Medium,High,7,Good,Urban,Vegetable Pulao
+74,Delhi,Delhi,42,Monsoon,High,Medium,8,Poor,Rural,Corn on the Cob (Bhutta)
+53,Mumbai,Maharashtra,27,Winter,Medium,Low,5,Good,Urban,Dal Makhani
+86,Surat,Gujarat,15,Summer,High,Low,6,Good,Urban,Paneer Butter Masala
+53,Kochi,Kerala,28,Winter,High,Low,5,Average,Rural,Oats Idli
+92,Nagpur,Maharashtra,17,Monsoon,High,Low,8,Average,Rural,Pakoras with Chai
+91,Kolkata,West Bengal,23,Summer,High,High,7,Average,Rural,Dal Makhani
+92,Lucknow,Uttar Pradesh,11,Winter,High,Low,5,Good,Rural,Vegetable Pulao
+78,Srinagar,Jammu and Kashmir,16,Monsoon,High,Low,4,Average,Urban,Paneer Butter Masala
+95,Indore,Madhya Pradesh,21,Winter,Low,High,4,Average,Rural,Moong Dal Khichdi
+80,Jaipur,Rajasthan,23,Autumn,Medium,Low,8,Poor,Urban,Aloo Gobi
+62,Mumbai,Maharashtra,42,Winter,Medium,Medium,9,Poor,Urban,Roti with Dal Tadka
+97,Kochi,Kerala,11,Summer,High,Medium,4,Poor,Urban,Paneer Butter Masala
+89,Mumbai,Maharashtra,36,Winter,High,High,7,Good,Urban,Chole Bhature
+91,Mumbai,Maharashtra,22,Summer,High,Medium,8,Good,Urban,Curd Rice
+60,Bangalore,Karnataka,40,Summer,Low,High,9,Average,Urban,Kulfi
+75,Chennai,Tamil Nadu,35,Summer,Low,Low,8,Average,Urban,Masala Dosa
+95,Guwahati,Assam,24,Winter,Low,Low,4,Good,Rural,Vegetable Pulao
+83,Lucknow,Uttar Pradesh,29,Winter,High,Low,9,Poor,Rural,Mutton Rogan Josh
+83,Delhi,Delhi,10,Winter,Medium,Medium,6,Poor,Rural,Aloo Gobi
+58,Agra,Uttar Pradesh,14,Winter,Medium,Low,9,Poor,Rural,Aloo Gobi
+77,Bhopal,Madhya Pradesh,19,Summer,Medium,Low,7,Good,Urban,Lemon Rice
+99,Jaipur,Rajasthan,31,Autumn,Low,High,4,Average,Urban,Roti with Dal Tadka
+55,Guwahati,Assam,19,Summer,Low,Medium,9,Poor,Urban,Kulfi
+65,Nagpur,Maharashtra,14,Autumn,High,High,6,Average,Rural,Kadai Paneer
+80,Kochi,Kerala,29,Summer,High,Low,6,Average,Rural,Sprout Salad
+73,Varanasi,Uttar Pradesh,23,Monsoon,Medium,High,9,Excellent,Rural,Corn on the Cob (Bhutta)
+52,Agra,Uttar Pradesh,38,Autumn,Low,Medium,8,Good,Rural,Paneer Butter Masala
+63,Ahmedabad,Gujarat,29,Summer,High,Medium,7,Poor,Urban,Curd Rice
+82,Kochi,Kerala,37,Autumn,Low,Low,4,Poor,Rural,Oats Idli
+83,Bhopal,Madhya Pradesh,34,Autumn,Medium,Low,6,Average,Urban,Tandoori Chicken Salad
+66,Agra,Uttar Pradesh,40,Summer,High,Medium,4,Good,Rural,Lemon Rice
+55,Kolkata,West Bengal,21,Winter,High,High,6,Good,Rural,Gajar ka Halwa
+86,Surat,Gujarat,35,Summer,Medium,High,7,Poor,Rural,Kulfi
+58,Ludhiana,Punjab,31,Summer,Medium,Medium,4,Average,Rural,Curd Rice
+66,Bangalore,Karnataka,18,Autumn,Low,High,5,Excellent,Urban,Vegetable Pulao
+86,Guwahati,Assam,39,Summer,Medium,Low,7,Good,Urban,Paneer Butter Masala
+66,Chandigarh,Chandigarh,16,Summer,Low,Low,7,Average,Rural,Chole Bhature
+76,Agra,Uttar Pradesh,15,Autumn,Medium,High,5,Poor,Rural,Aloo Gobi
+74,Chandigarh,Chandigarh,15,Autumn,Medium,High,8,Poor,Rural,Roti with Dal Tadka
+62,Ahmedabad,Gujarat,28,Monsoon,Medium,High,9,Average,Urban,Kadai Paneer
+56,Ahmedabad,Gujarat,33,Monsoon,Low,Low,8,Poor,Rural,Samosa
+86,Bangalore,Karnataka,41,Monsoon,High,Low,5,Good,Urban,Paneer Butter Masala
+57,Nagpur,Maharashtra,37,Monsoon,Medium,Low,7,Poor,Urban,Pakoras with Chai
+70,Guwahati,Assam,19,Monsoon,Low,Low,8,Average,Rural,Sprout Salad
+64,Chennai,Tamil Nadu,20,Monsoon,Medium,High,9,Good,Rural,Roti with Dal Tadka
+91,Ludhiana,Punjab,27,Summer,Low,Medium,7,Poor,Urban,Lemon Rice
+69,Agra,Uttar Pradesh,30,Monsoon,High,Medium,9,Poor,Rural,Pakoras with Chai
+93,Agra,Uttar Pradesh,18,Winter,High,Low,6,Excellent,Rural,Aloo Gobi
+84,Delhi,Delhi,24,Summer,High,High,5,Excellent,Urban,Vegetable Pulao
+61,Guwahati,Assam,11,Winter,High,Medium,5,Excellent,Urban,Chole Bhature
+62,Lucknow,Uttar Pradesh,27,Summer,Low,High,9,Average,Rural,Kadai Paneer
+88,Srinagar,Jammu and Kashmir,26,Summer,High,Low,7,Good,Urban,Roti with Dal Tadka
+94,Delhi,Delhi,27,Autumn,High,Low,5,Good,Rural,Vegetable Pulao
+54,Chandigarh,Chandigarh,11,Winter,High,Medium,8,Average,Rural,Chole Bhature
+65,Patna,Bihar,27,Autumn,Low,High,4,Excellent,Urban,Kadai Paneer
+82,Kolkata,West Bengal,20,Winter,High,Medium,5,Poor,Urban,Gajar ka Halwa
+55,Indore,Madhya Pradesh,31,Summer,Low,Medium,9,Good,Rural,Lemon Rice
+59,Mumbai,Maharashtra,36,Autumn,Medium,Low,7,Good,Rural,Paneer Butter Masala
+74,Visakhapatnam,Andhra Pradesh,41,Summer,High,Medium,9,Average,Rural,Aloo Gobi
+97,Pune,Maharashtra,19,Autumn,Medium,Low,7,Poor,Rural,Vegetable Pulao
+63,Ahmedabad,Gujarat,12,Summer,High,Low,4,Average,Rural,Aam Panna
+74,Guwahati,Assam,29,Autumn,High,Low,8,Good,Urban,Vegetable Pulao
+99,Surat,Gujarat,22,Monsoon,Medium,Low,6,Good,Rural,Oats Idli
+73,Chandigarh,Chandigarh,33,Monsoon,Low,Medium,4,Average,Urban,Pakoras with Chai
+50,Kochi,Kerala,37,Monsoon,High,Low,9,Average,Rural,Samosa
+57,Bangalore,Karnataka,32,Winter,High,High,8,Good,Rural,Chole Bhature
+67,Kolkata,West Bengal,16,Autumn,Medium,High,4,Average,Urban,Roti with Dal Tadka
+74,Bhopal,Madhya Pradesh,19,Winter,Low,Low,8,Excellent,Rural,Vegetable Pulao
+56,Srinagar,Jammu and Kashmir,31,Monsoon,Low,Low,6,Excellent,Urban,Moong Dal Khichdi
+51,Varanasi,Uttar Pradesh,40,Monsoon,Medium,Medium,9,Average,Urban,Corn on the Cob (Bhutta)
+82,Bangalore,Karnataka,33,Monsoon,Low,Low,7,Poor,Urban,Corn on the Cob (Bhutta)
+75,Hyderabad,Telangana,21,Monsoon,High,Medium,8,Average,Rural,Roti with Dal Tadka
+70,Surat,Gujarat,15,Monsoon,Low,High,7,Excellent,Urban,Dal Makhani
+81,Mumbai,Maharashtra,27,Winter,High,High,7,Poor,Urban,Dal Makhani
+84,Srinagar,Jammu and Kashmir,35,Summer,Low,Medium,9,Good,Rural,Paneer Butter Masala
+83,Chandigarh,Chandigarh,22,Monsoon,Medium,Low,6,Average,Rural,Aloo Gobi
+89,Indore,Madhya Pradesh,32,Monsoon,Medium,High,4,Average,Rural,Roti with Dal Tadka
+88,Indore,Madhya Pradesh,29,Monsoon,High,Low,6,Average,Urban,Moong Dal Khichdi
+78,Bangalore,Karnataka,26,Summer,High,Medium,5,Poor,Rural,Vegetable Pulao
+80,Mumbai,Maharashtra,21,Summer,Low,Medium,4,Poor,Rural,Sprout Salad
+78,Guwahati,Assam,31,Summer,Medium,Medium,5,Average,Urban,Sprout Salad
+74,Patna,Bihar,26,Monsoon,Low,Low,7,Excellent,Urban,Sprout Salad
+89,Surat,Gujarat,38,Winter,High,High,9,Excellent,Rural,Aloo Gobi
+55,Mumbai,Maharashtra,16,Autumn,Medium,Medium,9,Poor,Urban,Chole Bhature
+57,Kochi,Kerala,12,Monsoon,High,Medium,4,Poor,Urban,Samosa
+77,Bhopal,Madhya Pradesh,13,Summer,Medium,Low,8,Good,Rural,Roti with Dal Tadka
+64,Nagpur,Maharashtra,18,Monsoon,High,Medium,5,Poor,Urban,Pakoras with Chai
+100,Delhi,Delhi,20,Summer,High,High,5,Good,Rural,Aam Panna
+94,Srinagar,Jammu and Kashmir,21,Summer,Low,Low,9,Good,Urban,Sprout Salad
+64,Surat,Gujarat,30,Monsoon,Low,Low,9,Average,Rural,Pakoras with Chai
+51,Varanasi,Uttar Pradesh,38,Autumn,High,Low,8,Average,Rural,Sprout Salad
+63,Patna,Bihar,11,Summer,Medium,High,8,Average,Urban,Rajma Chawal
+77,Varanasi,Uttar Pradesh,40,Summer,Medium,Low,8,Average,Urban,Paneer Butter Masala
+56,Ludhiana,Punjab,30,Autumn,High,High,9,Poor,Rural,Chole Bhature
+58,Surat,Gujarat,39,Summer,Low,Low,9,Poor,Urban,Oats Idli
+79,Jaipur,Rajasthan,12,Autumn,Medium,Low,7,Good,Rural,Chole Bhature
+78,Nagpur,Maharashtra,25,Autumn,High,Low,9,Excellent,Rural,Sprout Salad
+75,Nagpur,Maharashtra,10,Summer,Medium,Low,6,Average,Urban,Paneer Butter Masala
+66,Bangalore,Karnataka,14,Summer,High,High,5,Average,Rural,Vegetable Pulao
+54,Pune,Maharashtra,28,Summer,Low,Medium,8,Poor,Rural,Chole Bhature
+71,Kolkata,West Bengal,23,Winter,Medium,High,8,Average,Rural,Paneer Butter Masala
+67,Nagpur,Maharashtra,35,Winter,Low,Low,6,Excellent,Urban,Sprout Salad
+66,Surat,Gujarat,32,Autumn,Low,Low,5,Good,Rural,Oats Idli
+64,Nagpur,Maharashtra,35,Summer,Low,Low,6,Good,Rural,Chole Bhature
+58,Guwahati,Assam,42,Monsoon,High,Low,4,Poor,Rural,Roti with Dal Tadka
+63,Patna,Bihar,30,Autumn,Medium,Low,4,Poor,Rural,Paneer Butter Masala
+73,Lucknow,Uttar Pradesh,41,Summer,Low,Medium,8,Excellent,Urban,Vegetable Pulao
+62,Bangalore,Karnataka,12,Summer,High,Medium,9,Average,Urban,Aloo Gobi
+70,Jaipur,Rajasthan,22,Summer,High,Medium,7,Good,Rural,Aloo Gobi
+50,Kolkata,West Bengal,15,Monsoon,Medium,Medium,8,Average,Rural,Kosha Mangsho
+60,Chandigarh,Chandigarh,32,Winter,Medium,High,8,Good,Urban,Dal Makhani
+52,Srinagar,Jammu and Kashmir,34,Monsoon,High,Medium,7,Average,Rural,Roti with Dal Tadka
+55,Jaipur,Rajasthan,28,Autumn,High,High,6,Excellent,Rural,Roti with Dal Tadka
+91,Bangalore,Karnataka,23,Summer,Medium,Medium,6,Average,Rural,Kulfi
+73,Visakhapatnam,Andhra Pradesh,38,Winter,Medium,Low,8,Good,Urban,Mutton Rogan Josh
+88,Bangalore,Karnataka,31,Winter,Low,High,7,Excellent,Rural,Vegetable Pulao
+64,Lucknow,Uttar Pradesh,28,Winter,High,High,5,Good,Rural,Paneer Butter Masala
+79,Indore,Madhya Pradesh,17,Monsoon,Medium,Low,7,Good,Urban,Chole Bhature
+94,Srinagar,Jammu and Kashmir,33,Summer,High,Medium,7,Average,Urban,Aam Panna
+51,Bangalore,Karnataka,24,Summer,Medium,Medium,8,Good,Urban,Lemon Rice
+95,Chandigarh,Chandigarh,36,Summer,Medium,Low,8,Excellent,Rural,Sprout Salad
+58,Chandigarh,Chandigarh,27,Summer,High,Low,4,Excellent,Urban,Oats Idli
+61,Jaipur,Rajasthan,16,Autumn,Medium,Low,9,Excellent,Urban,Sprout Salad
+79,Ahmedabad,Gujarat,30,Autumn,Medium,High,8,Poor,Urban,Aloo Gobi
+91,Nagpur,Maharashtra,10,Winter,Low,High,6,Average,Urban,Roti with Dal Tadka
+57,Chandigarh,Chandigarh,37,Summer,Low,High,9,Poor,Urban,Aam Panna
+72,Chennai,Tamil Nadu,18,Winter,High,Medium,7,Excellent,Urban,Roti with Dal Tadka
+94,Srinagar,Jammu and Kashmir,41,Summer,Low,High,9,Average,Rural,Curd Rice
+60,Surat,Gujarat,29,Autumn,Medium,Low,5,Poor,Rural,Chole Bhature
+51,Patna,Bihar,27,Autumn,Low,Medium,4,Excellent,Rural,Aloo Gobi
+68,Delhi,Delhi,27,Autumn,Low,High,9,Average,Urban,Vegetable Pulao
+93,Pune,Maharashtra,25,Summer,High,Medium,8,Poor,Urban,Vegetable Pulao
+56,Nagpur,Maharashtra,14,Autumn,Medium,Medium,6,Average,Urban,Chole Bhature
+100,Lucknow,Uttar Pradesh,20,Monsoon,High,Medium,5,Excellent,Rural,Paneer Butter Masala
+59,Surat,Gujarat,37,Monsoon,Medium,Low,5,Good,Rural,Quinoa Upma
+50,Delhi,Delhi,18,Monsoon,High,Medium,9,Excellent,Rural,Corn on the Cob (Bhutta)
+57,Srinagar,Jammu and Kashmir,29,Autumn,Medium,Low,7,Good,Rural,Roti with Dal Tadka
+72,Srinagar,Jammu and Kashmir,21,Summer,Medium,Medium,6,Poor,Rural,Vegetable Pulao
+100,Kolkata,West Bengal,17,Summer,Low,Medium,6,Good,Rural,Vegetable Pulao
+57,Chandigarh,Chandigarh,38,Monsoon,Medium,Medium,7,Poor,Urban,Moong Dal Khichdi
+64,Chennai,Tamil Nadu,32,Monsoon,Low,High,5,Average,Rural,Moong Dal Khichdi
+61,Jaipur,Rajasthan,10,Monsoon,Medium,Low,5,Poor,Rural,Moong Dal Khichdi
+63,Ludhiana,Punjab,12,Monsoon,Low,High,6,Average,Urban,Pakoras with Chai
+56,Indore,Madhya Pradesh,20,Monsoon,High,Medium,6,Excellent,Rural,Moong Dal Khichdi
+62,Srinagar,Jammu and Kashmir,32,Winter,High,High,6,Excellent,Rural,Mutton Rogan Josh
+58,Mumbai,Maharashtra,40,Winter,Medium,High,9,Poor,Urban,Kadai Paneer
+56,Delhi,Delhi,13,Winter,Medium,High,4,Poor,Urban,Aloo Gobi
+59,Kolkata,West Bengal,34,Monsoon,High,Low,7,Average,Rural,Moong Dal Khichdi
+56,Patna,Bihar,17,Monsoon,Medium,Medium,8,Excellent,Urban,Moong Dal Khichdi
+93,Nagpur,Maharashtra,25,Autumn,Medium,Low,8,Poor,Rural,Chole Bhature
+93,Kochi,Kerala,40,Winter,Medium,High,5,Excellent,Urban,Rajma Chawal
+90,Visakhapatnam,Andhra Pradesh,13,Winter,Medium,Low,7,Excellent,Urban,Paneer Butter Masala
+78,Pune,Maharashtra,26,Summer,High,High,6,Good,Rural,Moong Dal Khichdi
+99,Pune,Maharashtra,28,Autumn,Medium,Medium,8,Average,Urban,Aloo Gobi
+54,Kolkata,West Bengal,38,Summer,Low,High,7,Excellent,Rural,Curd Rice
+86,Chandigarh,Chandigarh,42,Monsoon,Low,Medium,9,Poor,Urban,Pakoras with Chai
+52,Kochi,Kerala,36,Monsoon,Medium,Medium,7,Poor,Rural,Pakoras with Chai
+89,Lucknow,Uttar Pradesh,33,Summer,Medium,High,6,Average,Urban,Aam Panna
+95,Visakhapatnam,Andhra Pradesh,27,Summer,Medium,High,9,Poor,Urban,Kadai Paneer
+100,Mumbai,Maharashtra,28,Summer,Low,Medium,8,Poor,Rural,Aloo Gobi
+83,Ahmedabad,Gujarat,17,Winter,High,High,9,Poor,Urban,Paneer Butter Masala
+52,Varanasi,Uttar Pradesh,16,Monsoon,High,Low,4,Poor,Urban,Moong Dal Khichdi
+59,Kolkata,West Bengal,13,Winter,Low,High,4,Poor,Urban,Sarson ka Saag with Makki di Roti
+87,Patna,Bihar,11,Autumn,High,Low,5,Average,Rural,Paneer Butter Masala
+51,Visakhapatnam,Andhra Pradesh,26,Monsoon,Low,High,6,Average,Rural,Dal Makhani
+71,Kolkata,West Bengal,15,Summer,Low,Medium,8,Poor,Urban,Paneer Butter Masala
+99,Ahmedabad,Gujarat,11,Monsoon,Low,Medium,5,Excellent,Urban,Roti with Dal Tadka
+81,Varanasi,Uttar Pradesh,35,Winter,Low,High,5,Average,Rural,Paneer Butter Masala
+79,Ahmedabad,Gujarat,28,Autumn,Medium,Low,7,Poor,Urban,Sprout Salad
+94,Kochi,Kerala,21,Winter,Medium,High,7,Good,Rural,Gajar ka Halwa
+50,Guwahati,Assam,15,Monsoon,High,Low,7,Poor,Urban,Roti with Dal Tadka
+96,Mumbai,Maharashtra,23,Summer,Low,Low,6,Average,Urban,Tandoori Chicken Salad
+84,Chennai,Tamil Nadu,41,Summer,Medium,Low,4,Good,Rural,Quinoa Upma
+64,Visakhapatnam,Andhra Pradesh,30,Monsoon,Low,High,9,Good,Urban,Pakoras with Chai
+84,Mumbai,Maharashtra,39,Monsoon,High,Medium,5,Excellent,Urban,Corn on the Cob (Bhutta)
+77,Bangalore,Karnataka,35,Winter,High,Low,7,Good,Urban,Aloo Gobi
+92,Indore,Madhya Pradesh,29,Monsoon,Low,Low,4,Excellent,Urban,Moong Dal Khichdi
+62,Srinagar,Jammu and Kashmir,15,Summer,Low,High,4,Good,Rural,Rajma Chawal
+99,Hyderabad,Telangana,19,Summer,High,High,6,Average,Rural,Aam Panna
+97,Varanasi,Uttar Pradesh,31,Summer,Low,Low,7,Excellent,Urban,Aloo Gobi
+70,Bangalore,Karnataka,40,Summer,Low,Low,7,Average,Urban,Aloo Gobi
+75,Kolkata,West Bengal,16,Summer,Medium,High,8,Average,Rural,Curd Rice
+85,Kolkata,West Bengal,20,Monsoon,Low,Medium,7,Excellent,Urban,Pakoras with Chai
+67,Ludhiana,Punjab,22,Summer,Medium,Low,7,Average,Rural,Paneer Butter Masala
+71,Varanasi,Uttar Pradesh,19,Winter,Low,Medium,8,Average,Urban,Mutton Rogan Josh
+79,Visakhapatnam,Andhra Pradesh,34,Autumn,High,Medium,5,Poor,Rural,Roti with Dal Tadka
+81,Surat,Gujarat,42,Autumn,Low,Medium,6,Poor,Rural,Vegetable Pulao
+93,Chandigarh,Chandigarh,40,Monsoon,High,High,8,Poor,Rural,Corn on the Cob (Bhutta)
+75,Indore,Madhya Pradesh,19,Summer,Low,High,4,Average,Urban,Paneer Butter Masala
+64,Hyderabad,Telangana,37,Winter,Low,Low,9,Poor,Rural,Tandoori Chicken Salad
+52,Guwahati,Assam,38,Autumn,Low,Medium,8,Excellent,Urban,Roti with Dal Tadka
+56,Ahmedabad,Gujarat,30,Monsoon,High,Low,4,Average,Rural,Corn on the Cob (Bhutta)
+82,Pune,Maharashtra,19,Winter,High,High,5,Excellent,Urban,Mutton Rogan Josh
+53,Jaipur,Rajasthan,42,Monsoon,High,High,7,Excellent,Rural,Moong Dal Khichdi
+76,Visakhapatnam,Andhra Pradesh,30,Monsoon,Medium,Medium,6,Good,Rural,Chole Bhature
+97,Lucknow,Uttar Pradesh,31,Monsoon,Low,High,4,Poor,Rural,Samosa
+67,Varanasi,Uttar Pradesh,14,Summer,Medium,Medium,5,Good,Rural,Aam Panna
+55,Mumbai,Maharashtra,17,Autumn,Medium,High,5,Excellent,Urban,Paneer Butter Masala
+90,Indore,Madhya Pradesh,16,Winter,High,High,4,Poor,Urban,Gajar ka Halwa
+68,Lucknow,Uttar Pradesh,23,Autumn,Low,Medium,9,Good,Rural,Roti with Dal Tadka
+77,Ludhiana,Punjab,37,Summer,Medium,High,9,Good,Urban,Kulfi
+57,Chennai,Tamil Nadu,29,Autumn,Medium,Medium,6,Excellent,Rural,Vegetable Pulao
+99,Jaipur,Rajasthan,25,Monsoon,Low,Low,9,Good,Rural,Quinoa Upma
+65,Bangalore,Karnataka,30,Monsoon,Medium,High,4,Average,Rural,Roti with Dal Tadka
+70,Bangalore,Karnataka,15,Monsoon,Low,Medium,6,Good,Rural,Roti with Dal Tadka
+56,Kochi,Kerala,38,Summer,Medium,Medium,8,Excellent,Urban,Paneer Butter Masala
+87,Nagpur,Maharashtra,16,Summer,Medium,Low,7,Poor,Urban,Paneer Butter Masala
+72,Nagpur,Maharashtra,36,Winter,Medium,Medium,5,Good,Urban,Sarson ka Saag with Makki di Roti
+89,Chennai,Tamil Nadu,18,Monsoon,High,High,5,Excellent,Rural,Roti with Dal Tadka
+86,Chennai,Tamil Nadu,15,Monsoon,Medium,High,8,Good,Rural,Chole Bhature
+72,Patna,Bihar,10,Summer,Medium,Low,5,Good,Urban,Quinoa Upma
+76,Ludhiana,Punjab,22,Summer,Low,Medium,9,Excellent,Rural,Aloo Gobi
+99,Ahmedabad,Gujarat,12,Monsoon,Low,Medium,5,Excellent,Rural,Pakoras with Chai
+96,Indore,Madhya Pradesh,10,Autumn,Medium,Low,5,Average,Urban,Tandoori Chicken Salad
+61,Hyderabad,Telangana,25,Winter,High,High,6,Excellent,Rural,Dal Makhani
+58,Bhopal,Madhya Pradesh,20,Monsoon,Low,Medium,7,Poor,Rural,Chole Bhature
+94,Delhi,Delhi,28,Summer,Low,Medium,5,Average,Rural,Curd Rice
+91,Indore,Madhya Pradesh,17,Monsoon,Medium,Low,5,Good,Urban,Moong Dal Khichdi
+80,Srinagar,Jammu and Kashmir,21,Autumn,Medium,High,4,Poor,Urban,Roti with Dal Tadka
+50,Indore,Madhya Pradesh,16,Winter,Low,Low,9,Good,Rural,Roti with Dal Tadka
+97,Lucknow,Uttar Pradesh,13,Monsoon,Medium,Medium,7,Good,Urban,Roti with Dal Tadka
+50,Chandigarh,Chandigarh,25,Summer,High,Medium,8,Average,Urban,Roti with Dal Tadka
+68,Indore,Madhya Pradesh,26,Winter,Low,High,4,Average,Rural,Moong Dal Khichdi
+66,Bhopal,Madhya Pradesh,19,Summer,Low,Medium,8,Average,Rural,Lemon Rice
+59,Patna,Bihar,38,Monsoon,Low,Medium,8,Excellent,Urban,Chole Bhature
+83,Ahmedabad,Gujarat,11,Summer,Low,High,8,Excellent,Rural,Vegetable Pulao
+61,Varanasi,Uttar Pradesh,31,Summer,High,Medium,7,Good,Rural,Chole Bhature
+83,Ahmedabad,Gujarat,13,Summer,Low,Low,5,Good,Urban,Sprout Salad
+81,Ahmedabad,Gujarat,39,Winter,Low,High,4,Poor,Rural,Sarson ka Saag with Makki di Roti
+73,Indore,Madhya Pradesh,28,Monsoon,Medium,Medium,9,Excellent,Urban,Samosa
+56,Jaipur,Rajasthan,33,Winter,Medium,High,8,Poor,Rural,Vegetable Pulao
+54,Bangalore,Karnataka,33,Monsoon,Low,Low,7,Good,Urban,Corn on the Cob (Bhutta)
+56,Chandigarh,Chandigarh,31,Autumn,High,Medium,6,Good,Rural,Roti with Dal Tadka
+57,Chandigarh,Chandigarh,31,Monsoon,Medium,Low,7,Excellent,Rural,Paneer Butter Masala
+77,Pune,Maharashtra,28,Winter,High,Medium,4,Poor,Rural,Gajar ka Halwa
+77,Varanasi,Uttar Pradesh,24,Autumn,High,Low,5,Average,Rural,Sprout Salad
+52,Hyderabad,Telangana,14,Winter,Low,High,4,Excellent,Rural,Gajar ka Halwa
+82,Nagpur,Maharashtra,25,Winter,Medium,High,8,Good,Rural,Kadai Paneer
+56,Lucknow,Uttar Pradesh,30,Winter,Medium,High,9,Average,Rural,Moong Dal Khichdi
+88,Kochi,Kerala,40,Monsoon,Medium,High,7,Excellent,Rural,Paneer Butter Masala
+57,Chandigarh,Chandigarh,23,Summer,High,Low,9,Average,Urban,Tandoori Chicken Salad
+57,Varanasi,Uttar Pradesh,36,Monsoon,High,Medium,4,Good,Rural,Chole Bhature
+100,Delhi,Delhi,22,Summer,High,High,7,Poor,Urban,Aloo Gobi
+75,Mumbai,Maharashtra,11,Summer,Medium,High,6,Poor,Urban,Chole Bhature
+51,Kolkata,West Bengal,20,Monsoon,Low,Medium,7,Poor,Urban,Pakoras with Chai
+80,Chandigarh,Chandigarh,25,Summer,High,Low,7,Poor,Urban,Aam Panna
+96,Bhopal,Madhya Pradesh,23,Monsoon,High,Low,9,Average,Urban,Corn on the Cob (Bhutta)
+57,Indore,Madhya Pradesh,42,Autumn,High,High,5,Excellent,Urban,Rajma Chawal
+72,Nagpur,Maharashtra,24,Summer,Low,Low,5,Good,Rural,Aam Panna
+95,Bangalore,Karnataka,18,Winter,Low,Medium,7,Average,Rural,Paneer Butter Masala
+59,Nagpur,Maharashtra,40,Autumn,Medium,High,9,Good,Urban,Kadai Paneer
+50,Indore,Madhya Pradesh,14,Monsoon,Low,High,9,Good,Urban,Dal Makhani
+65,Agra,Uttar Pradesh,13,Monsoon,Low,Low,7,Poor,Urban,Tandoori Chicken Salad
+95,Delhi,Delhi,22,Autumn,Low,Low,6,Excellent,Urban,Vegetable Pulao
+81,Delhi,Delhi,31,Winter,Low,Medium,4,Good,Rural,Aloo Gobi
+84,Mumbai,Maharashtra,12,Monsoon,Low,High,4,Poor,Rural,Moong Dal Khichdi
+80,Srinagar,Jammu and Kashmir,11,Autumn,High,High,5,Poor,Rural,Paneer Butter Masala
+98,Kolkata,West Bengal,20,Winter,High,Medium,6,Excellent,Rural,Sarson ka Saag with Makki di Roti
+98,Delhi,Delhi,25,Summer,Medium,High,7,Average,Rural,Aam Panna
+66,Hyderabad,Telangana,35,Summer,Low,Low,6,Excellent,Rural,Roti with Dal Tadka
+51,Bhopal,Madhya Pradesh,20,Autumn,Low,High,5,Excellent,Rural,Rajma Chawal
+96,Hyderabad,Telangana,35,Winter,Low,Low,8,Excellent,Rural,Gajar ka Halwa
+79,Ahmedabad,Gujarat,24,Monsoon,Low,Medium,5,Excellent,Rural,Paneer Butter Masala
+91,Varanasi,Uttar Pradesh,23,Autumn,High,Medium,9,Excellent,Urban,Aloo Gobi
+83,Varanasi,Uttar Pradesh,14,Winter,High,Low,9,Excellent,Urban,Mutton Rogan Josh
+76,Guwahati,Assam,24,Winter,Low,Low,8,Average,Rural,Quinoa Upma
+93,Bhopal,Madhya Pradesh,38,Monsoon,Medium,Low,8,Average,Urban,Pakoras with Chai
+96,Guwahati,Assam,34,Monsoon,Low,Medium,4,Excellent,Rural,Roti with Dal Tadka
+90,Ahmedabad,Gujarat,12,Monsoon,Medium,High,8,Excellent,Urban,Vegetable Pulao
+68,Kolkata,West Bengal,35,Winter,Medium,Medium,5,Good,Rural,Sarson ka Saag with Makki di Roti
+96,Srinagar,Jammu and Kashmir,39,Autumn,High,High,5,Poor,Urban,Rajma Chawal
+65,Srinagar,Jammu and Kashmir,16,Summer,Medium,Low,9,Average,Rural,Chole Bhature
+95,Delhi,Delhi,18,Summer,Low,Medium,5,Good,Rural,Paneer Butter Masala
+62,Jaipur,Rajasthan,33,Summer,Medium,High,5,Excellent,Urban,Aam Panna
+81,Surat,Gujarat,39,Winter,Medium,High,9,Average,Urban,Dal Makhani
+77,Kochi,Kerala,28,Summer,Low,Low,4,Excellent,Urban,Quinoa Upma
+69,Kolkata,West Bengal,22,Summer,Medium,High,5,Good,Rural,Paneer Butter Masala
+52,Indore,Madhya Pradesh,34,Monsoon,Medium,Medium,9,Good,Rural,Roti with Dal Tadka
+79,Patna,Bihar,29,Summer,Low,Medium,7,Excellent,Urban,Roti with Dal Tadka
+92,Bangalore,Karnataka,19,Winter,Low,Medium,9,Excellent,Urban,Chole Bhature
+73,Jaipur,Rajasthan,24,Summer,Medium,High,7,Poor,Rural,Curd Rice
+71,Kolkata,West Bengal,40,Winter,Medium,Medium,7,Good,Urban,Vegetable Pulao
+71,Pune,Maharashtra,19,Winter,High,Medium,6,Good,Urban,Roti with Dal Tadka
+99,Agra,Uttar Pradesh,34,Autumn,Medium,High,9,Average,Urban,Aloo Gobi
+54,Guwahati,Assam,34,Summer,Low,Medium,5,Poor,Rural,Curd Rice
+78,Chennai,Tamil Nadu,27,Winter,High,High,7,Good,Urban,Rajma Chawal
+80,Surat,Gujarat,36,Monsoon,High,High,8,Average,Rural,Moong Dal Khichdi
+72,Kolkata,West Bengal,17,Monsoon,Medium,High,7,Average,Rural,Kadai Paneer
+85,Chandigarh,Chandigarh,15,Autumn,High,Medium,6,Poor,Urban,Aloo Gobi
+83,Indore,Madhya Pradesh,30,Winter,Low,Low,8,Poor,Urban,Quinoa Upma
+85,Srinagar,Jammu and Kashmir,20,Autumn,Low,Medium,5,Poor,Urban,Chole Bhature
+87,Hyderabad,Telangana,24,Winter,Low,Low,7,Excellent,Urban,Sarson ka Saag with Makki di Roti
+94,Chandigarh,Chandigarh,24,Summer,Low,Medium,6,Good,Rural,Paneer Butter Masala
+63,Jaipur,Rajasthan,19,Autumn,High,Low,5,Excellent,Urban,Quinoa Upma
+56,Nagpur,Maharashtra,23,Winter,Medium,Medium,9,Poor,Rural,Gajar ka Halwa
+71,Kochi,Kerala,13,Winter,High,High,8,Excellent,Urban,Sarson ka Saag with Makki di Roti
+54,Indore,Madhya Pradesh,31,Summer,High,High,9,Average,Rural,Aam Panna
+77,Jaipur,Rajasthan,24,Summer,Medium,Medium,5,Average,Rural,Lemon Rice
+71,Varanasi,Uttar Pradesh,26,Monsoon,High,Medium,8,Good,Rural,Samosa
+74,Kochi,Kerala,22,Monsoon,Low,Low,8,Good,Urban,Paneer Butter Masala
+71,Agra,Uttar Pradesh,22,Monsoon,Low,High,6,Poor,Urban,Dal Makhani
+74,Mumbai,Maharashtra,25,Monsoon,High,Medium,4,Average,Urban,Chole Bhature
+64,Jaipur,Rajasthan,42,Winter,High,Medium,9,Poor,Urban,Vegetable Pulao
+56,Jaipur,Rajasthan,20,Autumn,High,Low,5,Good,Urban,Chole Bhature
+63,Pune,Maharashtra,11,Summer,Medium,High,8,Excellent,Rural,Aam Panna
+59,Ludhiana,Punjab,35,Summer,Medium,Medium,9,Excellent,Urban,Sprout Salad
+71,Delhi,Delhi,38,Summer,High,Medium,4,Poor,Rural,Aam Panna
+73,Ludhiana,Punjab,17,Summer,High,Medium,6,Average,Rural,Sprout Salad
+97,Surat,Gujarat,28,Monsoon,Low,Medium,6,Average,Urban,Pakoras with Chai
+52,Mumbai,Maharashtra,33,Autumn,High,Medium,8,Good,Rural,Vada Pav
+86,Varanasi,Uttar Pradesh,18,Summer,Low,Medium,8,Excellent,Urban,Paneer Butter Masala
+92,Ahmedabad,Gujarat,20,Autumn,High,Medium,6,Good,Urban,Vegetable Pulao
+72,Surat,Gujarat,14,Monsoon,High,Low,6,Good,Urban,Roti with Dal Tadka
+82,Srinagar,Jammu and Kashmir,36,Monsoon,Medium,High,9,Average,Rural,Roti with Dal Tadka
+60,Chennai,Tamil Nadu,39,Monsoon,Medium,Medium,7,Average,Rural,Chole Bhature
+72,Kolkata,West Bengal,22,Autumn,Medium,Medium,7,Average,Urban,Paneer Butter Masala
+65,Ludhiana,Punjab,28,Summer,High,High,6,Poor,Rural,Chole Bhature
+65,Jaipur,Rajasthan,37,Summer,Low,Medium,6,Good,Rural,Sprout Salad
+84,Srinagar,Jammu and Kashmir,27,Summer,High,Low,9,Poor,Urban,Aam Panna
+79,Srinagar,Jammu and Kashmir,13,Summer,High,High,8,Excellent,Urban,Roti with Dal Tadka
+95,Nagpur,Maharashtra,22,Winter,Low,High,4,Excellent,Rural,Dal Makhani
+56,Bangalore,Karnataka,36,Summer,Low,Low,8,Excellent,Rural,Quinoa Upma
+80,Kolkata,West Bengal,32,Winter,Medium,Low,7,Poor,Urban,Sarson ka Saag with Makki di Roti
+73,Agra,Uttar Pradesh,37,Autumn,Medium,Low,4,Average,Urban,Quinoa Upma
+92,Guwahati,Assam,19,Winter,High,High,6,Average,Urban,Kadai Paneer
+84,Bangalore,Karnataka,38,Winter,Medium,Medium,4,Average,Urban,Aloo Gobi
+62,Guwahati,Assam,31,Monsoon,High,Medium,9,Average,Rural,Chole Bhature
+50,Ahmedabad,Gujarat,22,Monsoon,Medium,High,5,Excellent,Rural,Aloo Gobi
+80,Pune,Maharashtra,18,Winter,High,High,4,Poor,Rural,Moong Dal Khichdi
+100,Chandigarh,Chandigarh,41,Autumn,Medium,High,4,Good,Urban,Chole Bhature
+81,Kolkata,West Bengal,41,Winter,Medium,High,8,Average,Urban,Sarson ka Saag with Makki di Roti
+74,Hyderabad,Telangana,37,Summer,Low,Medium,4,Excellent,Urban,Aam Panna
+86,Chennai,Tamil Nadu,33,Summer,Medium,Medium,6,Good,Urban,Sprout Salad
+81,Indore,Madhya Pradesh,37,Winter,High,Low,5,Good,Urban,Aloo Gobi
+96,Mumbai,Maharashtra,12,Monsoon,Low,High,8,Good,Rural,Vegetable Pulao
+56,Chennai,Tamil Nadu,11,Autumn,High,High,7,Excellent,Urban,Kadai Paneer
+92,Ludhiana,Punjab,15,Summer,Low,High,6,Good,Urban,Vegetable Pulao
+61,Ahmedabad,Gujarat,31,Winter,Medium,Medium,7,Poor,Rural,Dal Makhani
+69,Indore,Madhya Pradesh,20,Winter,Low,High,5,Excellent,Urban,Gajar ka Halwa
+74,Varanasi,Uttar Pradesh,42,Autumn,Medium,Low,6,Excellent,Rural,Quinoa Upma
+84,Hyderabad,Telangana,27,Autumn,Medium,Medium,5,Good,Urban,Aloo Gobi
+51,Delhi,Delhi,12,Autumn,Medium,Low,6,Poor,Urban,Roti with Dal Tadka
+67,Indore,Madhya Pradesh,32,Summer,Low,Medium,9,Excellent,Urban,Chole Bhature
+61,Pune,Maharashtra,26,Summer,Low,Medium,8,Average,Rural,Roti with Dal Tadka
+88,Mumbai,Maharashtra,10,Monsoon,Medium,Low,9,Good,Urban,Quinoa Upma
+57,Nagpur,Maharashtra,23,Winter,Medium,Low,9,Poor,Rural,Mutton Rogan Josh
+72,Guwahati,Assam,10,Autumn,High,High,6,Average,Rural,Aloo Gobi
+72,Jaipur,Rajasthan,13,Monsoon,High,Medium,9,Excellent,Rural,Paneer Butter Masala
+74,Surat,Gujarat,34,Summer,Low,High,9,Good,Rural,Rajma Chawal
+77,Patna,Bihar,34,Winter,Medium,Medium,9,Average,Urban,Sarson ka Saag with Makki di Roti
+78,Hyderabad,Telangana,15,Winter,High,Medium,6,Good,Urban,Chole Bhature
+66,Ahmedabad,Gujarat,39,Monsoon,Medium,High,5,Average,Rural,Roti with Dal Tadka
+98,Visakhapatnam,Andhra Pradesh,35,Monsoon,Low,Low,6,Average,Rural,Tandoori Chicken Salad
+65,Jaipur,Rajasthan,10,Monsoon,High,Low,9,Poor,Rural,Moong Dal Khichdi
+73,Ahmedabad,Gujarat,40,Summer,Medium,Low,7,Poor,Urban,Tandoori Chicken Salad
+95,Kolkata,West Bengal,37,Summer,High,Low,8,Poor,Urban,Curd Rice
+57,Ahmedabad,Gujarat,26,Summer,Medium,Low,6,Average,Rural,Sprout Salad
+84,Bangalore,Karnataka,40,Winter,Medium,Low,6,Excellent,Urban,Aloo Gobi
+56,Indore,Madhya Pradesh,28,Autumn,Medium,Medium,5,Good,Urban,Roti with Dal Tadka
+80,Hyderabad,Telangana,10,Summer,High,Low,7,Average,Rural,Vegetable Pulao
+68,Delhi,Delhi,37,Monsoon,Medium,Low,6,Excellent,Urban,Tandoori Chicken Salad
+72,Kochi,Kerala,16,Summer,Low,Low,9,Poor,Rural,Chole Bhature
+90,Chandigarh,Chandigarh,42,Monsoon,High,High,6,Average,Rural,Aloo Gobi
+50,Kolkata,West Bengal,18,Winter,High,Low,5,Good,Rural,Oats Idli
+100,Hyderabad,Telangana,42,Summer,Medium,Medium,7,Good,Urban,Vegetable Pulao
+59,Srinagar,Jammu and Kashmir,21,Summer,Low,Low,8,Poor,Rural,Roti with Dal Tadka
+96,Ludhiana,Punjab,36,Winter,Medium,Medium,4,Average,Rural,Roti with Dal Tadka
+57,Patna,Bihar,13,Winter,Low,Medium,9,Average,Urban,Vegetable Pulao
+96,Guwahati,Assam,32,Summer,Medium,Low,9,Poor,Urban,Oats Idli
+75,Varanasi,Uttar Pradesh,36,Winter,Medium,Low,7,Average,Urban,Oats Idli
+53,Bhopal,Madhya Pradesh,28,Monsoon,Medium,High,4,Excellent,Rural,Dal Makhani
+73,Jaipur,Rajasthan,33,Winter,Low,Low,7,Good,Rural,Tandoori Chicken Salad
+58,Indore,Madhya Pradesh,35,Winter,Medium,Low,8,Average,Urban,Chole Bhature
+56,Chandigarh,Chandigarh,29,Autumn,Low,Low,5,Good,Urban,Quinoa Upma
+88,Bangalore,Karnataka,18,Winter,Low,Medium,5,Poor,Urban,Aloo Gobi
+68,Ahmedabad,Gujarat,26,Autumn,High,Low,7,Excellent,Rural,Vegetable Pulao
+80,Kolkata,West Bengal,13,Monsoon,High,High,8,Good,Urban,Paneer Butter Masala
+94,Guwahati,Assam,29,Summer,Low,Low,8,Good,Urban,Paneer Butter Masala
+87,Patna,Bihar,20,Autumn,Low,Low,4,Poor,Urban,Chole Bhature
+82,Kolkata,West Bengal,21,Autumn,Low,Low,6,Good,Rural,Quinoa Upma
+90,Mumbai,Maharashtra,40,Autumn,Medium,Medium,9,Average,Urban,Roti with Dal Tadka
+56,Kochi,Kerala,32,Monsoon,High,Low,4,Good,Rural,Oats Idli
+56,Jaipur,Rajasthan,41,Autumn,High,Low,4,Good,Rural,Vegetable Pulao
+68,Chandigarh,Chandigarh,11,Winter,Low,Low,9,Excellent,Rural,Mutton Rogan Josh
+51,Bangalore,Karnataka,28,Monsoon,Medium,High,6,Excellent,Urban,Dal Makhani
+99,Agra,Uttar Pradesh,42,Monsoon,High,Medium,5,Average,Rural,Aloo Gobi
+99,Lucknow,Uttar Pradesh,17,Monsoon,Medium,Low,5,Average,Rural,Corn on the Cob (Bhutta)
+86,Bangalore,Karnataka,31,Summer,Low,Low,4,Good,Rural,Vegetable Pulao
+61,Jaipur,Rajasthan,27,Monsoon,Low,Medium,4,Poor,Urban,Moong Dal Khichdi
+68,Indore,Madhya Pradesh,41,Winter,Low,High,8,Excellent,Rural,Paneer Butter Masala
+96,Varanasi,Uttar Pradesh,34,Monsoon,High,High,7,Poor,Urban,Rajma Chawal
+94,Bhopal,Madhya Pradesh,33,Summer,Medium,Low,6,Poor,Urban,Curd Rice
+50,Kolkata,West Bengal,27,Monsoon,Medium,Medium,6,Poor,Urban,Moong Dal Khichdi
+81,Delhi,Delhi,16,Autumn,Low,Low,7,Good,Urban,Aloo Gobi
+66,Bangalore,Karnataka,11,Summer,High,Low,4,Poor,Rural,Tandoori Chicken Salad
+97,Kochi,Kerala,15,Winter,Low,High,4,Excellent,Rural,Mutton Rogan Josh
+82,Bangalore,Karnataka,40,Summer,Medium,Low,4,Excellent,Urban,Oats Idli
+94,Pune,Maharashtra,33,Autumn,High,Medium,7,Good,Rural,Roti with Dal Tadka
+76,Srinagar,Jammu and Kashmir,18,Summer,High,Medium,8,Poor,Rural,Sprout Salad
+97,Guwahati,Assam,22,Autumn,High,Medium,9,Poor,Urban,Chole Bhature
+93,Hyderabad,Telangana,24,Summer,High,Medium,4,Average,Urban,Paneer Butter Masala
+54,Ludhiana,Punjab,24,Winter,Medium,Low,5,Average,Rural,Roti with Dal Tadka
+89,Lucknow,Uttar Pradesh,12,Autumn,High,Medium,8,Excellent,Rural,Vegetable Pulao
+89,Kochi,Kerala,31,Autumn,High,High,5,Average,Rural,Kadai Paneer
+59,Delhi,Delhi,16,Winter,Low,Low,6,Poor,Rural,Tandoori Chicken Salad
+54,Visakhapatnam,Andhra Pradesh,22,Monsoon,High,Low,4,Poor,Rural,Tandoori Chicken Salad
+74,Ludhiana,Punjab,36,Monsoon,High,Low,5,Excellent,Urban,Sprout Salad
+57,Visakhapatnam,Andhra Pradesh,38,Winter,Medium,Medium,4,Excellent,Rural,Chole Bhature
+76,Agra,Uttar Pradesh,14,Winter,High,High,6,Good,Urban,Roti with Dal Tadka
+91,Srinagar,Jammu and Kashmir,28,Winter,Medium,High,6,Average,Urban,Gajar ka Halwa
+75,Lucknow,Uttar Pradesh,31,Summer,High,Medium,8,Average,Rural,Paneer Butter Masala
+79,Bangalore,Karnataka,15,Summer,Medium,Low,5,Excellent,Urban,Curd Rice
