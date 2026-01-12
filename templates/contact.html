@@ -1,0 +1,375 @@
+{% extends "base.html" %} {% block content %}
+<div class="max-w-2xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+  <!-- Page Header -->
+  <div class="mb-12 text-center">
+    <h1 class="text-4xl font-extrabold text-gray-900 mb-4">Get In Touch</h1>
+    <p class="text-lg text-gray-600">
+      Have questions or feedback? We'd love to hear from you.
+    </p>
+  </div>
+
+  <!-- Contact Form -->
+  <div class="bg-white rounded-lg shadow-lg p-8">
+    <form id="contactForm" novalidate>
+      <!-- Error Messages Container -->
+      <div
+        id="formErrors"
+        class="hidden mb-6 p-4 bg-red-50 border border-red-200 rounded-lg"
+      >
+        <h3 class="text-red-800 font-semibold mb-2">
+          Please fix the following errors:
+        </h3>
+        <ul
+          id="errorList"
+          class="list-disc list-inside text-red-700 space-y-1"
+        ></ul>
+      </div>
+
+      <!-- Success Message Container -->
+      <div
+        id="successMessage"
+        class="hidden mb-6 p-4 bg-green-50 border border-green-200 rounded-lg text-green-700"
+      >
+        Thank you for your message! We'll get back to you soon.
+      </div>
+
+      <!-- Name Field -->
+      <div class="mb-6">
+        <label for="name" class="block text-sm font-medium text-gray-700 mb-2">
+          Full Name <span class="text-red-500">*</span>
+        </label>
+        <input
+          type="text"
+          id="name"
+          name="name"
+          placeholder="John Doe"
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent outline-none transition"
+          required
+        />
+        <span
+          class="hidden text-red-500 text-sm mt-1 inline-block"
+          id="nameError"
+        ></span>
+      </div>
+
+      <!-- Email Field -->
+      <div class="mb-6">
+        <label for="email" class="block text-sm font-medium text-gray-700 mb-2">
+          Email Address <span class="text-red-500">*</span>
+        </label>
+        <input
+          type="email"
+          id="email"
+          name="email"
+          placeholder="john@example.com"
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent outline-none transition"
+          required
+        />
+        <span
+          class="hidden text-red-500 text-sm mt-1 inline-block"
+          id="emailError"
+        ></span>
+      </div>
+
+      <!-- Phone Field -->
+      <div class="mb-6">
+        <label for="phone" class="block text-sm font-medium text-gray-700 mb-2">
+          Phone Number <span class="text-red-500">*</span>
+        </label>
+        <input
+          type="tel"
+          id="phone"
+          name="phone"
+          placeholder="+1 (555) 123-4567"
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent outline-none transition"
+          required
+        />
+        <span
+          class="hidden text-red-500 text-sm mt-1 inline-block"
+          id="phoneError"
+        ></span>
+      </div>
+
+      <!-- Subject Field -->
+      <div class="mb-6">
+        <label
+          for="subject"
+          class="block text-sm font-medium text-gray-700 mb-2"
+        >
+          Subject <span class="text-red-500">*</span>
+        </label>
+        <select
+          id="subject"
+          name="subject"
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent outline-none transition"
+          required
+        >
+          <option value="">-- Select a subject --</option>
+          <option value="feedback">Feedback</option>
+          <option value="bug">Report a Bug</option>
+          <option value="feature">Feature Request</option>
+          <option value="question">General Question</option>
+          <option value="other">Other</option>
+        </select>
+        <span
+          class="hidden text-red-500 text-sm mt-1 inline-block"
+          id="subjectError"
+        ></span>
+      </div>
+
+      <!-- Message Field -->
+      <div class="mb-6">
+        <label
+          for="message"
+          class="block text-sm font-medium text-gray-700 mb-2"
+        >
+          Message <span class="text-red-500">*</span>
+        </label>
+        <textarea
+          id="message"
+          name="message"
+          rows="6"
+          placeholder="Enter your message here..."
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent outline-none transition resize-vertical"
+          required
+        ></textarea>
+        <span
+          class="hidden text-red-500 text-sm mt-1 inline-block"
+          id="messageError"
+        ></span>
+        <p class="text-gray-500 text-xs mt-2">
+          Minimum 10 characters required.
+        </p>
+      </div>
+
+      <!-- Checkbox Field -->
+      <div class="mb-6">
+        <label for="agree" class="flex items-center">
+          <input
+            type="checkbox"
+            id="agree"
+            name="agree"
+            class="w-4 h-4 text-green-600 border border-gray-300 rounded focus:ring-2 focus:ring-green-500 cursor-pointer"
+            required
+          />
+          <span class="ml-2 text-sm text-gray-700">
+            I agree to the terms and conditions
+            <span class="text-red-500">*</span>
+          </span>
+        </label>
+        <span
+          class="hidden text-red-500 text-sm mt-1 inline-block"
+          id="agreeError"
+        ></span>
+      </div>
+
+      <!-- Submit Button -->
+      <div class="flex gap-4">
+        <button
+          type="submit"
+          class="flex-1 bg-green-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-green-700 transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-green-500"
+        >
+          <i class="fas fa-paper-plane mr-2"></i>Send Message
+        </button>
+        <button
+          type="reset"
+          class="flex-1 bg-gray-300 text-gray-800 py-3 px-6 rounded-lg font-semibold hover:bg-gray-400 transition duration-300 ease-in-out focus:outline-none focus:ring-2 focus:ring-gray-500"
+        >
+          Clear Form
+        </button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Contact Info Section -->
+  <div class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8">
+    <div class="text-center">
+      <div class="flex justify-center mb-4">
+        <div
+          class="flex items-center justify-center h-12 w-12 rounded-full bg-green-100 text-green-600"
+        >
+          <i class="fas fa-envelope text-xl"></i>
+        </div>
+      </div>
+      <h3 class="text-lg font-semibold text-gray-900 mb-2">Email</h3>
+      <p class="text-gray-600">contact@fitwise.com</p>
+    </div>
+    <div class="text-center">
+      <div class="flex justify-center mb-4">
+        <div
+          class="flex items-center justify-center h-12 w-12 rounded-full bg-green-100 text-green-600"
+        >
+          <i class="fas fa-phone text-xl"></i>
+        </div>
+      </div>
+      <h3 class="text-lg font-semibold text-gray-900 mb-2">Phone</h3>
+      <p class="text-gray-600">+1 (555) 123-4567</p>
+    </div>
+    <div class="text-center">
+      <div class="flex justify-center mb-4">
+        <div
+          class="flex items-center justify-center h-12 w-12 rounded-full bg-green-100 text-green-600"
+        >
+          <i class="fas fa-map-marker-alt text-xl"></i>
+        </div>
+      </div>
+      <h3 class="text-lg font-semibold text-gray-900 mb-2">Address</h3>
+      <p class="text-gray-600">123 Health Street, Wellness City</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Form Validation Script
+  const contactForm = document.getElementById("contactForm");
+  const formErrors = document.getElementById("formErrors");
+  const errorList = document.getElementById("errorList");
+  const successMessage = document.getElementById("successMessage");
+
+  // Validation rules
+  const validators = {
+    name: {
+      validate: (value) => value.trim().length >= 2,
+      message: "Name must be at least 2 characters long",
+    },
+    email: {
+      validate: (value) => {
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        return emailRegex.test(value);
+      },
+      message: "Please enter a valid email address",
+    },
+    phone: {
+      validate: (value) => {
+        const phoneRegex = /^[\d\s\-\+\(\)]{10,}$/;
+        return phoneRegex.test(value.replace(/\s/g, ""));
+      },
+      message: "Please enter a valid phone number (at least 10 digits)",
+    },
+    subject: {
+      validate: (value) => value.trim() !== "",
+      message: "Please select a subject",
+    },
+    message: {
+      validate: (value) => value.trim().length >= 10,
+      message: "Message must be at least 10 characters long",
+    },
+    agree: {
+      validate: (checked) => checked,
+      message: "You must agree to the terms and conditions",
+    },
+  };
+
+  // Validate single field
+  function validateField(fieldName) {
+    const field = document.getElementById(fieldName);
+    const errorElement = document.getElementById(`${fieldName}Error`);
+    const validator = validators[fieldName];
+
+    if (!validator) return true;
+
+    let isValid = false;
+    let value = field.type === "checkbox" ? field.checked : field.value;
+
+    isValid = validator.validate(value);
+
+    if (!isValid) {
+      field.classList.add("border-red-500", "bg-red-50");
+      errorElement.textContent = validator.message;
+      errorElement.classList.remove("hidden");
+      return false;
+    } else {
+      field.classList.remove("border-red-500", "bg-red-50");
+      errorElement.classList.add("hidden");
+      return true;
+    }
+  }
+
+  // Real-time validation on input
+  Object.keys(validators).forEach((fieldName) => {
+    const field = document.getElementById(fieldName);
+    if (field) {
+      const eventType = field.type === "checkbox" ? "change" : "blur";
+      field.addEventListener(eventType, () => {
+        validateField(fieldName);
+      });
+
+      // Clear error on focus
+      field.addEventListener("focus", () => {
+        const errorElement = document.getElementById(`${fieldName}Error`);
+        field.classList.remove("border-red-500", "bg-red-50");
+        errorElement.classList.add("hidden");
+      });
+    }
+  });
+
+  // Validate entire form
+  function validateForm() {
+    errorList.innerHTML = "";
+    formErrors.classList.add("hidden");
+    successMessage.classList.add("hidden");
+
+    const errors = [];
+    const fieldNames = Object.keys(validators);
+
+    fieldNames.forEach((fieldName) => {
+      if (!validateField(fieldName)) {
+        const validator = validators[fieldName];
+        errors.push(validator.message);
+      }
+    });
+
+    if (errors.length > 0) {
+      errors.forEach((error) => {
+        const li = document.createElement("li");
+        li.textContent = error;
+        errorList.appendChild(li);
+      });
+      formErrors.classList.remove("hidden");
+      formErrors.scrollIntoView({ behavior: "smooth", block: "start" });
+      return false;
+    }
+
+    return true;
+  }
+
+  // Form submission
+  contactForm.addEventListener("submit", (e) => {
+    e.preventDefault();
+
+    if (validateForm()) {
+      // Show success message
+      successMessage.classList.remove("hidden");
+      successMessage.scrollIntoView({ behavior: "smooth", block: "start" });
+
+      // Collect form data
+      const formData = {
+        name: document.getElementById("name").value,
+        email: document.getElementById("email").value,
+        phone: document.getElementById("phone").value,
+        subject: document.getElementById("subject").value,
+        message: document.getElementById("message").value,
+      };
+
+      console.log("Form submitted with data:", formData);
+
+      // Reset form after 2 seconds
+      setTimeout(() => {
+        contactForm.reset();
+        successMessage.classList.add("hidden");
+      }, 2000);
+
+      // TODO: Send data to backend API
+      // Example: fetch('/api/contact', { method: 'POST', body: JSON.stringify(formData) })
+    }
+  });
+
+  // Clear error styling on input change
+  const inputFields = contactForm.querySelectorAll("input, textarea, select");
+  inputFields.forEach((field) => {
+    field.addEventListener("input", () => {
+      field.classList.remove("border-red-500", "bg-red-50");
+    });
+  });
+</script>
+{% endblock %}
