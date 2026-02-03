@@ -1,124 +1,190 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>FitWise - Smart Food Recommendations</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FitWise - Smart Food Recommendations</title>
 
-<script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
 
-<style>
-body { font-family: "Inter", sans-serif; }
+  <style>
+    body { font-family: "Inter", sans-serif; }
 
-nav {
-display:flex;
-justify-content:space-between;
-align-items:center;
-padding:1rem;
-position:relative;
-}
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem;
+      position: relative;
+    }
 
-.nav-menu {
-display:flex;
-gap:1rem;
-list-style:none;
-}
+    .nav-menu {
+      display: flex;
+      gap: 1rem;
+      list-style: none;
+    }
 
-.nav-menu a {
-color:#4b5563;
-text-decoration:none;
-font-weight:500;
-}
+    .nav-menu a {
+      color: #4b5563;
+      text-decoration: none;
+      font-weight: 500;
+    }
 
-.nav-menu a:hover { color:#16a34a; }
+    .nav-menu a:hover { color: #16a34a; }
 
-.btn-signup {
-background:#16a34a;
-color:white;
-padding:0.5rem 1rem;
-border-radius:6px;
-}
+    .btn-signup {
+      background: #16a34a;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+    }
 
-.hamburger {
-display:none;
-flex-direction:column;
-cursor:pointer;
-gap:5px;
-}
+    .hamburger {
+      display: none;
+      flex-direction: column;
+      cursor: pointer;
+      gap: 5px;
+    }
 
-.hamburger span {
-width:25px;
-height:3px;
-background:#16a34a;
-}
+    .hamburger span {
+      width: 25px;
+      height: 3px;
+      background: #16a34a;
+    }
 
-.mobile-menu {
-display:none;
-flex-direction:column;
-background:white;
-position:absolute;
-top:100%;
-left:0;
-right:0;
-padding:1rem;
-box-shadow:0 4px 6px rgba(0,0,0,0.1);
-}
+    .mobile-menu {
+      display: none;
+      flex-direction: column;
+      background: white;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      padding: 1rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
 
-.mobile-menu.active { display:flex; }
+    .mobile-menu.active { display: flex; }
 
-@media(max-width:768px){
-.nav-menu { display:none; }
-.hamburger { display:flex; }
-}
-</style>
+    @media (max-width: 768px) {
+      .nav-menu { display: none; }
+      .hamburger { display: flex; }
+    }
+
+    /* Footer Styles */
+    .footer {
+      background: white;
+      color: #4b5563;
+      padding: 2rem 1rem;
+      border-top: 1px solid #e5e7eb;
+      margin-top: auto;
+    }
+
+    .footer-content {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
+
+    .footer-links a {
+      color: #4b5563;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .footer-links a:hover { color: #16a34a; }
+
+    .footer-social {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+    }
+
+    .footer-social a {
+      color: #4b5563;
+      font-size: 1.2rem;
+    }
+
+    .footer-social a:hover { color: #16a34a; }
+
+    @media (max-width: 600px) {
+      .footer-links { flex-direction: column; gap: 1rem; }
+    }
+  </style>
 </head>
 
-<body class="bg-gray-100">
+<body class="bg-gray-100 flex flex-col min-h-screen">
+  <nav class="bg-white shadow-md">
+    <a href="{{ url_for('index') }}" class="font-bold text-2xl text-green-600">
+      <i class="fas fa-leaf mr-2"></i>FitWise
+    </a>
 
-<nav class="bg-white shadow-md">
-  <a href="{{ url_for('index') }}" class="font-bold text-2xl text-green-600">
-    <i class="fas fa-leaf mr-2"></i>FitWise
-  </a>
+    <ul class="nav-menu">
+      {% if current_user.is_authenticated %}
+      <li><a href="{{ url_for('dashboard') }}">Dashboard</a></li>
+      <li><a href="{{ url_for('contact') }}">Contact</a></li>
+      <li><a href="{{ url_for('logout') }}">Logout</a></li>
+      {% else %}
+      <li><a href="{{ url_for('contact') }}">Contact</a></li>
+      <li><a href="{{ url_for('login') }}">Login</a></li>
+      <li><a href="{{ url_for('signup') }}" class="btn-signup">Sign Up</a></li>
+      {% endif %}
+    </ul>
 
-  <ul class="nav-menu">
-    {% if current_user.is_authenticated %}
-    <li><a href="{{ url_for('dashboard') }}">Dashboard</a></li>
-    <li><a href="{{ url_for('contact') }}">Contact</a></li>
-    <li><a href="{{ url_for('logout') }}">Logout</a></li>
-    {% else %}
-    <li><a href="{{ url_for('contact') }}">Contact</a></li>
-    <li><a href="{{ url_for('login') }}">Login</a></li>
-    <li><a href="{{ url_for('signup') }}" class="btn-signup">Sign Up</a></li>
-    {% endif %}
-  </ul>
+    <div class="hamburger" id="hamburger">
+      <span></span><span></span><span></span>
+    </div>
 
-  <div class="hamburger" id="hamburger">
-    <span></span><span></span><span></span>
-  </div>
+    <div class="mobile-menu" id="mobileMenu">
+      {% if current_user.is_authenticated %}
+      <a href="{{ url_for('dashboard') }}">Dashboard</a>
+      <a href="{{ url_for('contact') }}">Contact</a>
+      <a href="{{ url_for('logout') }}">Logout</a>
+      {% else %}
+      <a href="{{ url_for('contact') }}">Contact</a>
+      <a href="{{ url_for('login') }}">Login</a>
+      <a href="{{ url_for('signup') }}" class="btn-signup">Sign Up</a>
+      {% endif %}
+    </div>
+  </nav>
 
-  <div class="mobile-menu" id="mobileMenu">
-    {% if current_user.is_authenticated %}
-    <a href="{{ url_for('dashboard') }}">Dashboard</a>
-    <a href="{{ url_for('contact') }}">Contact</a>
-    <a href="{{ url_for('logout') }}">Logout</a>
-    {% else %}
-    <a href="{{ url_for('contact') }}">Contact</a>
-    <a href="{{ url_for('login') }}">Login</a>
-    <a href="{{ url_for('signup') }}" class="btn-signup">Sign Up</a>
-    {% endif %}
-  </div>
-</nav>
+  <!-- Your page content goes here -->
+  {% block content %}{% endblock %}
 
-<script>
-const hamburger = document.getElementById("hamburger");
-const mobileMenu = document.getElementById("mobileMenu");
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-links">
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+        <a href="#">Privacy Policy</a>
+      </div>
+      <div class="footer-social">
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+  </footer>
 
-hamburger.addEventListener("click", ()=>{
-hamburger.classList.toggle("active");
-mobileMenu.classList.toggle("active");
-});
-</script>
+  <script>  
+    const hamburger = document.getElementById("hamburger");
+    const mobileMenu = document.getElementById("mobileMenu");
 
+    hamburger.addEventListener("click", () => {
+      hamburger.classList.toggle("active");
+      mobileMenu.classList.toggle("active");
+    });
+  </script>
 </body>
 </html>
